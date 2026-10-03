@@ -1,0 +1,197 @@
+{
+ "sfx.rifle": [
+  "sfx.rifle.wav"
+ ],
+ "sfx.carbine": [
+  "sfx.carbine.wav"
+ ],
+ "sfx.mg": [
+  "sfx.mg.wav"
+ ],
+ "sfx.hmg": [
+  "sfx.hmg.wav"
+ ],
+ "sfx.sniper": [
+  "sfx.sniper.wav"
+ ],
+ "sfx.mortar_launch": [
+  "sfx.mortar_launch.wav"
+ ],
+ "sfx.mortar_whistle": [
+  "sfx.mortar_whistle.wav"
+ ],
+ "sfx.explosion": [
+  "sfx.explosion.0.wav",
+  "sfx.explosion.1.wav"
+ ],
+ "sfx.explosion_big": [
+  "sfx.explosion_big.wav"
+ ],
+ "sfx.satchel_plant": [
+  "sfx.satchel_plant.wav"
+ ],
+ "sfx.satchel_fuse": [
+  "sfx.satchel_fuse.wav"
+ ],
+ "sfx.bullet_hit": [
+  "sfx.bullet_hit.wav"
+ ],
+ "sfx.ricochet": [
+  "sfx.ricochet.0.wav",
+  "sfx.ricochet.1.wav"
+ ],
+ "sfx.wall_crumble": [
+  "sfx.wall_crumble.wav"
+ ],
+ "sfx.footsteps": [
+  "sfx.footsteps.wav"
+ ],
+ "sfx.cannon": [
+  "sfx.cannon.wav"
+ ],
+ "sfx.bazooka": [
+  "sfx.bazooka.wav"
+ ],
+ "sfx.rocket_hit": [
+  "sfx.rocket_hit.wav"
+ ],
+ "sfx.grenade_throw": [
+  "sfx.grenade_throw.wav"
+ ],
+ "sfx.grenade_hit": [
+  "sfx.grenade_hit.wav"
+ ],
+ "sfx.mine_hit": [
+  "sfx.mine_hit.wav"
+ ],
+ "sfx.vehicle_mg": [
+  "sfx.vehicle_mg.wav"
+ ],
+ "sfx.coax_mg": [
+  "sfx.coax_mg.wav"
+ ],
+ "sfx.smg": [
+  "sfx.smg.wav"
+ ],
+ "sfx.bullet_hit_vehicle": [
+  "sfx.bullet_hit_vehicle.wav"
+ ],
+ "sfx.vehicle_hit": [
+  "sfx.vehicle_hit.0.wav",
+  "sfx.vehicle_hit.1.wav"
+ ],
+ "sfx.vehicle_destroyed": [
+  "sfx.vehicle_destroyed.wav"
+ ],
+ "sfx.engine_jeep": [
+  "sfx.engine_jeep.wav"
+ ],
+ "sfx.engine_tank": [
+  "sfx.engine_tank.wav"
+ ],
+ "sfx.engine_halftrack": [
+  "sfx.engine_halftrack.wav"
+ ],
+ "sfx.engine_truck": [
+  "sfx.engine_truck.wav"
+ ],
+ "sfx.squash": [
+  "sfx.squash.wav"
+ ],
+ "sfx.flame_begin": [
+  "sfx.flame_begin.wav"
+ ],
+ "sfx.flame_loop": [
+  "sfx.flame_loop.wav"
+ ],
+ "sfx.flame_end": [
+  "sfx.flame_end.wav"
+ ],
+ "sfx.flame_hit": [
+  "sfx.flame_hit.wav"
+ ],
+ "sfx.chopper": [
+  "sfx.chopper.wav"
+ ],
+ "sfx.plane": [
+  "sfx.plane.wav"
+ ],
+ "sfx.air_raid": [
+  "sfx.air_raid.wav"
+ ],
+ "vo.select": [
+  "vo.select.0.wav",
+  "vo.select.1.wav"
+ ],
+ "vo.move": [
+  "vo.move.0.wav",
+  "vo.move.1.wav",
+  "vo.move.2.wav"
+ ],
+ "vo.attack": [
+  "vo.attack.0.wav",
+  "vo.attack.1.wav",
+  "vo.attack.2.wav"
+ ],
+ "vo.barrage": [
+  "vo.barrage.wav"
+ ],
+ "vo.satchel": [
+  "vo.satchel.0.wav",
+  "vo.satchel.1.wav"
+ ],
+ "vo.pinned": [
+  "vo.pinned.wav"
+ ],
+ "vo.under_fire": [
+  "vo.under_fire.wav"
+ ],
+ "vo.man_down": [
+  "vo.man_down.0.wav",
+  "vo.man_down.1.wav",
+  "vo.man_down.2.wav"
+ ],
+ "vo.hit": [
+  "vo.hit.wav"
+ ],
+ "vo.spotted": [
+  "vo.spotted.0.wav",
+  "vo.spotted.1.wav"
+ ],
+ "vo.death": [
+  "vo.death.0.wav",
+  "vo.death.1.wav",
+  "vo.death.2.wav",
+  "vo.death.3.wav",
+  "vo.death.4.wav",
+  "vo.death.5.wav",
+  "vo.death.6.wav",
+  "vo.death.7.wav"
+ ],
+ "vo.broken": [
+  "vo.broken.wav"
+ ],
+ "vo.air_strike": [
+  "vo.air_strike.wav"
+ ],
+ "vo.paras": [
+  "vo.paras.0.wav",
+  "vo.paras.1.wav"
+ ],
+ "vo.recon": [
+  "vo.recon.0.wav",
+  "vo.recon.1.wav"
+ ],
+ "ui.click": [
+  "ui.click.wav"
+ ],
+ "ui.victory": [
+  "ui.victory.wav"
+ ],
+ "ui.defeat": [
+  "ui.defeat.wav"
+ ],
+ "music.title": [
+  "music.title.wav"
+ ]
+}

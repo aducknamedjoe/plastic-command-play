@@ -1,0 +1,758 @@
+{
+ "frames": {
+  "fort_intact_post": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 14,
+    "h": 44
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 14,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 14,
+    "h": 44
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.863636
+   }
+  },
+  "fort_intact_arm_xn": {
+   "frame": {
+    "x": 16,
+    "y": 0,
+    "w": 16,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 45
+   },
+   "anchor": {
+    "x": 1.0,
+    "y": 0.711111
+   }
+  },
+  "fort_intact_arm_yn": {
+   "frame": {
+    "x": 34,
+    "y": 0,
+    "w": 16,
+    "h": 46
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 46
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 46
+   },
+   "anchor": {
+    "x": 1.0,
+    "y": 1.0
+   }
+  },
+  "fort_intact_arm_xp": {
+   "frame": {
+    "x": 52,
+    "y": 0,
+    "w": 16,
+    "h": 46
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 46
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 46
+   },
+   "anchor": {
+    "x": 0.0,
+    "y": 1.0
+   }
+  },
+  "fort_intact_arm_yp": {
+   "frame": {
+    "x": 70,
+    "y": 0,
+    "w": 16,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 45
+   },
+   "anchor": {
+    "x": 0.0,
+    "y": 0.711111
+   }
+  },
+  "fort_damaged_post": {
+   "frame": {
+    "x": 88,
+    "y": 0,
+    "w": 14,
+    "h": 43
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 14,
+    "h": 43
+   },
+   "sourceSize": {
+    "w": 14,
+    "h": 43
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.860465
+   }
+  },
+  "fort_damaged_arm_xn": {
+   "frame": {
+    "x": 104,
+    "y": 0,
+    "w": 16,
+    "h": 37
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 37
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 37
+   },
+   "anchor": {
+    "x": 1.0,
+    "y": 0.648649
+   }
+  },
+  "fort_damaged_arm_yn": {
+   "frame": {
+    "x": 122,
+    "y": 0,
+    "w": 16,
+    "h": 42
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 42
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 42
+   },
+   "anchor": {
+    "x": 1.0,
+    "y": 1.0
+   }
+  },
+  "fort_damaged_arm_xp": {
+   "frame": {
+    "x": 140,
+    "y": 0,
+    "w": 16,
+    "h": 43
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 43
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 43
+   },
+   "anchor": {
+    "x": 0.0,
+    "y": 1.0
+   }
+  },
+  "fort_damaged_arm_yp": {
+   "frame": {
+    "x": 158,
+    "y": 0,
+    "w": 16,
+    "h": 42
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 42
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 42
+   },
+   "anchor": {
+    "x": 0.0,
+    "y": 0.690476
+   }
+  },
+  "fort_destroyed_post": {
+   "frame": {
+    "x": 176,
+    "y": 0,
+    "w": 16,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 19
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.631579
+   }
+  },
+  "fort_destroyed_arm_xn": {
+   "frame": {
+    "x": 194,
+    "y": 0,
+    "w": 16,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 19
+   },
+   "anchor": {
+    "x": 1.0625,
+    "y": 0.315789
+   }
+  },
+  "fort_destroyed_arm_yn": {
+   "frame": {
+    "x": 212,
+    "y": 0,
+    "w": 14,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 14,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 14,
+    "h": 18
+   },
+   "anchor": {
+    "x": 1.214286,
+    "y": 1.111111
+   }
+  },
+  "fort_destroyed_arm_xp": {
+   "frame": {
+    "x": 228,
+    "y": 0,
+    "w": 13,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 13,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 13,
+    "h": 19
+   },
+   "anchor": {
+    "x": -0.230769,
+    "y": 1.105263
+   }
+  },
+  "fort_destroyed_arm_yp": {
+   "frame": {
+    "x": 243,
+    "y": 0,
+    "w": 13,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 13,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 13,
+    "h": 19
+   },
+   "anchor": {
+    "x": -0.230769,
+    "y": 0.315789
+   }
+  },
+  "border_tall_intact_post": {
+   "frame": {
+    "x": 258,
+    "y": 0,
+    "w": 10,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 10,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 10,
+    "h": 56
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.928571
+   }
+  },
+  "border_tall_intact_arm_xn": {
+   "frame": {
+    "x": 270,
+    "y": 0,
+    "w": 15,
+    "h": 61
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 61
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 61
+   },
+   "anchor": {
+    "x": 1.0,
+    "y": 0.786885
+   }
+  },
+  "border_tall_intact_arm_yn": {
+   "frame": {
+    "x": 287,
+    "y": 0,
+    "w": 15,
+    "h": 61
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 61
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 61
+   },
+   "anchor": {
+    "x": 1.0,
+    "y": 1.0
+   }
+  },
+  "border_tall_intact_arm_xp": {
+   "frame": {
+    "x": 304,
+    "y": 0,
+    "w": 15,
+    "h": 61
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 61
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 61
+   },
+   "anchor": {
+    "x": 0.0,
+    "y": 1.0
+   }
+  },
+  "border_tall_intact_arm_yp": {
+   "frame": {
+    "x": 321,
+    "y": 0,
+    "w": 15,
+    "h": 61
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 15,
+    "h": 61
+   },
+   "sourceSize": {
+    "w": 15,
+    "h": 61
+   },
+   "anchor": {
+    "x": 0.0,
+    "y": 0.786885
+   }
+  },
+  "border_low_intact_post": {
+   "frame": {
+    "x": 338,
+    "y": 0,
+    "w": 6,
+    "h": 14
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 6,
+    "h": 14
+   },
+   "sourceSize": {
+    "w": 6,
+    "h": 14
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.857143
+   }
+  },
+  "border_low_intact_arm_xn": {
+   "frame": {
+    "x": 346,
+    "y": 0,
+    "w": 13,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 13,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 13,
+    "h": 22
+   },
+   "anchor": {
+    "x": 1.0,
+    "y": 0.454545
+   }
+  },
+  "border_low_intact_arm_yn": {
+   "frame": {
+    "x": 361,
+    "y": 0,
+    "w": 13,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 13,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 13,
+    "h": 22
+   },
+   "anchor": {
+    "x": 1.0,
+    "y": 1.0
+   }
+  },
+  "border_low_intact_arm_xp": {
+   "frame": {
+    "x": 376,
+    "y": 0,
+    "w": 13,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 13,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 13,
+    "h": 22
+   },
+   "anchor": {
+    "x": 0.0,
+    "y": 1.0
+   }
+  },
+  "border_low_intact_arm_yp": {
+   "frame": {
+    "x": 391,
+    "y": 0,
+    "w": 13,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 13,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 13,
+    "h": 22
+   },
+   "anchor": {
+    "x": 0.0,
+    "y": 0.454545
+   }
+  },
+  "door_closed_x": {
+   "frame": {
+    "x": 406,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 59
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.779661
+   }
+  },
+  "door_closed_y": {
+   "frame": {
+    "x": 440,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 59
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.779661
+   }
+  },
+  "door_open_x": {
+   "frame": {
+    "x": 474,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 59
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.779661
+   }
+  },
+  "door_open_y": {
+   "frame": {
+    "x": 0,
+    "y": 63,
+    "w": 32,
+    "h": 59
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 59
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.779661
+   }
+  },
+  "window_x": {
+   "frame": {
+    "x": 34,
+    "y": 63,
+    "w": 32,
+    "h": 59
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 59
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.779661
+   }
+  },
+  "window_y": {
+   "frame": {
+    "x": 68,
+    "y": 63,
+    "w": 32,
+    "h": 59
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 59
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 59
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.779661
+   }
+  }
+ },
+ "meta": {
+  "image": "fort_v7.png",
+  "size": {
+   "w": 512,
+   "h": 122
+  },
+  "scale": "1",
+  "app": "tools/art/fort.py",
+  "pivot": "anchor = tile-centre ground point (normalised)"
+ }
+}

@@ -1,0 +1,1283 @@
+{
+ "frames": {
+  "foxhole_0_dirt": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "foxhole_1_dirt": {
+   "frame": {
+    "x": 36,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "foxhole_0_sand": {
+   "frame": {
+    "x": 72,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "foxhole_1_sand": {
+   "frame": {
+    "x": 108,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "foxhole_0": {
+   "frame": {
+    "x": 144,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "foxhole_1": {
+   "frame": {
+    "x": 180,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_post_dirt": {
+   "frame": {
+    "x": 216,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_arm_xn_dirt": {
+   "frame": {
+    "x": 252,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_arm_yn_dirt": {
+   "frame": {
+    "x": 288,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_arm_xp_dirt": {
+   "frame": {
+    "x": 324,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_arm_yp_dirt": {
+   "frame": {
+    "x": 360,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_post_sand": {
+   "frame": {
+    "x": 396,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_arm_xn_sand": {
+   "frame": {
+    "x": 432,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_arm_yn_sand": {
+   "frame": {
+    "x": 468,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_arm_xp_sand": {
+   "frame": {
+    "x": 504,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trench_arm_yp_sand": {
+   "frame": {
+    "x": 540,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 39
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wire_x": {
+   "frame": {
+    "x": 576,
+    "y": 0,
+    "w": 34,
+    "h": 48
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 48
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 48
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wire_y": {
+   "frame": {
+    "x": 612,
+    "y": 0,
+    "w": 34,
+    "h": 48
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 48
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 48
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wire_d1": {
+   "frame": {
+    "x": 648,
+    "y": 0,
+    "w": 34,
+    "h": 48
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 48
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 48
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wire_d2": {
+   "frame": {
+    "x": 684,
+    "y": 0,
+    "w": 34,
+    "h": 48
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 48
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 48
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wire_post": {
+   "frame": {
+    "x": 720,
+    "y": 0,
+    "w": 34,
+    "h": 54
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 54
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 54
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wire_crushed_x": {
+   "frame": {
+    "x": 756,
+    "y": 0,
+    "w": 34,
+    "h": 38
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 38
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 38
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wire_crushed_y": {
+   "frame": {
+    "x": 792,
+    "y": 0,
+    "w": 34,
+    "h": 38
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 38
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 38
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "counter_top_h2": {
+   "frame": {
+    "x": 828,
+    "y": 0,
+    "w": 34,
+    "h": 78
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 78
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 78
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "cereal_stairs_l0": {
+   "frame": {
+    "x": 864,
+    "y": 0,
+    "w": 34,
+    "h": 42
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 42
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 42
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "cereal_stairs_l1": {
+   "frame": {
+    "x": 900,
+    "y": 0,
+    "w": 34,
+    "h": 66
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 66
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 66
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "fridge": {
+   "frame": {
+    "x": 936,
+    "y": 0,
+    "w": 34,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 120
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "table_leg": {
+   "frame": {
+    "x": 972,
+    "y": 0,
+    "w": 34,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 102
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "chair_leg": {
+   "frame": {
+    "x": 0,
+    "y": 122,
+    "w": 34,
+    "h": 90
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 90
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 90
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bed_top_h1": {
+   "frame": {
+    "x": 36,
+    "y": 122,
+    "w": 34,
+    "h": 54
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 54
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 54
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bed_top_h2": {
+   "frame": {
+    "x": 72,
+    "y": 122,
+    "w": 34,
+    "h": 78
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 78
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 78
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "pillow": {
+   "frame": {
+    "x": 108,
+    "y": 122,
+    "w": 34,
+    "h": 41
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 41
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 41
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "toybox": {
+   "frame": {
+    "x": 144,
+    "y": 122,
+    "w": 34,
+    "h": 70
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 70
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 70
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bookcase": {
+   "frame": {
+    "x": 180,
+    "y": 122,
+    "w": 34,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 120
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "book_stairs_l1": {
+   "frame": {
+    "x": 216,
+    "y": 122,
+    "w": 34,
+    "h": 66
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 66
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 66
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tub_rim": {
+   "frame": {
+    "x": 252,
+    "y": 122,
+    "w": 34,
+    "h": 70
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 70
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 70
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "toilet": {
+   "frame": {
+    "x": 288,
+    "y": 122,
+    "w": 34,
+    "h": 80
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 80
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "towel_pile": {
+   "frame": {
+    "x": 324,
+    "y": 122,
+    "w": 34,
+    "h": 44
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 44
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "rubble_debris_0": {
+   "frame": {
+    "x": 360,
+    "y": 122,
+    "w": 34,
+    "h": 30
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 30
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 30
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "rubble_debris_1": {
+   "frame": {
+    "x": 396,
+    "y": 122,
+    "w": 34,
+    "h": 30
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 30
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 30
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "rubble_debris_2": {
+   "frame": {
+    "x": 432,
+    "y": 122,
+    "w": 34,
+    "h": 30
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 30
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 30
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "rubble_debris_3": {
+   "frame": {
+    "x": 468,
+    "y": 122,
+    "w": 34,
+    "h": 30
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 30
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 30
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "clutter_bits_0": {
+   "frame": {
+    "x": 504,
+    "y": 122,
+    "w": 34,
+    "h": 36
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 36
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 36
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "clutter_bits_1": {
+   "frame": {
+    "x": 540,
+    "y": 122,
+    "w": 34,
+    "h": 36
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 36
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 36
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "clutter_bits_2": {
+   "frame": {
+    "x": 576,
+    "y": 122,
+    "w": 34,
+    "h": 36
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 36
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 36
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "image": "props_v4.png",
+  "size": {
+   "w": 1024,
+   "h": 242
+  },
+  "scale": "1",
+  "app": "tools/art/props_build.py",
+  "pivot": "bottom-centre = tile bottom vertex; frame = 64 x (22 + h)",
+  "trench_draw_order": [
+   "post",
+   "xn",
+   "yn",
+   "xp",
+   "yp"
+  ],
+  "props": {
+   "foxhole_0_dirt": {
+    "h": 9,
+    "category": "low cover (occupant in a pit: cover from all sides; +defence, slows entry)"
+   },
+   "foxhole_1_dirt": {
+    "h": 9,
+    "category": "low cover (occupant in a pit: cover from all sides; +defence, slows entry)"
+   },
+   "foxhole_0_sand": {
+    "h": 9,
+    "category": "low cover (occupant in a pit: cover from all sides; +defence, slows entry)"
+   },
+   "foxhole_1_sand": {
+    "h": 9,
+    "category": "low cover (occupant in a pit: cover from all sides; +defence, slows entry)"
+   },
+   "foxhole_0": {
+    "h": 9,
+    "category": "low cover (occupant in a pit: cover from all sides; +defence, slows entry)"
+   },
+   "foxhole_1": {
+    "h": 9,
+    "category": "low cover (occupant in a pit: cover from all sides; +defence, slows entry)"
+   },
+   "trench_post_dirt": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_arm_xn_dirt": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_arm_yn_dirt": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_arm_xp_dirt": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_arm_yp_dirt": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_post_sand": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_arm_xn_sand": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_arm_yn_sand": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_arm_xp_sand": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "trench_arm_yp_sand": {
+    "h": 9,
+    "category": "low cover along both banks; sunken lane; draw post then arms xn, yn, xp, yp"
+   },
+   "wire_x": {
+    "h": 18,
+    "category": "impassable to infantry (obstacle), no cover, see-through"
+   },
+   "wire_y": {
+    "h": 18,
+    "category": "as wire_x"
+   },
+   "wire_d1": {
+    "h": 18,
+    "category": ""
+   },
+   "wire_d2": {
+    "h": 18,
+    "category": ""
+   },
+   "wire_post": {
+    "h": 24,
+    "category": "decor on wire ends / corners / junctions (same tile as wire_x / wire_y)"
+   },
+   "wire_crushed_x": {
+    "h": 8,
+    "category": "passable, slow (difficult terrain), no cover"
+   },
+   "wire_crushed_y": {
+    "h": 8,
+    "category": "passable, slow (difficult terrain), no cover"
+   },
+   "counter_top_h2": {
+    "h": 48,
+    "category": "raised level 2 surface (impassable side faces, walkable top)"
+   },
+   "cereal_stairs_l0": {
+    "h": 12,
+    "category": "stairs: floor <-> level 1 (walkable, h 12)"
+   },
+   "cereal_stairs_l1": {
+    "h": 36,
+    "category": "stairs: level 1 <-> level 2 (walkable, h 36)"
+   },
+   "fridge": {
+    "h": 90,
+    "category": "impassable, blocks LOS (tall block, tile as 2x2 / 2x3)"
+   },
+   "table_leg": {
+    "h": 72,
+    "category": "impassable, high cover, blocks LOS on its tile (thin post)"
+   },
+   "chair_leg": {
+    "h": 60,
+    "category": "impassable, high cover (thin post)"
+   },
+   "bed_top_h1": {
+    "h": 24,
+    "category": "raised level 1 surface"
+   },
+   "bed_top_h2": {
+    "h": 48,
+    "category": "raised level 2 surface"
+   },
+   "pillow": {
+    "h": 11,
+    "category": "low cover on a bed (soft; draw on the bed tile raised by the bed height)"
+   },
+   "toybox": {
+    "h": 40,
+    "category": "impassable, high cover (h 40 ~ soldier height), blocks LOS for kneeling/prone"
+   },
+   "bookcase": {
+    "h": 90,
+    "category": "impassable, blocks LOS (tall)"
+   },
+   "book_stairs_l1": {
+    "h": 36,
+    "category": "stairs: level 1 <-> level 2 (walkable, h 36)"
+   },
+   "tub_rim": {
+    "h": 40,
+    "category": "impassable, high cover, blocks LOS for prone/kneeling (h 40)"
+   },
+   "toilet": {
+    "h": 50,
+    "category": "impassable, high cover, blocks LOS"
+   },
+   "towel_pile": {
+    "h": 14,
+    "category": "low cover (soft, passable slowly)"
+   },
+   "rubble_debris_0": {
+    "h": 0,
+    "category": "overlay (flip-safe) for rubble on any ground"
+   },
+   "rubble_debris_1": {
+    "h": 0,
+    "category": "overlay (flip-safe) for rubble on any ground"
+   },
+   "rubble_debris_2": {
+    "h": 0,
+    "category": "overlay (flip-safe) for rubble on any ground"
+   },
+   "rubble_debris_3": {
+    "h": 0,
+    "category": "overlay (flip-safe) for rubble on any ground"
+   },
+   "clutter_bits_0": {
+    "h": 6,
+    "category": "overlay of Lego clutter"
+   },
+   "clutter_bits_1": {
+    "h": 6,
+    "category": "overlay of Lego clutter"
+   },
+   "clutter_bits_2": {
+    "h": 6,
+    "category": "overlay of Lego clutter"
+   }
+  }
+ }
+}
