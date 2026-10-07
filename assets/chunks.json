@@ -1,0 +1,101 @@
+{
+ "chips": [
+  "chip_par1_014_1",
+  "chip_par1_014_2",
+  "chip_par1_014_3",
+  "chip_par2_015_1",
+  "chip_par2_015_2",
+  "chip_par2_015_3",
+  "chip_par3_016_1",
+  "chip_par3_016_2",
+  "chip_par3_016_3"
+ ],
+ "parts": [
+  "part_chst_004_1",
+  "part_chst_004_2",
+  "part_chst_004_3",
+  "part_head_009_1",
+  "part_head_009_2",
+  "part_head_009_3",
+  "part_larm_012_1",
+  "part_larm_012_2",
+  "part_larm_012_3",
+  "part_lleg_013_1",
+  "part_lleg_013_2",
+  "part_lleg_013_3",
+  "part_rarm_017_1",
+  "part_rarm_017_2",
+  "part_rarm_017_3",
+  "part_rleg_018_1",
+  "part_rleg_018_2",
+  "part_rleg_018_3",
+  "part_trso_020_1",
+  "part_trso_020_2",
+  "part_trso_020_3"
+ ],
+ "vparts": {
+  "aaaa": [
+   "vpart_aaaa_001_1",
+   "vpart_aaaa_001_2",
+   "vpart_aaaa_001_3",
+   "vpart_aaaa_001_4",
+   "vpart_aaaa_001_5"
+  ],
+  "bbbb": [
+   "vpart_bbbb_002_1",
+   "vpart_bbbb_002_2",
+   "vpart_bbbb_002_3"
+  ],
+  "cccc": [
+   "vpart_cccc_003_1",
+   "vpart_cccc_003_2",
+   "vpart_cccc_003_3"
+  ],
+  "dddd": [
+   "vpart_dddd_005_1",
+   "vpart_dddd_005_2",
+   "vpart_dddd_005_3",
+   "vpart_dddd_005_4"
+  ],
+  "eeee": [
+   "vpart_eeee_006_1",
+   "vpart_eeee_006_2",
+   "vpart_eeee_006_3",
+   "vpart_eeee_006_4"
+  ],
+  "ffff": [
+   "vpart_ffff_007_1",
+   "vpart_ffff_007_2",
+   "vpart_ffff_007_3",
+   "vpart_ffff_007_4",
+   "vpart_ffff_007_5"
+  ]
+ },
+ "axle": [
+  "axle_jeep_011_1",
+  "axle_jeep_011_2",
+  "axle_jeep_011_3",
+  "axle_jeep_011_4",
+  "axle_jeep_011_5"
+ ],
+ "scrap": {
+  "halftrack": [
+   "scrap_hded_008_1",
+   "scrap_hded_008_2",
+   "scrap_hded_008_3",
+   "scrap_hded_008_4"
+  ],
+  "jeep": [
+   "scrap_jded_010_1",
+   "scrap_jded_010_2",
+   "scrap_jded_010_3",
+   "scrap_jded_010_4"
+  ],
+  "tank": [
+   "scrap_tded_019_1",
+   "scrap_tded_019_2",
+   "scrap_tded_019_3",
+   "scrap_tded_019_4"
+  ]
+ }
+}

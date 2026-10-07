@@ -1,0 +1,37 @@
+{
+ "slot": 512,
+ "grid": 4,
+ "slots": [
+  "dirt",
+  "sand",
+  "mulch",
+  "gravel",
+  "brick_paving",
+  "concrete",
+  "lawn",
+  "lawn_dead",
+  "grass_patchy",
+  "grass_tall",
+  "grass_flat",
+  "grass_medium",
+  "burnt",
+  "ejecta"
+ ],
+ "repeatMM": [
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7,
+  647.7
+ ],
+ "source": "painted procedurally by tools/art/ground_paint.py"
+}
