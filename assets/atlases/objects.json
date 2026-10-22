@@ -1,0 +1,7212 @@
+{
+ "pages": 21,
+ "sets": [
+  "bath",
+  "classic",
+  "classic",
+  "classic",
+  "dining",
+  "dining",
+  "dining",
+  "hall",
+  "hall",
+  "hall",
+  "kitchen",
+  "kitchen",
+  "living",
+  "living",
+  "living",
+  "living",
+  "living",
+  "living",
+  "living",
+  "living",
+  "yard"
+ ],
+ "page": {
+  "obj_toilet_0": 0,
+  "obj_bath_towel_6": 0,
+  "obj_bath_towel_2": 0,
+  "obj_toilet_5": 0,
+  "obj_mirror_2": 0,
+  "obj_mirror_6": 0,
+  "obj_toilet_7": 0,
+  "obj_toilet_1": 0,
+  "obj_toilet_6": 0,
+  "obj_toilet_3": 0,
+  "obj_toilet_2": 0,
+  "obj_mirror_1": 0,
+  "obj_mirror_3": 0,
+  "obj_mirror_5": 0,
+  "obj_mirror_7": 0,
+  "obj_toilet_tank_6": 0,
+  "obj_toilet_4": 0,
+  "obj_toilet_tank_2": 0,
+  "obj_toilet_tank_5": 0,
+  "obj_toilet_tank_7": 0,
+  "obj_toilet_tank_1": 0,
+  "obj_bath_towel_5": 0,
+  "obj_bath_towel_1": 0,
+  "obj_toilet_tank_3": 0,
+  "obj_toilet_tank_0": 0,
+  "obj_mirror_4": 0,
+  "obj_bath_towel_7": 0,
+  "obj_mirror_0": 0,
+  "obj_bath_towel_3": 0,
+  "obj_toilet_tank_4": 0,
+  "obj_plunger_3": 0,
+  "obj_plunger_2": 0,
+  "obj_plunger_4": 0,
+  "obj_plunger_1": 0,
+  "obj_plunger_5": 0,
+  "obj_plunger_6": 0,
+  "obj_plunger_0": 0,
+  "obj_plunger_7": 0,
+  "obj_hand_towel_6": 0,
+  "obj_hand_towel_2": 0,
+  "obj_bath_towel_0": 0,
+  "obj_hand_towel_0": 0,
+  "obj_bath_towel_4": 0,
+  "obj_hand_towel_7": 0,
+  "obj_hand_towel_4": 0,
+  "obj_hand_towel_1": 0,
+  "obj_hand_towel_5": 0,
+  "obj_bleach_bottle_6": 0,
+  "obj_bleach_bottle_5": 0,
+  "obj_bleach_bottle_7": 0,
+  "obj_hand_towel_3": 0,
+  "obj_bleach_bottle_1": 0,
+  "obj_bleach_bottle_2": 0,
+  "obj_bleach_bottle_3": 0,
+  "obj_bleach_bottle_0": 0,
+  "obj_bleach_bottle_4": 0,
+  "obj_tub_faucet_1": 0,
+  "obj_tub_faucet_7": 0,
+  "obj_tub_faucet_0": 0,
+  "obj_toilet_paper_4": 0,
+  "obj_toilet_paper_0": 0,
+  "obj_toothpaste_6": 0,
+  "obj_tub_faucet_2": 0,
+  "obj_tub_faucet_3": 0,
+  "obj_tub_faucet_5": 0,
+  "obj_tub_faucet_6": 0,
+  "obj_toilet_paper_5": 0,
+  "obj_toilet_paper_1": 0,
+  "obj_toilet_paper_3": 0,
+  "obj_toilet_paper_2": 0,
+  "obj_toilet_paper_6": 0,
+  "obj_toothpaste_2": 0,
+  "obj_toilet_paper_7": 0,
+  "obj_tub_faucet_4": 0,
+  "obj_toothpaste_5": 0,
+  "obj_toothpaste_7": 0,
+  "obj_toothbrush_6": 0,
+  "obj_toothbrush_2": 0,
+  "obj_toothpaste_1": 0,
+  "obj_toothpaste_3": 0,
+  "obj_toothbrush_5": 0,
+  "obj_toothbrush_7": 0,
+  "obj_toothbrush_1": 0,
+  "obj_toothbrush_3": 0,
+  "obj_soap_2": 0,
+  "obj_soap_6": 0,
+  "obj_soap_1": 0,
+  "obj_soap_3": 0,
+  "obj_soap_5": 0,
+  "obj_soap_7": 0,
+  "obj_toothpaste_0": 0,
+  "obj_toothpaste_4": 0,
+  "obj_soap_0": 0,
+  "obj_soap_4": 0,
+  "obj_tub_drain_0": 0,
+  "obj_tub_drain_1": 0,
+  "obj_tub_drain_2": 0,
+  "obj_tub_drain_3": 0,
+  "obj_tub_drain_4": 0,
+  "obj_tub_drain_5": 0,
+  "obj_tub_drain_6": 0,
+  "obj_tub_drain_7": 0,
+  "obj_toothbrush_0": 0,
+  "obj_toothbrush_4": 0,
+  "obj_hutch_2": 1,
+  "obj_hutch_6": 1,
+  "obj_hutch_1": 1,
+  "obj_hutch_7": 2,
+  "obj_hutch_5": 2,
+  "obj_hutch_3": 2,
+  "obj_hutch_0": 2,
+  "obj_hutch_4": 2,
+  "obj_paper_towel_dmg_0": 2,
+  "obj_toaster_1": 2,
+  "obj_toaster_3": 2,
+  "obj_toaster_5": 2,
+  "obj_toaster_7": 2,
+  "obj_paper_towel_dmg_7": 2,
+  "obj_paper_towel_dmg_1": 3,
+  "obj_paper_towel_dmg_2": 3,
+  "obj_cutting_board_1": 3,
+  "obj_cutting_board_3": 3,
+  "obj_cutting_board_5": 3,
+  "obj_cutting_board_7": 3,
+  "obj_paper_towel_dead_2": 3,
+  "obj_toaster_2": 3,
+  "obj_paper_towel_dmg_3": 3,
+  "obj_toaster_6": 3,
+  "obj_paper_towel_0": 3,
+  "obj_paper_towel_1": 3,
+  "obj_paper_towel_2": 3,
+  "obj_paper_towel_3": 3,
+  "obj_paper_towel_4": 3,
+  "obj_paper_towel_5": 3,
+  "obj_paper_towel_6": 3,
+  "obj_paper_towel_7": 3,
+  "obj_paper_towel_dmg_4": 3,
+  "obj_paper_towel_dmg_5": 3,
+  "obj_paper_towel_dmg_6": 3,
+  "obj_paper_towel_dead_1": 3,
+  "obj_paper_towel_dead_3": 3,
+  "obj_paper_towel_dead_5": 3,
+  "obj_paper_towel_dead_4": 3,
+  "obj_paper_towel_dead_7": 3,
+  "obj_paper_towel_dead_0": 3,
+  "obj_paper_towel_dead_6": 3,
+  "obj_cutting_board_2": 3,
+  "obj_cutting_board_6": 3,
+  "obj_knife_6": 3,
+  "obj_knife_2": 3,
+  "obj_cookie_jar_0": 3,
+  "obj_cookie_jar_1": 3,
+  "obj_cookie_jar_2": 3,
+  "obj_cookie_jar_3": 3,
+  "obj_cookie_jar_4": 3,
+  "obj_cookie_jar_5": 3,
+  "obj_cookie_jar_6": 3,
+  "obj_cookie_jar_7": 3,
+  "obj_cookie_jar_dmg_0": 3,
+  "obj_cookie_jar_dmg_1": 3,
+  "obj_cookie_jar_dmg_2": 3,
+  "obj_cookie_jar_dmg_3": 3,
+  "obj_cookie_jar_dmg_4": 3,
+  "obj_cookie_jar_dmg_5": 3,
+  "obj_cookie_jar_dmg_6": 3,
+  "obj_cookie_jar_dmg_7": 3,
+  "obj_toaster_0": 3,
+  "obj_toaster_4": 3,
+  "obj_fruit_bowl_dead_0": 3,
+  "obj_fruit_bowl_dead_7": 3,
+  "obj_fruit_bowl_dead_4": 3,
+  "obj_milk_carton_1": 3,
+  "obj_milk_carton_3": 3,
+  "obj_milk_carton_5": 3,
+  "obj_milk_carton_7": 3,
+  "obj_milk_carton_dmg_1": 3,
+  "obj_milk_carton_dmg_3": 3,
+  "obj_milk_carton_dmg_5": 3,
+  "obj_milk_carton_dmg_7": 3,
+  "obj_fruit_bowl_dead_2": 3,
+  "obj_fruit_bowl_dead_3": 3,
+  "obj_fruit_bowl_dead_5": 3,
+  "obj_milk_carton_2": 3,
+  "obj_milk_carton_6": 3,
+  "obj_milk_carton_dmg_2": 3,
+  "obj_milk_carton_dmg_6": 3,
+  "obj_fruit_bowl_dead_1": 3,
+  "obj_fruit_bowl_dead_6": 3,
+  "obj_fruit_bowl_7": 3,
+  "obj_fruit_bowl_dmg_7": 3,
+  "obj_fruit_bowl_6": 3,
+  "obj_fruit_bowl_dmg_6": 3,
+  "obj_fruit_bowl_dmg_5": 3,
+  "obj_plates_0": 3,
+  "obj_plates_1": 3,
+  "obj_plates_2": 3,
+  "obj_plates_3": 3,
+  "obj_plates_4": 3,
+  "obj_plates_5": 3,
+  "obj_plates_6": 3,
+  "obj_plates_7": 3,
+  "obj_fruit_bowl_dmg_1": 3,
+  "obj_fruit_bowl_0": 3,
+  "obj_fruit_bowl_1": 3,
+  "obj_fruit_bowl_2": 3,
+  "obj_fruit_bowl_3": 3,
+  "obj_fruit_bowl_4": 3,
+  "obj_fruit_bowl_5": 3,
+  "obj_fruit_bowl_dmg_0": 3,
+  "obj_fruit_bowl_dmg_2": 3,
+  "obj_fruit_bowl_dmg_3": 3,
+  "obj_fruit_bowl_dmg_4": 3,
+  "obj_milk_carton_0": 3,
+  "obj_milk_carton_4": 3,
+  "obj_milk_carton_dmg_0": 3,
+  "obj_milk_carton_dmg_4": 3,
+  "obj_knife_5": 3,
+  "obj_knife_1": 3,
+  "obj_knife_7": 3,
+  "obj_knife_3": 3,
+  "obj_cutting_board_0": 3,
+  "obj_cutting_board_4": 3,
+  "obj_mustard_2": 3,
+  "obj_mustard_6": 3,
+  "obj_mustard_dmg_3": 3,
+  "obj_mug_dead_1": 3,
+  "obj_mustard_dmg_2": 3,
+  "obj_mustard_dmg_6": 3,
+  "obj_mustard_dmg_5": 3,
+  "obj_mug_dead_5": 3,
+  "obj_mustard_1": 3,
+  "obj_mustard_3": 3,
+  "obj_mustard_5": 3,
+  "obj_mustard_7": 3,
+  "obj_mustard_dmg_4": 3,
+  "obj_mustard_dmg_1": 3,
+  "obj_mustard_dmg_7": 3,
+  "obj_mustard_0": 3,
+  "obj_mustard_4": 3,
+  "obj_mug_dead_2": 3,
+  "obj_mustard_dmg_0": 3,
+  "obj_cookie_jar_dead_6": 3,
+  "obj_mug_dead_6": 3,
+  "obj_cookie_jar_dead_0": 3,
+  "obj_cookie_jar_dead_5": 3,
+  "obj_mug_2": 3,
+  "obj_mug_dmg_2": 3,
+  "obj_cereal_bowl_6": 3,
+  "obj_cereal_bowl_7": 3,
+  "obj_cereal_bowl_dmg_6": 3,
+  "obj_cereal_bowl_dmg_7": 3,
+  "obj_cookie_jar_dead_3": 3,
+  "obj_glass_dmg_0": 3,
+  "obj_glass_0": 3,
+  "obj_glass_1": 3,
+  "obj_glass_2": 3,
+  "obj_glass_3": 3,
+  "obj_glass_4": 3,
+  "obj_glass_5": 3,
+  "obj_glass_6": 3,
+  "obj_glass_7": 3,
+  "obj_glass_dmg_1": 3,
+  "obj_glass_dmg_2": 3,
+  "obj_glass_dmg_3": 3,
+  "obj_glass_dmg_4": 3,
+  "obj_glass_dmg_5": 3,
+  "obj_glass_dmg_6": 3,
+  "obj_glass_dmg_7": 3,
+  "obj_cookie_jar_dead_2": 3,
+  "obj_cookie_jar_dead_1": 3,
+  "obj_cookie_jar_dead_7": 3,
+  "obj_cereal_bowl_dmg_4": 3,
+  "obj_cereal_bowl_dmg_1": 3,
+  "obj_cereal_bowl_0": 3,
+  "obj_cereal_bowl_1": 3,
+  "obj_cereal_bowl_2": 3,
+  "obj_cereal_bowl_3": 3,
+  "obj_cereal_bowl_4": 3,
+  "obj_cereal_bowl_5": 3,
+  "obj_cereal_bowl_dmg_0": 3,
+  "obj_cereal_bowl_dmg_2": 3,
+  "obj_cereal_bowl_dmg_3": 3,
+  "obj_cereal_bowl_dmg_5": 3,
+  "obj_mug_1": 3,
+  "obj_mug_3": 3,
+  "obj_mug_dmg_1": 3,
+  "obj_mug_dmg_3": 3,
+  "obj_scissors_2": 3,
+  "obj_scissors_6": 3,
+  "obj_cookie_jar_dead_4": 3,
+  "obj_mug_0": 3,
+  "obj_mug_4": 3,
+  "obj_mug_5": 3,
+  "obj_mug_6": 3,
+  "obj_mug_7": 3,
+  "obj_mug_dmg_0": 3,
+  "obj_mug_dmg_4": 3,
+  "obj_mug_dmg_5": 3,
+  "obj_mug_dmg_6": 3,
+  "obj_mug_dmg_7": 3,
+  "obj_mug_dead_4": 3,
+  "obj_soup_can_0": 3,
+  "obj_soup_can_1": 3,
+  "obj_soup_can_2": 3,
+  "obj_soup_can_3": 3,
+  "obj_soup_can_4": 3,
+  "obj_soup_can_5": 3,
+  "obj_soup_can_6": 3,
+  "obj_soup_can_7": 3,
+  "obj_soup_can_dmg_0": 3,
+  "obj_soup_can_dmg_1": 3,
+  "obj_soup_can_dmg_2": 3,
+  "obj_soup_can_dmg_3": 3,
+  "obj_soup_can_dmg_4": 3,
+  "obj_soup_can_dmg_5": 3,
+  "obj_soup_can_dmg_6": 3,
+  "obj_soup_can_dmg_7": 3,
+  "obj_pumpkin_small_0": 3,
+  "obj_pumpkin_small_1": 3,
+  "obj_pumpkin_small_3": 3,
+  "obj_pumpkin_small_4": 3,
+  "obj_pumpkin_small_5": 3,
+  "obj_pumpkin_small_7": 3,
+  "obj_scissors_3": 3,
+  "obj_scissors_5": 3,
+  "obj_scissors_7": 3,
+  "obj_pumpkin_small_2": 3,
+  "obj_pumpkin_small_6": 3,
+  "obj_scissors_1": 3,
+  "obj_cereal_bowl_dead_1": 3,
+  "obj_mug_dead_0": 3,
+  "obj_cereal_bowl_dead_0": 3,
+  "obj_milk_carton_dead_7": 3,
+  "obj_mug_dead_3": 3,
+  "obj_cereal_bowl_dead_4": 3,
+  "obj_cereal_bowl_dead_6": 3,
+  "obj_milk_carton_dead_6": 3,
+  "obj_cereal_bowl_dead_2": 3,
+  "obj_milk_carton_dead_4": 3,
+  "obj_cereal_bowl_dead_3": 3,
+  "obj_cereal_bowl_dead_7": 3,
+  "obj_mug_dead_7": 3,
+  "obj_soup_can_dead_3": 3,
+  "obj_milk_carton_dead_2": 3,
+  "obj_mustard_dead_2": 3,
+  "obj_milk_carton_dead_3": 3,
+  "obj_milk_carton_dead_5": 3,
+  "obj_milk_carton_dead_0": 3,
+  "obj_mustard_dead_3": 3,
+  "obj_mustard_dead_6": 3,
+  "obj_soup_can_dead_4": 3,
+  "obj_soup_can_dead_2": 3,
+  "obj_soup_can_dead_6": 3,
+  "obj_salt_dmg_0": 3,
+  "obj_soup_can_dead_5": 3,
+  "obj_mustard_dead_7": 3,
+  "obj_pepper_dmg_0": 3,
+  "obj_pepper_0": 3,
+  "obj_pepper_1": 3,
+  "obj_pepper_2": 3,
+  "obj_pepper_3": 3,
+  "obj_pepper_4": 3,
+  "obj_pepper_5": 3,
+  "obj_pepper_6": 3,
+  "obj_pepper_7": 3,
+  "obj_pepper_dmg_1": 3,
+  "obj_pepper_dmg_2": 3,
+  "obj_pepper_dmg_3": 3,
+  "obj_pepper_dmg_4": 3,
+  "obj_pepper_dmg_5": 3,
+  "obj_pepper_dmg_6": 3,
+  "obj_pepper_dmg_7": 3,
+  "obj_salt_0": 3,
+  "obj_salt_1": 3,
+  "obj_salt_2": 3,
+  "obj_salt_3": 3,
+  "obj_salt_4": 3,
+  "obj_salt_5": 3,
+  "obj_salt_6": 3,
+  "obj_salt_7": 3,
+  "obj_salt_dmg_1": 3,
+  "obj_salt_dmg_2": 3,
+  "obj_salt_dmg_3": 3,
+  "obj_salt_dmg_4": 3,
+  "obj_salt_dmg_5": 3,
+  "obj_salt_dmg_6": 3,
+  "obj_salt_dmg_7": 3,
+  "obj_soup_can_dead_7": 3,
+  "obj_cereal_bowl_dead_5": 3,
+  "obj_glass_dead_5": 3,
+  "obj_glass_dead_1": 3,
+  "obj_soup_can_dead_1": 3,
+  "obj_milk_carton_dead_1": 3,
+  "obj_glass_dead_0": 3,
+  "obj_mustard_dead_5": 3,
+  "obj_scissors_0": 3,
+  "obj_scissors_4": 3,
+  "obj_mustard_dead_4": 3,
+  "obj_soup_can_dead_0": 3,
+  "obj_glass_dead_4": 3,
+  "obj_mustard_dead_0": 3,
+  "obj_glass_dead_2": 3,
+  "obj_glass_dead_6": 3,
+  "obj_mustard_dead_1": 3,
+  "obj_glass_dead_7": 3,
+  "obj_glass_dead_3": 3,
+  "obj_salt_dead_1": 3,
+  "obj_salt_dead_2": 3,
+  "obj_pepper_dead_7": 3,
+  "obj_pepper_dead_6": 3,
+  "obj_pepper_dead_0": 3,
+  "obj_pepper_dead_3": 3,
+  "obj_pepper_dead_4": 3,
+  "obj_pepper_dead_2": 3,
+  "obj_salt_dead_0": 3,
+  "obj_salt_dead_5": 3,
+  "obj_salt_dead_6": 3,
+  "obj_pepper_dead_5": 3,
+  "obj_salt_dead_7": 3,
+  "obj_knife_4": 3,
+  "obj_knife_0": 3,
+  "obj_pepper_dead_1": 3,
+  "obj_salt_dead_4": 3,
+  "obj_salt_dead_3": 3,
+  "obj_hutch_base_2": 4,
+  "obj_hutch_base_6": 4,
+  "obj_hutch_top_2": 4,
+  "obj_hutch_top_6": 4,
+  "obj_hutch_base_3": 4,
+  "obj_hutch_base_5": 4,
+  "obj_hutch_base_1": 4,
+  "obj_hutch_base_7": 4,
+  "obj_hutch_top_3": 4,
+  "obj_hutch_top_5": 5,
+  "obj_hutch_top_1": 5,
+  "obj_hutch_top_7": 5,
+  "obj_hutch_top_4": 5,
+  "obj_hutch_top_0": 5,
+  "obj_chair_back_2": 5,
+  "obj_chair_back_6": 5,
+  "obj_chair_back_1": 5,
+  "obj_chair_back_7": 5,
+  "obj_hutch_base_0": 5,
+  "obj_hutch_base_4": 5,
+  "obj_chair_back_3": 5,
+  "obj_chair_back_5": 5,
+  "obj_chair_back_4": 5,
+  "obj_chair_seat_1": 6,
+  "obj_chair_seat_7": 6,
+  "obj_chair_seat_2": 6,
+  "obj_chair_seat_6": 6,
+  "obj_chair_back_0": 6,
+  "obj_chair_seat_0": 6,
+  "obj_chair_seat_3": 6,
+  "obj_chair_seat_5": 6,
+  "obj_chair_seat_4": 6,
+  "obj_pitcher_6": 6,
+  "obj_pitcher_5": 6,
+  "obj_pitcher_7": 6,
+  "obj_pitcher_2": 6,
+  "obj_pitcher_0": 6,
+  "obj_pitcher_1": 6,
+  "obj_pitcher_3": 6,
+  "obj_pitcher_4": 6,
+  "obj_carrot_cake_2": 6,
+  "obj_carrot_cake_1": 6,
+  "obj_carrot_cake_4": 6,
+  "obj_carrot_cake_5": 6,
+  "obj_candlestick_0": 6,
+  "obj_candlestick_1": 6,
+  "obj_candlestick_2": 6,
+  "obj_candlestick_3": 6,
+  "obj_carrot_cake_0": 6,
+  "obj_candlestick_4": 6,
+  "obj_candlestick_5": 6,
+  "obj_candlestick_6": 6,
+  "obj_candlestick_7": 6,
+  "obj_carrot_cake_3": 6,
+  "obj_carrot_cake_7": 6,
+  "obj_carrot_cake_6": 6,
+  "obj_cake_1": 6,
+  "obj_cake_0": 6,
+  "obj_cake_5": 6,
+  "obj_cake_6": 6,
+  "obj_cake_4": 6,
+  "obj_cake_2": 6,
+  "obj_cake_7": 6,
+  "obj_cake_3": 6,
+  "obj_fork_4": 6,
+  "obj_table_knife_0": 6,
+  "obj_table_knife_4": 6,
+  "obj_fork_0": 6,
+  "obj_water_glass_0": 6,
+  "obj_water_glass_1": 6,
+  "obj_water_glass_2": 6,
+  "obj_water_glass_3": 6,
+  "obj_water_glass_4": 6,
+  "obj_water_glass_5": 6,
+  "obj_water_glass_6": 6,
+  "obj_water_glass_7": 6,
+  "obj_fork_3": 6,
+  "obj_fork_5": 6,
+  "obj_fork_7": 6,
+  "obj_fork_1": 6,
+  "obj_table_knife_5": 6,
+  "obj_table_knife_1": 6,
+  "obj_table_knife_3": 6,
+  "obj_table_knife_7": 6,
+  "obj_roll_a_0": 6,
+  "obj_roll_a_3": 6,
+  "obj_roll_a_7": 6,
+  "obj_roll_a_4": 6,
+  "obj_roll_b_5": 6,
+  "obj_roll_a_5": 6,
+  "obj_roll_b_6": 6,
+  "obj_roll_a_1": 6,
+  "obj_roll_a_2": 6,
+  "obj_roll_b_2": 6,
+  "obj_roll_b_7": 6,
+  "obj_roll_a_6": 6,
+  "obj_roll_b_0": 6,
+  "obj_roll_b_1": 6,
+  "obj_roll_b_3": 6,
+  "obj_roll_b_4": 6,
+  "obj_roll_c_2": 6,
+  "obj_roll_c_6": 6,
+  "obj_roll_c_1": 6,
+  "obj_roll_c_5": 6,
+  "obj_roll_c_4": 6,
+  "obj_roll_c_0": 6,
+  "obj_roll_c_3": 6,
+  "obj_roll_c_7": 6,
+  "obj_fork_2": 6,
+  "obj_fork_6": 6,
+  "obj_table_knife_2": 6,
+  "obj_table_knife_6": 6,
+  "obj_front_door_2": 7,
+  "obj_front_door_6": 7,
+  "obj_front_door_1": 7,
+  "obj_front_door_3": 7,
+  "obj_front_door_5": 7,
+  "obj_front_door_7": 7,
+  "obj_front_door_0": 7,
+  "obj_front_door_4": 7,
+  "obj_coat_rack_2": 7,
+  "obj_coat_rack_5": 7,
+  "obj_coat_rack_7": 7,
+  "obj_coat_rack_0": 7,
+  "obj_coat_rack_4": 7,
+  "obj_coat_rack_3": 7,
+  "obj_coat_rack_1": 8,
+  "obj_coat_rack_6": 8,
+  "obj_wagon_4": 8,
+  "obj_mailbox_0": 8,
+  "obj_mailbox_4": 8,
+  "obj_wagon_0": 8,
+  "obj_wagon_3": 8,
+  "obj_mailbox_3": 8,
+  "obj_mailbox_5": 8,
+  "obj_mailbox_7": 8,
+  "obj_mailbox_1": 8,
+  "obj_wagon_5": 8,
+  "obj_hall_table_5": 8,
+  "obj_hall_table_7": 8,
+  "obj_hall_table_1": 8,
+  "obj_hall_table_3": 8,
+  "obj_mailbox_6": 8,
+  "obj_wagon_1": 8,
+  "obj_wagon_7": 8,
+  "obj_hall_table_6": 8,
+  "obj_hall_table_2": 9,
+  "obj_mailbox_2": 9,
+  "obj_hall_table_0": 9,
+  "obj_hall_table_4": 9,
+  "obj_wagon_2": 9,
+  "obj_wagon_6": 9,
+  "obj_garden_gnome_7": 9,
+  "obj_garden_gnome_0": 9,
+  "obj_garden_gnome_6": 9,
+  "obj_garden_gnome_1": 9,
+  "obj_garden_gnome_2": 9,
+  "obj_garden_gnome_3": 9,
+  "obj_garden_gnome_5": 9,
+  "obj_garden_gnome_4": 9,
+  "obj_vase_0": 9,
+  "obj_vase_4": 9,
+  "obj_vase_1": 9,
+  "obj_vase_7": 9,
+  "obj_vase_3": 9,
+  "obj_vase_5": 9,
+  "obj_vase_2": 9,
+  "obj_vase_6": 9,
+  "obj_shoes_1": 9,
+  "obj_shoes_7": 9,
+  "obj_shoes_0": 9,
+  "obj_shoes_3": 9,
+  "obj_shoes_5": 9,
+  "obj_shoes_2": 9,
+  "obj_shoes_6": 9,
+  "obj_shoes_4": 9,
+  "obj_mail_3": 9,
+  "obj_mail_7": 9,
+  "obj_mail_1": 9,
+  "obj_mail_5": 9,
+  "obj_mail_0": 9,
+  "obj_mail_4": 9,
+  "obj_mail_6": 9,
+  "obj_mail_2": 9,
+  "obj_stove_3": 10,
+  "obj_stove_5": 10,
+  "obj_stove_1": 10,
+  "obj_stove_7": 10,
+  "obj_stove_4": 10,
+  "obj_stove_0": 10,
+  "obj_stove_2": 10,
+  "obj_stove_6": 10,
+  "obj_trash_can_1": 10,
+  "obj_trash_can_3": 10,
+  "obj_trash_can_5": 10,
+  "obj_trash_can_7": 10,
+  "obj_trash_can_2": 10,
+  "obj_trash_can_6": 10,
+  "obj_microwave_3": 10,
+  "obj_microwave_5": 10,
+  "obj_microwave_7": 10,
+  "obj_microwave_1": 10,
+  "obj_trash_can_0": 10,
+  "obj_trash_can_4": 10,
+  "obj_microwave_6": 10,
+  "obj_microwave_2": 10,
+  "obj_microwave_0": 10,
+  "obj_microwave_4": 10,
+  "obj_place_mat_1": 10,
+  "obj_place_mat_3": 10,
+  "obj_place_mat_5": 10,
+  "obj_place_mat_7": 10,
+  "obj_board_wood_7": 10,
+  "obj_board_wood_3": 10,
+  "obj_board_wood_5": 10,
+  "obj_board_wood_1": 10,
+  "obj_board_wood_6": 10,
+  "obj_board_wood_2": 10,
+  "obj_place_mat_2": 10,
+  "obj_place_mat_6": 10,
+  "obj_thermos_6": 10,
+  "obj_thermos_0": 10,
+  "obj_thermos_4": 10,
+  "obj_thermos_1": 10,
+  "obj_thermos_2": 10,
+  "obj_thermos_3": 10,
+  "obj_thermos_5": 10,
+  "obj_thermos_7": 10,
+  "obj_brass_pot_0": 10,
+  "obj_brass_pot_1": 10,
+  "obj_brass_pot_2": 10,
+  "obj_brass_pot_3": 10,
+  "obj_brass_pot_4": 10,
+  "obj_brass_pot_5": 10,
+  "obj_brass_pot_6": 10,
+  "obj_brass_pot_7": 11,
+  "obj_teapot_0": 11,
+  "obj_teapot_4": 11,
+  "obj_enamel_pot_2": 11,
+  "obj_enamel_pot_6": 11,
+  "obj_carton_milk_6": 11,
+  "obj_carton_milk_2": 11,
+  "obj_carton_milk_1": 11,
+  "obj_carton_milk_7": 11,
+  "obj_carton_milk_3": 11,
+  "obj_carton_milk_5": 11,
+  "obj_enamel_pot_1": 11,
+  "obj_enamel_pot_3": 11,
+  "obj_enamel_pot_5": 11,
+  "obj_enamel_pot_7": 11,
+  "obj_faucet_3": 11,
+  "obj_faucet_4": 11,
+  "obj_faucet_5": 11,
+  "obj_enamel_pot_0": 11,
+  "obj_enamel_pot_4": 11,
+  "obj_faucet_0": 11,
+  "obj_teapot_3": 11,
+  "obj_teapot_5": 11,
+  "obj_teapot_1": 11,
+  "obj_teapot_7": 11,
+  "obj_faucet_2": 11,
+  "obj_faucet_6": 11,
+  "obj_carton_milk_4": 11,
+  "obj_plate_wood_1": 11,
+  "obj_plate_wood_5": 11,
+  "obj_wooden_spoon_4": 11,
+  "obj_carton_milk_0": 11,
+  "obj_plate_wood_0": 11,
+  "obj_plate_wood_2": 11,
+  "obj_plate_wood_3": 11,
+  "obj_plate_wood_4": 11,
+  "obj_plate_wood_6": 11,
+  "obj_plate_wood_7": 11,
+  "obj_place_mat_0": 11,
+  "obj_place_mat_4": 11,
+  "obj_faucet_7": 11,
+  "obj_wooden_spoon_0": 11,
+  "obj_faucet_1": 11,
+  "obj_board_wood_0": 11,
+  "obj_board_wood_4": 11,
+  "obj_teapot_2": 11,
+  "obj_teapot_6": 11,
+  "obj_dog_bowl_0": 11,
+  "obj_dog_bowl_1": 11,
+  "obj_dog_bowl_2": 11,
+  "obj_dog_bowl_3": 11,
+  "obj_dog_bowl_4": 11,
+  "obj_dog_bowl_5": 11,
+  "obj_dog_bowl_6": 11,
+  "obj_dog_bowl_7": 11,
+  "obj_can_beans_0": 11,
+  "obj_can_beans_1": 11,
+  "obj_can_beans_2": 11,
+  "obj_can_beans_3": 11,
+  "obj_can_beans_4": 11,
+  "obj_can_beans_5": 11,
+  "obj_can_beans_6": 11,
+  "obj_can_beans_7": 11,
+  "obj_can_tomatoes_0": 11,
+  "obj_can_tomatoes_1": 11,
+  "obj_can_tomatoes_2": 11,
+  "obj_can_tomatoes_3": 11,
+  "obj_can_tomatoes_4": 11,
+  "obj_can_tomatoes_5": 11,
+  "obj_can_tomatoes_6": 11,
+  "obj_can_tomatoes_7": 11,
+  "obj_wooden_spoon_3": 11,
+  "obj_wooden_spoon_7": 11,
+  "obj_croissant_2": 11,
+  "obj_wooden_spoon_5": 11,
+  "obj_banana_4": 11,
+  "obj_croissant_6": 11,
+  "obj_banana_0": 11,
+  "obj_wooden_spoon_1": 11,
+  "obj_bowl_small_6": 11,
+  "obj_bowl_small_2": 11,
+  "obj_tea_plate_0": 11,
+  "obj_tea_plate_1": 11,
+  "obj_tea_plate_2": 11,
+  "obj_tea_plate_3": 11,
+  "obj_tea_plate_4": 11,
+  "obj_tea_plate_5": 11,
+  "obj_tea_plate_6": 11,
+  "obj_tea_plate_7": 11,
+  "obj_teacup_4": 11,
+  "obj_sugar_bowl_0": 11,
+  "obj_sugar_bowl_4": 11,
+  "obj_banana_3": 11,
+  "obj_bowl_small_1": 11,
+  "obj_bowl_small_5": 11,
+  "obj_bowl_small_7": 11,
+  "obj_banana_7": 11,
+  "obj_teacup_0": 11,
+  "obj_bowl_small_3": 11,
+  "obj_croissant_5": 11,
+  "obj_banana_5": 11,
+  "obj_teacup_3": 11,
+  "obj_teacup_5": 11,
+  "obj_bowl_small_4": 11,
+  "obj_croissant_7": 11,
+  "obj_croissant_1": 11,
+  "obj_croissant_3": 11,
+  "obj_teacup_1": 11,
+  "obj_teacup_2": 11,
+  "obj_teacup_6": 11,
+  "obj_teacup_7": 11,
+  "obj_bowl_small_0": 11,
+  "obj_sugar_bowl_1": 11,
+  "obj_sugar_bowl_3": 11,
+  "obj_sugar_bowl_5": 11,
+  "obj_sugar_bowl_7": 11,
+  "obj_banana_1": 11,
+  "obj_sugar_bowl_2": 11,
+  "obj_sugar_bowl_6": 11,
+  "obj_saucer_0": 11,
+  "obj_saucer_1": 11,
+  "obj_saucer_2": 11,
+  "obj_saucer_3": 11,
+  "obj_saucer_4": 11,
+  "obj_saucer_5": 11,
+  "obj_saucer_6": 11,
+  "obj_saucer_7": 11,
+  "obj_sardines_1": 11,
+  "obj_sardines_2": 11,
+  "obj_sardines_3": 11,
+  "obj_sardines_5": 11,
+  "obj_sardines_6": 11,
+  "obj_sardines_7": 11,
+  "obj_croissant_0": 11,
+  "obj_banana_2": 11,
+  "obj_banana_6": 11,
+  "obj_croissant_4": 11,
+  "obj_wooden_spoon_2": 11,
+  "obj_wooden_spoon_6": 11,
+  "obj_sardines_0": 11,
+  "obj_sardines_4": 11,
+  "obj_slider_door_6": 12,
+  "obj_slider_door_2": 12,
+  "obj_slider_frame_2": 12,
+  "obj_slider_frame_6": 12,
+  "obj_slider_door_1": 12,
+  "obj_slider_door_3": 12,
+  "obj_slider_door_5": 12,
+  "obj_slider_door_7": 13,
+  "obj_slider_frame_1": 13,
+  "obj_slider_frame_3": 13,
+  "obj_slider_frame_5": 13,
+  "obj_slider_frame_7": 13,
+  "obj_sofa_back_2": 13,
+  "obj_sofa_back_6": 13,
+  "obj_floor_lamp_0": 13,
+  "obj_floor_lamp_1": 13,
+  "obj_floor_lamp_2": 13,
+  "obj_floor_lamp_3": 13,
+  "obj_floor_lamp_4": 13,
+  "obj_floor_lamp_5": 13,
+  "obj_floor_lamp_6": 13,
+  "obj_floor_lamp_7": 13,
+  "obj_sofa_back_1": 14,
+  "obj_sofa_back_7": 14,
+  "obj_slider_door_0": 14,
+  "obj_slider_frame_0": 14,
+  "obj_slider_door_4": 14,
+  "obj_slider_frame_4": 14,
+  "obj_sofa_back_3": 14,
+  "obj_sofa_back_5": 15,
+  "obj_ficus_0": 15,
+  "obj_ficus_7": 15,
+  "obj_ficus_1": 15,
+  "obj_ent_center_2": 15,
+  "obj_ent_center_6": 15,
+  "obj_ent_center_1": 15,
+  "obj_ent_center_3": 15,
+  "obj_ent_center_5": 15,
+  "obj_ent_center_7": 16,
+  "obj_sofa_back_0": 16,
+  "obj_ficus_6": 16,
+  "obj_ficus_2": 16,
+  "obj_recliner_back_2": 16,
+  "obj_recliner_back_6": 16,
+  "obj_ficus_3": 16,
+  "obj_ficus_5": 16,
+  "obj_recliner_back_1": 16,
+  "obj_recliner_back_3": 16,
+  "obj_recliner_back_5": 16,
+  "obj_recliner_back_7": 16,
+  "obj_ficus_4": 16,
+  "obj_sofa_seat_7": 16,
+  "obj_sofa_seat_1": 16,
+  "obj_recliner_arm_0": 16,
+  "obj_recliner_arm_4": 16,
+  "obj_sofa_arm_a_0": 16,
+  "obj_sofa_arm_b_0": 16,
+  "obj_sofa_seat_6": 17,
+  "obj_sofa_seat_2": 17,
+  "obj_sofa_arm_a_7": 17,
+  "obj_sofa_arm_b_1": 17,
+  "obj_sofa_back_4": 17,
+  "obj_sofa_arm_a_1": 17,
+  "obj_sofa_arm_b_7": 17,
+  "obj_sofa_arm_a_4": 17,
+  "obj_sofa_arm_b_4": 17,
+  "obj_sofa_arm_a_3": 17,
+  "obj_sofa_arm_b_5": 17,
+  "obj_recliner_back_0": 17,
+  "obj_recliner_back_4": 17,
+  "obj_recliner_arm_1": 17,
+  "obj_recliner_arm_3": 17,
+  "obj_recliner_arm_5": 17,
+  "obj_recliner_arm_7": 17,
+  "obj_end_table_1": 17,
+  "obj_end_table_3": 17,
+  "obj_end_table_5": 17,
+  "obj_end_table_7": 17,
+  "obj_recliner_seat_3": 17,
+  "obj_recliner_seat_5": 17,
+  "obj_recliner_seat_1": 17,
+  "obj_recliner_seat_7": 17,
+  "obj_tv_3": 18,
+  "obj_tv_5": 18,
+  "obj_ent_center_0": 18,
+  "obj_sofa_arm_a_5": 18,
+  "obj_sofa_arm_b_3": 18,
+  "obj_ent_center_4": 18,
+  "obj_end_table_2": 18,
+  "obj_end_table_6": 18,
+  "obj_recliner_seat_0": 18,
+  "obj_tv_2": 18,
+  "obj_tv_6": 18,
+  "obj_recliner_seat_4": 18,
+  "obj_sofa_arm_a_6": 18,
+  "obj_sofa_arm_b_2": 18,
+  "obj_sofa_seat_3": 18,
+  "obj_sofa_seat_5": 18,
+  "obj_tv_1": 18,
+  "obj_tv_7": 18,
+  "obj_end_table_0": 18,
+  "obj_end_table_4": 18,
+  "obj_recliner_seat_6": 18,
+  "obj_recliner_seat_2": 18,
+  "obj_sofa_arm_a_2": 18,
+  "obj_sofa_arm_b_6": 18,
+  "obj_tv_4": 18,
+  "obj_tv_0": 18,
+  "obj_sofa_seat_0": 18,
+  "obj_recliner_arm_2": 19,
+  "obj_recliner_arm_6": 19,
+  "obj_console_7": 19,
+  "obj_console_3": 19,
+  "obj_console_5": 19,
+  "obj_console_1": 19,
+  "obj_vcr_1": 19,
+  "obj_vcr_3": 19,
+  "obj_vcr_5": 19,
+  "obj_vcr_7": 19,
+  "obj_vcr_2": 19,
+  "obj_vcr_6": 19,
+  "obj_gamepad_5": 19,
+  "obj_gamepad_4": 19,
+  "obj_console_2": 19,
+  "obj_console_6": 19,
+  "obj_gamepad_1": 19,
+  "obj_gamepad_0": 19,
+  "obj_console_4": 19,
+  "obj_console_0": 19,
+  "obj_gamepad_2": 19,
+  "obj_gamepad_6": 19,
+  "obj_gamepad_3": 19,
+  "obj_gamepad_7": 19,
+  "obj_magazines_3": 19,
+  "obj_magazines_1": 19,
+  "obj_magazines_5": 19,
+  "obj_magazines_7": 19,
+  "obj_vcr_0": 19,
+  "obj_vcr_4": 19,
+  "obj_sofa_seat_4": 19,
+  "obj_magazines_0": 19,
+  "obj_magazines_4": 19,
+  "obj_vhs_stack_5": 19,
+  "obj_vhs_stack_7": 19,
+  "obj_vhs_stack_6": 19,
+  "obj_vhs_stack_1": 19,
+  "obj_vhs_stack_3": 19,
+  "obj_vhs_stack_2": 19,
+  "obj_magazines_2": 19,
+  "obj_magazines_6": 19,
+  "obj_vhs_stack_0": 19,
+  "obj_vhs_stack_4": 19,
+  "obj_remote_0": 19,
+  "obj_remote_4": 19,
+  "obj_remote_1": 19,
+  "obj_remote_3": 19,
+  "obj_remote_5": 19,
+  "obj_remote_7": 19,
+  "obj_remote_2": 19,
+  "obj_remote_6": 19,
+  "obj_bucket_2": 20,
+  "obj_bucket_6": 20,
+  "obj_bucket_3": 20,
+  "obj_bucket_1": 20,
+  "obj_bucket_5": 20,
+  "obj_bucket_7": 20,
+  "obj_bucket_0": 20,
+  "obj_bucket_4": 20,
+  "obj_watering_can_4": 20,
+  "obj_sprinkler_3": 20,
+  "obj_watering_can_0": 20,
+  "obj_sprinkler_6": 20,
+  "obj_sprinkler_2": 20,
+  "obj_sprinkler_5": 20,
+  "obj_watering_can_5": 20,
+  "obj_watering_can_3": 20,
+  "obj_sprinkler_7": 20,
+  "obj_watering_can_7": 20,
+  "obj_watering_can_1": 20,
+  "obj_sprinkler_1": 20,
+  "obj_pumpkin_0": 20,
+  "obj_pumpkin_4": 20,
+  "obj_pumpkin_1": 20,
+  "obj_pumpkin_3": 20,
+  "obj_pumpkin_5": 20,
+  "obj_pumpkin_7": 20,
+  "obj_pumpkin_2": 20,
+  "obj_pumpkin_6": 20,
+  "obj_sprinkler_4": 20,
+  "obj_soccer_ball_2": 20,
+  "obj_soccer_ball_5": 20,
+  "obj_soccer_ball_6": 20,
+  "obj_soccer_ball_0": 20,
+  "obj_soccer_ball_1": 20,
+  "obj_soccer_ball_3": 20,
+  "obj_soccer_ball_4": 20,
+  "obj_soccer_ball_7": 20,
+  "obj_jack_o_lantern_7": 20,
+  "obj_jack_o_lantern_6": 20,
+  "obj_jack_o_lantern_5": 20,
+  "obj_jack_o_lantern_4": 20,
+  "obj_jack_o_lantern_0": 20,
+  "obj_jack_o_lantern_3": 20,
+  "obj_jack_o_lantern_1": 20,
+  "obj_jack_o_lantern_2": 20,
+  "obj_sprinkler_0": 20,
+  "obj_garden_gloves_0": 20,
+  "obj_watering_can_2": 20,
+  "obj_watering_can_6": 20,
+  "obj_garden_gloves_1": 20,
+  "obj_garden_gloves_7": 20,
+  "obj_dandelion_a_1": 20,
+  "obj_dandelion_a_4": 20,
+  "obj_dandelion_a_0": 20,
+  "obj_dandelion_a_5": 20,
+  "obj_garden_gloves_4": 20,
+  "obj_dandelion_a_3": 20,
+  "obj_dandelion_a_6": 20,
+  "obj_dandelion_a_2": 20,
+  "obj_dandelion_a_7": 20,
+  "obj_dandelion_b_5": 20,
+  "obj_dandelion_b_0": 20,
+  "obj_garden_gloves_3": 20,
+  "obj_dandelion_b_7": 20,
+  "obj_garden_gloves_5": 20,
+  "obj_dandelion_b_6": 20,
+  "obj_dandelion_b_3": 20,
+  "obj_dandelion_b_2": 20,
+  "obj_dandelion_b_1": 20,
+  "obj_garden_gloves_6": 20,
+  "obj_garden_gloves_2": 20,
+  "obj_dandelion_b_4": 20,
+  "obj_dandelion_c_6": 20,
+  "obj_stone_a_0": 20,
+  "obj_dandelion_c_7": 20,
+  "obj_dandelion_c_0": 20,
+  "obj_stone_a_1": 20,
+  "obj_dandelion_c_5": 20,
+  "obj_stone_a_4": 20,
+  "obj_stone_a_5": 20,
+  "obj_dandelion_c_4": 20,
+  "obj_rubber_duck_4": 20,
+  "obj_dandelion_c_2": 20,
+  "obj_grass_tall_c_3": 20,
+  "obj_grass_tall_c_winter_3": 20,
+  "obj_grass_tall_b_4": 20,
+  "obj_grass_tall_b_winter_4": 20,
+  "obj_stone_e_4": 20,
+  "obj_dandelion_c_3": 20,
+  "obj_stone_e_0": 20,
+  "obj_stone_b_1": 20,
+  "obj_grass_tall_a_7": 20,
+  "obj_grass_tall_a_winter_7": 20,
+  "obj_stone_a_7": 20,
+  "obj_stone_e_3": 20,
+  "obj_stone_f_0": 20,
+  "obj_grass_tall_c_4": 20,
+  "obj_grass_tall_c_winter_4": 20,
+  "obj_grass_tall_a_6": 20,
+  "obj_grass_tall_a_winter_6": 20,
+  "obj_grass_tall_c_2": 20,
+  "obj_grass_tall_c_winter_2": 20,
+  "obj_rubber_duck_3": 20,
+  "obj_grass_tall_b_2": 20,
+  "obj_grass_tall_b_winter_2": 20,
+  "obj_rubber_duck_5": 20,
+  "obj_stone_c_7": 20,
+  "obj_grass_tall_a_5": 20,
+  "obj_grass_tall_a_winter_5": 20,
+  "obj_grass_tall_b_1": 20,
+  "obj_grass_tall_b_winter_1": 20,
+  "obj_grass_tall_a_4": 20,
+  "obj_grass_tall_a_winter_4": 20,
+  "obj_grass_tall_b_5": 20,
+  "obj_grass_tall_b_winter_5": 20,
+  "obj_stone_c_6": 20,
+  "obj_stone_e_7": 20,
+  "obj_grass_clump_b_0": 20,
+  "obj_grass_clump_b_winter_0": 20,
+  "obj_stone_b_0": 20,
+  "obj_stone_b_5": 20,
+  "obj_stone_c_2": 20,
+  "obj_dandelion_c_1": 20,
+  "obj_grass_tall_c_1": 20,
+  "obj_grass_tall_c_winter_1": 20,
+  "obj_rubber_duck_0": 20,
+  "obj_grass_tall_a_1": 20,
+  "obj_grass_tall_a_winter_1": 20,
+  "obj_grass_tall_b_0": 20,
+  "obj_grass_tall_b_winter_0": 20,
+  "obj_stone_b_4": 20,
+  "obj_stone_c_5": 20,
+  "obj_stone_f_4": 20,
+  "obj_grass_tall_a_0": 20,
+  "obj_grass_tall_a_winter_0": 20,
+  "obj_grass_tall_b_6": 20,
+  "obj_grass_tall_b_winter_6": 20,
+  "obj_stone_c_1": 20,
+  "obj_stone_e_5": 20,
+  "obj_rubber_duck_1": 20,
+  "obj_rubber_duck_7": 20,
+  "obj_stone_c_3": 20,
+  "obj_grass_clump_b_2": 20,
+  "obj_grass_clump_b_winter_2": 20,
+  "obj_rubber_duck_2": 20,
+  "obj_rubber_duck_6": 20,
+  "obj_grass_tall_b_3": 20,
+  "obj_grass_tall_b_winter_3": 20,
+  "obj_grass_tall_c_7": 20,
+  "obj_grass_tall_c_winter_7": 20,
+  "obj_stone_a_6": 20,
+  "obj_grass_clump_b_1": 20,
+  "obj_grass_clump_b_7": 20,
+  "obj_grass_clump_b_winter_1": 20,
+  "obj_grass_clump_b_winter_7": 20,
+  "obj_grass_tall_b_7": 20,
+  "obj_grass_tall_b_winter_7": 20,
+  "obj_grass_tall_c_0": 20,
+  "obj_grass_tall_c_winter_0": 20,
+  "obj_grass_tall_d_5": 20,
+  "obj_grass_tall_d_winter_5": 20,
+  "obj_stone_a_3": 20,
+  "obj_stone_f_1": 20,
+  "obj_stone_e_1": 20,
+  "obj_grass_clump_b_4": 20,
+  "obj_grass_clump_b_winter_4": 20,
+  "obj_grass_tall_c_5": 20,
+  "obj_grass_tall_c_winter_5": 20,
+  "obj_grass_tall_d_0": 20,
+  "obj_grass_tall_d_winter_0": 20,
+  "obj_grass_clump_a_5": 20,
+  "obj_grass_clump_a_winter_5": 20,
+  "obj_grass_clump_b_6": 20,
+  "obj_grass_clump_b_winter_6": 20,
+  "obj_stone_f_7": 20,
+  "obj_grass_clump_b_3": 20,
+  "obj_grass_clump_b_winter_3": 20,
+  "obj_grass_tall_d_4": 20,
+  "obj_grass_tall_d_winter_4": 20,
+  "obj_stone_d_0": 20,
+  "obj_stone_d_3": 20,
+  "obj_stone_b_2": 20,
+  "obj_stone_d_2": 20,
+  "obj_grass_clump_a_3": 20,
+  "obj_grass_clump_a_winter_3": 20,
+  "obj_grass_clump_b_5": 20,
+  "obj_grass_clump_b_winter_5": 20,
+  "obj_grass_clump_a_6": 20,
+  "obj_grass_clump_a_winter_6": 20,
+  "obj_grass_tall_d_2": 20,
+  "obj_grass_tall_d_3": 20,
+  "obj_grass_tall_d_winter_2": 20,
+  "obj_grass_tall_d_winter_3": 20,
+  "obj_baseball_0": 20,
+  "obj_baseball_1": 20,
+  "obj_baseball_3": 20,
+  "obj_baseball_4": 20,
+  "obj_baseball_5": 20,
+  "obj_baseball_7": 20,
+  "obj_grass_tall_a_2": 20,
+  "obj_grass_tall_a_winter_2": 20,
+  "obj_stone_d_1": 20,
+  "obj_baseball_2": 20,
+  "obj_baseball_6": 20,
+  "obj_grass_tall_d_7": 20,
+  "obj_grass_tall_d_winter_7": 20,
+  "obj_stone_f_6": 20,
+  "obj_stone_d_7": 20,
+  "obj_stone_f_5": 20,
+  "obj_grass_clump_a_4": 20,
+  "obj_grass_clump_a_winter_4": 20,
+  "obj_stone_b_6": 20,
+  "obj_grass_clump_a_2": 20,
+  "obj_grass_clump_a_7": 20,
+  "obj_grass_clump_a_winter_2": 20,
+  "obj_grass_clump_a_winter_7": 20,
+  "obj_grass_tall_c_6": 20,
+  "obj_grass_tall_c_winter_6": 20,
+  "obj_stone_a_2": 20,
+  "obj_stone_f_3": 20,
+  "obj_grass_clump_a_0": 20,
+  "obj_grass_clump_a_winter_0": 20,
+  "obj_stone_c_4": 20,
+  "obj_grass_tall_a_3": 20,
+  "obj_grass_tall_a_winter_3": 20,
+  "obj_grass_tall_d_1": 20,
+  "obj_grass_tall_d_winter_1": 20,
+  "obj_stone_c_0": 20,
+  "obj_stone_d_4": 20,
+  "obj_stone_e_2": 20,
+  "obj_grass_clump_e_4": 20,
+  "obj_grass_clump_e_winter_4": 20,
+  "obj_stone_e_6": 20,
+  "obj_stone_f_2": 20,
+  "obj_grass_clump_a_1": 20,
+  "obj_grass_clump_a_winter_1": 20,
+  "obj_grass_clump_e_3": 20,
+  "obj_grass_clump_e_winter_3": 20,
+  "obj_stone_d_6": 20,
+  "obj_grass_clump_e_0": 20,
+  "obj_grass_clump_e_winter_0": 20,
+  "obj_grass_clump_d_6": 20,
+  "obj_grass_clump_d_winter_6": 20,
+  "obj_stone_d_5": 20,
+  "obj_grass_clump_e_1": 20,
+  "obj_grass_clump_e_winter_1": 20,
+  "obj_grass_clump_e_2": 20,
+  "obj_grass_clump_e_winter_2": 20,
+  "obj_grass_tall_d_6": 20,
+  "obj_grass_tall_d_winter_6": 20,
+  "obj_stone_b_7": 20,
+  "obj_grass_clump_c_0": 20,
+  "obj_grass_clump_c_winter_0": 20,
+  "obj_grass_clump_d_5": 20,
+  "obj_grass_clump_d_winter_5": 20,
+  "obj_grass_clump_e_5": 20,
+  "obj_grass_clump_e_winter_5": 20,
+  "obj_grass_dead_a_0": 20,
+  "obj_grass_dead_a_winter_0": 20,
+  "obj_grass_clump_d_3": 20,
+  "obj_grass_clump_d_winter_3": 20,
+  "obj_stone_b_3": 20,
+  "obj_grass_clump_c_4": 20,
+  "obj_grass_clump_c_winter_4": 20,
+  "obj_grass_clump_d_2": 20,
+  "obj_grass_clump_d_4": 20,
+  "obj_grass_clump_d_winter_2": 20,
+  "obj_grass_clump_d_winter_4": 20,
+  "obj_grass_clump_c_5": 20,
+  "obj_grass_clump_c_winter_5": 20,
+  "obj_grass_clump_e_6": 20,
+  "obj_grass_clump_e_winter_6": 20,
+  "obj_grass_clump_d_0": 20,
+  "obj_grass_clump_d_1": 20,
+  "obj_grass_clump_d_7": 20,
+  "obj_grass_clump_d_winter_0": 20,
+  "obj_grass_clump_d_winter_1": 20,
+  "obj_grass_clump_d_winter_7": 20,
+  "obj_grass_dead_a_1": 20,
+  "obj_grass_dead_a_winter_1": 20,
+  "obj_grass_dead_b_2": 20,
+  "obj_grass_dead_b_winter_2": 20,
+  "obj_grass_clump_e_7": 20,
+  "obj_grass_clump_e_winter_7": 20,
+  "obj_grass_clump_c_2": 20,
+  "obj_grass_clump_c_winter_2": 20,
+  "obj_grass_clump_c_1": 20,
+  "obj_grass_clump_c_3": 20,
+  "obj_grass_clump_c_7": 20,
+  "obj_grass_clump_c_winter_1": 20,
+  "obj_grass_clump_c_winter_3": 20,
+  "obj_grass_clump_c_winter_7": 20,
+  "obj_grass_dead_a_5": 20,
+  "obj_grass_dead_a_winter_5": 20,
+  "obj_grass_dead_b_5": 20,
+  "obj_grass_dead_b_winter_5": 20,
+  "obj_grass_dead_b_1": 20,
+  "obj_grass_dead_b_winter_1": 20,
+  "obj_grass_dead_a_6": 20,
+  "obj_grass_dead_a_winter_6": 20,
+  "obj_grass_dead_a_4": 20,
+  "obj_grass_dead_a_7": 20,
+  "obj_grass_dead_a_winter_4": 20,
+  "obj_grass_dead_a_winter_7": 20,
+  "obj_grass_clump_c_6": 20,
+  "obj_grass_clump_c_winter_6": 20,
+  "obj_grass_dead_b_4": 20,
+  "obj_grass_dead_b_6": 20,
+  "obj_grass_dead_b_winter_4": 20,
+  "obj_grass_dead_b_winter_6": 20,
+  "obj_grass_dead_b_0": 20,
+  "obj_grass_dead_b_winter_0": 20,
+  "obj_grass_tall_a_burnt_7": 20,
+  "obj_grass_tall_b_burnt_4": 20,
+  "obj_grass_tall_a_burnt_0": 20,
+  "obj_grass_tall_a_burnt_5": 20,
+  "obj_grass_tall_b_burnt_7": 20,
+  "obj_grass_tall_a_burnt_6": 20,
+  "obj_grass_tall_b_burnt_1": 20,
+  "obj_grass_tall_b_burnt_3": 20,
+  "obj_grass_tall_c_burnt_3": 20,
+  "obj_grass_tall_d_burnt_4": 20,
+  "obj_grass_clump_b_burnt_1": 20,
+  "obj_grass_clump_b_burnt_7": 20,
+  "obj_grass_clump_b_burnt_0": 20,
+  "obj_grass_clump_b_burnt_2": 20,
+  "obj_grass_clump_b_burnt_3": 20,
+  "obj_grass_tall_a_burnt_1": 20,
+  "obj_grass_tall_a_burnt_4": 20,
+  "obj_grass_tall_b_burnt_2": 20,
+  "obj_grass_tall_c_burnt_0": 20,
+  "obj_grass_clump_b_burnt_5": 20,
+  "obj_grass_dead_a_2": 20,
+  "obj_grass_dead_a_3": 20,
+  "obj_grass_dead_a_winter_2": 20,
+  "obj_grass_dead_a_winter_3": 20,
+  "obj_grass_dead_b_3": 20,
+  "obj_grass_dead_b_winter_3": 20,
+  "obj_grass_tall_d_burnt_5": 20,
+  "obj_grass_clump_a_burnt_3": 20,
+  "obj_grass_clump_b_burnt_4": 20,
+  "obj_grass_clump_b_burnt_6": 20,
+  "obj_grass_tall_a_burnt_3": 20,
+  "obj_grass_tall_c_burnt_2": 20,
+  "obj_grass_tall_b_burnt_5": 20,
+  "obj_grass_tall_d_burnt_3": 20,
+  "obj_grass_clump_a_burnt_4": 20,
+  "obj_grass_tall_c_burnt_1": 20,
+  "obj_grass_clump_a_burnt_0": 20,
+  "obj_grass_clump_a_burnt_2": 20,
+  "obj_grass_clump_a_burnt_7": 20,
+  "obj_grass_tall_b_burnt_0": 20,
+  "obj_grass_tall_b_burnt_6": 20,
+  "obj_grass_tall_c_burnt_7": 20,
+  "obj_grass_tall_d_burnt_2": 20,
+  "obj_grass_clump_a_burnt_1": 20,
+  "obj_grass_dead_b_7": 20,
+  "obj_grass_dead_b_winter_7": 20,
+  "obj_grass_tall_d_burnt_0": 20,
+  "obj_grass_clump_a_burnt_5": 20,
+  "obj_grass_tall_c_burnt_6": 20,
+  "obj_grass_clump_a_burnt_6": 20,
+  "obj_grass_clump_e_burnt_4": 20,
+  "obj_grass_tall_d_burnt_7": 20,
+  "obj_grass_tall_a_burnt_2": 20,
+  "obj_grass_clump_e_burnt_1": 20,
+  "obj_grass_clump_e_burnt_2": 20,
+  "obj_grass_clump_e_burnt_3": 20,
+  "obj_grass_clump_e_burnt_5": 20,
+  "obj_grass_tall_c_burnt_5": 20,
+  "obj_grass_clump_c_burnt_5": 20,
+  "obj_grass_clump_d_burnt_2": 20,
+  "obj_grass_clump_d_burnt_4": 20,
+  "obj_grass_tall_d_burnt_1": 20,
+  "obj_grass_clump_c_burnt_4": 20,
+  "obj_grass_clump_e_burnt_0": 20,
+  "obj_grass_clump_e_burnt_6": 20,
+  "obj_grass_dead_a_burnt_0": 20,
+  "obj_grass_tall_c_burnt_4": 20,
+  "obj_grass_clump_c_burnt_0": 20,
+  "obj_grass_clump_d_burnt_1": 20,
+  "obj_grass_clump_d_burnt_3": 20,
+  "obj_grass_clump_d_burnt_5": 20,
+  "obj_grass_tall_d_burnt_6": 20,
+  "obj_grass_clump_c_burnt_1": 20,
+  "obj_grass_clump_d_burnt_0": 20,
+  "obj_grass_dead_a_burnt_1": 20,
+  "obj_grass_clump_c_burnt_3": 20,
+  "obj_grass_clump_e_burnt_7": 20,
+  "obj_grass_clump_c_burnt_7": 20,
+  "obj_grass_clump_d_burnt_6": 20,
+  "obj_grass_dead_a_burnt_7": 20,
+  "obj_grass_dead_b_burnt_1": 20,
+  "obj_grass_dead_b_burnt_2": 20,
+  "obj_grass_clump_c_burnt_2": 20,
+  "obj_grass_clump_d_burnt_7": 20,
+  "obj_grass_dead_b_burnt_0": 20,
+  "obj_grass_dead_a_burnt_6": 20,
+  "obj_grass_dead_b_burnt_5": 20,
+  "obj_grass_dead_b_burnt_6": 20,
+  "obj_grass_clump_c_burnt_6": 20,
+  "obj_grass_dead_a_burnt_2": 20,
+  "obj_grass_dead_a_burnt_4": 20,
+  "obj_grass_dead_b_burnt_7": 20,
+  "obj_grass_dead_b_burnt_3": 20,
+  "obj_grass_dead_a_burnt_5": 20,
+  "obj_grass_dead_a_burnt_3": 20,
+  "obj_grass_dead_b_burnt_4": 20
+ },
+ "objects": {
+  "banana": {
+   "0": [
+    53.5,
+    86.95
+   ],
+   "1": [
+    69.5,
+    69.95
+   ],
+   "2": [
+    93.5,
+    57.95
+   ],
+   "3": [
+    76.5,
+    71.95
+   ],
+   "4": [
+    54.5,
+    92.95
+   ],
+   "5": [
+    92.5,
+    77.95
+   ],
+   "6": [
+    89.5,
+    55.95
+   ],
+   "7": [
+    68.5,
+    89.95
+   ]
+  },
+  "baseball": {
+   "0": [
+    57.0,
+    69.5
+   ],
+   "1": [
+    58.0,
+    69.5
+   ],
+   "2": [
+    57.0,
+    69.5
+   ],
+   "3": [
+    58.0,
+    69.5
+   ],
+   "4": [
+    57.0,
+    69.5
+   ],
+   "5": [
+    58.0,
+    69.5
+   ],
+   "6": [
+    58.0,
+    69.5
+   ],
+   "7": [
+    58.0,
+    69.5
+   ]
+  },
+  "bath_towel": {
+   "0": [
+    479.0,
+    161.62
+   ],
+   "1": [
+    280.0,
+    358.62
+   ],
+   "2": [
+    173.0,
+    425.62
+   ],
+   "3": [
+    374.0,
+    251.62
+   ],
+   "4": [
+    480.0,
+    155.62
+   ],
+   "5": [
+    393.0,
+    331.62
+   ],
+   "6": [
+    174.0,
+    430.62
+   ],
+   "7": [
+    403.0,
+    349.62
+   ]
+  },
+  "bleach_bottle": {
+   "0": [
+    67.0,
+    236.67
+   ],
+   "1": [
+    67.0,
+    232.67
+   ],
+   "2": [
+    67.0,
+    230.67
+   ],
+   "3": [
+    67.0,
+    232.67
+   ],
+   "4": [
+    67.0,
+    236.67
+   ],
+   "5": [
+    67.0,
+    238.67
+   ],
+   "6": [
+    67.0,
+    237.67
+   ],
+   "7": [
+    67.0,
+    238.67
+   ]
+  },
+  "board_wood": {
+   "0": [
+    195.5,
+    113.85
+   ],
+   "1": [
+    199.5,
+    183.85
+   ],
+   "2": [
+    115.5,
+    181.85
+   ],
+   "3": [
+    198.5,
+    185.85
+   ],
+   "4": [
+    196.5,
+    111.85
+   ],
+   "5": [
+    200.5,
+    184.85
+   ],
+   "6": [
+    116.5,
+    183.85
+   ],
+   "7": [
+    198.5,
+    187.85
+   ]
+  },
+  "bowl_small": {
+   "0": [
+    90.5,
+    80.31
+   ],
+   "1": [
+    84.5,
+    96.31
+   ],
+   "2": [
+    77.5,
+    100.31
+   ],
+   "3": [
+    85.5,
+    93.31
+   ],
+   "4": [
+    90.5,
+    84.31
+   ],
+   "5": [
+    85.5,
+    95.31
+   ],
+   "6": [
+    73.5,
+    101.31
+   ],
+   "7": [
+    86.5,
+    96.31
+   ]
+  },
+  "brass_pot": {
+   "0": [
+    182.5,
+    194.79
+   ],
+   "1": [
+    182.5,
+    194.79
+   ],
+   "2": [
+    182.5,
+    194.79
+   ],
+   "3": [
+    182.5,
+    194.79
+   ],
+   "4": [
+    182.5,
+    194.79
+   ],
+   "5": [
+    182.5,
+    194.79
+   ],
+   "6": [
+    181.5,
+    194.79
+   ],
+   "7": [
+    182.5,
+    194.79
+   ]
+  },
+  "bucket": {
+   "0": [
+    217.0,
+    434.2
+   ],
+   "1": [
+    217.0,
+    446.2
+   ],
+   "2": [
+    217.0,
+    456.2
+   ],
+   "3": [
+    217.0,
+    446.2
+   ],
+   "4": [
+    217.0,
+    433.2
+   ],
+   "5": [
+    217.0,
+    444.2
+   ],
+   "6": [
+    217.0,
+    458.2
+   ],
+   "7": [
+    217.0,
+    445.2
+   ]
+  },
+  "cake": {
+   "0": [
+    106.5,
+    111.03
+   ],
+   "1": [
+    104.5,
+    109.03
+   ],
+   "2": [
+    108.5,
+    104.03
+   ],
+   "3": [
+    112.5,
+    101.03
+   ],
+   "4": [
+    112.5,
+    107.03
+   ],
+   "5": [
+    102.5,
+    111.03
+   ],
+   "6": [
+    108.5,
+    109.03
+   ],
+   "7": [
+    105.5,
+    103.03
+   ]
+  },
+  "can_beans": {
+   "0": [
+    74.0,
+    146.7
+   ],
+   "1": [
+    74.0,
+    146.7
+   ],
+   "2": [
+    74.0,
+    146.7
+   ],
+   "3": [
+    74.0,
+    146.7
+   ],
+   "4": [
+    74.0,
+    146.7
+   ],
+   "5": [
+    74.0,
+    146.7
+   ],
+   "6": [
+    74.0,
+    146.7
+   ],
+   "7": [
+    74.0,
+    146.7
+   ]
+  },
+  "can_tomatoes": {
+   "0": [
+    88.0,
+    132.23
+   ],
+   "1": [
+    88.0,
+    132.23
+   ],
+   "2": [
+    88.0,
+    132.23
+   ],
+   "3": [
+    88.0,
+    132.23
+   ],
+   "4": [
+    88.0,
+    132.23
+   ],
+   "5": [
+    88.0,
+    132.23
+   ],
+   "6": [
+    88.0,
+    132.23
+   ],
+   "7": [
+    88.0,
+    132.23
+   ]
+  },
+  "candlestick": {
+   "0": [
+    79.0,
+    173.91
+   ],
+   "1": [
+    79.0,
+    173.91
+   ],
+   "2": [
+    79.0,
+    173.91
+   ],
+   "3": [
+    79.0,
+    173.91
+   ],
+   "4": [
+    79.0,
+    172.91
+   ],
+   "5": [
+    79.0,
+    172.91
+   ],
+   "6": [
+    79.0,
+    172.91
+   ],
+   "7": [
+    79.0,
+    172.91
+   ]
+  },
+  "carrot_cake": {
+   "0": [
+    120.0,
+    128.32
+   ],
+   "1": [
+    116.0,
+    129.32
+   ],
+   "2": [
+    118.0,
+    133.32
+   ],
+   "3": [
+    118.0,
+    127.32
+   ],
+   "4": [
+    117.0,
+    129.32
+   ],
+   "5": [
+    118.0,
+    129.32
+   ],
+   "6": [
+    118.0,
+    127.32
+   ],
+   "7": [
+    117.0,
+    129.32
+   ]
+  },
+  "carton_milk": {
+   "0": [
+    73.0,
+    186.29
+   ],
+   "1": [
+    73.0,
+    210.29
+   ],
+   "2": [
+    73.0,
+    220.29
+   ],
+   "3": [
+    73.0,
+    211.29
+   ],
+   "4": [
+    73.0,
+    189.29
+   ],
+   "5": [
+    73.0,
+    211.29
+   ],
+   "6": [
+    73.0,
+    220.29
+   ],
+   "7": [
+    73.0,
+    210.29
+   ]
+  },
+  "cereal_bowl": {
+   "0": [
+    85.5,
+    91.91
+   ],
+   "1": [
+    85.5,
+    91.91
+   ],
+   "2": [
+    85.5,
+    91.91
+   ],
+   "3": [
+    85.5,
+    91.91
+   ],
+   "4": [
+    92.5,
+    91.91
+   ],
+   "5": [
+    92.5,
+    91.91
+   ],
+   "6": [
+    85.5,
+    102.91
+   ],
+   "7": [
+    85.5,
+    102.91
+   ]
+  },
+  "cereal_bowl_dead": {
+   "0": [
+    53.0,
+    59.85
+   ],
+   "1": [
+    54.0,
+    53.85
+   ],
+   "2": [
+    61.0,
+    47.85
+   ],
+   "3": [
+    60.0,
+    48.85
+   ],
+   "4": [
+    63.0,
+    53.85
+   ],
+   "5": [
+    58.0,
+    44.85
+   ],
+   "6": [
+    58.0,
+    55.85
+   ],
+   "7": [
+    52.0,
+    51.85
+   ]
+  },
+  "cereal_bowl_dmg": {
+   "0": [
+    85.5,
+    91.91
+   ],
+   "1": [
+    85.5,
+    91.91
+   ],
+   "2": [
+    88.5,
+    91.91
+   ],
+   "3": [
+    85.5,
+    91.91
+   ],
+   "4": [
+    92.5,
+    95.91
+   ],
+   "5": [
+    92.5,
+    91.91
+   ],
+   "6": [
+    85.5,
+    102.91
+   ],
+   "7": [
+    85.5,
+    102.91
+   ]
+  },
+  "chair_back": {
+   "0": [
+    168.0,
+    814.16
+   ],
+   "1": [
+    187.0,
+    896.16
+   ],
+   "2": [
+    127.0,
+    905.16
+   ],
+   "3": [
+    192.0,
+    852.16
+   ],
+   "4": [
+    168.0,
+    755.16
+   ],
+   "5": [
+    167.0,
+    852.16
+   ],
+   "6": [
+    80.0,
+    905.16
+   ],
+   "7": [
+    167.0,
+    896.16
+   ]
+  },
+  "chair_seat": {
+   "0": [
+    171.0,
+    448.29
+   ],
+   "1": [
+    220.0,
+    501.29
+   ],
+   "2": [
+    154.0,
+    479.29
+   ],
+   "3": [
+    220.0,
+    521.29
+   ],
+   "4": [
+    171.0,
+    459.29
+   ],
+   "5": [
+    187.0,
+    521.29
+   ],
+   "6": [
+    119.0,
+    479.29
+   ],
+   "7": [
+    189.0,
+    501.29
+   ]
+  },
+  "coat_rack": {
+   "0": [
+    244.5,
+    1468.13
+   ],
+   "1": [
+    244.5,
+    1462.13
+   ],
+   "2": [
+    244.5,
+    1449.13
+   ],
+   "3": [
+    244.5,
+    1440.13
+   ],
+   "4": [
+    244.5,
+    1437.13
+   ],
+   "5": [
+    244.5,
+    1461.13
+   ],
+   "6": [
+    244.5,
+    1479.13
+   ],
+   "7": [
+    244.5,
+    1483.13
+   ]
+  },
+  "console": {
+   "0": [
+    179.0,
+    183.98
+   ],
+   "1": [
+    204.0,
+    228.98
+   ],
+   "2": [
+    172.0,
+    185.98
+   ],
+   "3": [
+    204.0,
+    213.98
+   ],
+   "4": [
+    179.0,
+    175.98
+   ],
+   "5": [
+    204.0,
+    213.98
+   ],
+   "6": [
+    177.0,
+    185.98
+   ],
+   "7": [
+    204.0,
+    228.98
+   ]
+  },
+  "cookie_jar": {
+   "0": [
+    122.0,
+    201.34
+   ],
+   "1": [
+    122.0,
+    201.34
+   ],
+   "2": [
+    122.0,
+    201.34
+   ],
+   "3": [
+    122.0,
+    201.34
+   ],
+   "4": [
+    122.0,
+    201.34
+   ],
+   "5": [
+    122.0,
+    201.34
+   ],
+   "6": [
+    122.0,
+    201.34
+   ],
+   "7": [
+    122.0,
+    201.34
+   ]
+  },
+  "cookie_jar_dead": {
+   "0": [
+    88.0,
+    90.29
+   ],
+   "1": [
+    87.0,
+    92.29
+   ],
+   "2": [
+    81.0,
+    83.29
+   ],
+   "3": [
+    80.0,
+    86.29
+   ],
+   "4": [
+    90.0,
+    79.29
+   ],
+   "5": [
+    86.0,
+    80.29
+   ],
+   "6": [
+    88.0,
+    89.29
+   ],
+   "7": [
+    90.0,
+    82.29
+   ]
+  },
+  "cookie_jar_dmg": {
+   "0": [
+    122.0,
+    201.34
+   ],
+   "1": [
+    122.0,
+    201.34
+   ],
+   "2": [
+    122.0,
+    201.34
+   ],
+   "3": [
+    122.0,
+    201.34
+   ],
+   "4": [
+    122.0,
+    201.34
+   ],
+   "5": [
+    122.0,
+    201.34
+   ],
+   "6": [
+    122.0,
+    201.34
+   ],
+   "7": [
+    122.0,
+    201.34
+   ]
+  },
+  "croissant": {
+   "0": [
+    92.0,
+    68.77
+   ],
+   "1": [
+    60.0,
+    82.77
+   ],
+   "2": [
+    47.0,
+    89.77
+   ],
+   "3": [
+    63.0,
+    61.77
+   ],
+   "4": [
+    91.0,
+    54.77
+   ],
+   "5": [
+    83.0,
+    67.77
+   ],
+   "6": [
+    58.0,
+    88.77
+   ],
+   "7": [
+    84.0,
+    82.77
+   ]
+  },
+  "cutting_board": {
+   "0": [
+    158.0,
+    99.98
+   ],
+   "1": [
+    181.0,
+    164.98
+   ],
+   "2": [
+    107.0,
+    144.98
+   ],
+   "3": [
+    181.0,
+    164.98
+   ],
+   "4": [
+    158.0,
+    99.98
+   ],
+   "5": [
+    181.0,
+    164.98
+   ],
+   "6": [
+    107.0,
+    144.98
+   ],
+   "7": [
+    181.0,
+    164.98
+   ]
+  },
+  "dandelion_a": {
+   "0": [
+    101.0,
+    133.28
+   ],
+   "1": [
+    96.0,
+    131.28
+   ],
+   "2": [
+    110.0,
+    130.28
+   ],
+   "3": [
+    115.0,
+    132.28
+   ],
+   "4": [
+    102.0,
+    135.28
+   ],
+   "5": [
+    99.0,
+    136.28
+   ],
+   "6": [
+    104.0,
+    138.28
+   ],
+   "7": [
+    116.0,
+    136.28
+   ]
+  },
+  "dandelion_b": {
+   "0": [
+    89.5,
+    126.86
+   ],
+   "1": [
+    73.5,
+    106.86
+   ],
+   "2": [
+    91.5,
+    106.86
+   ],
+   "3": [
+    91.5,
+    93.86
+   ],
+   "4": [
+    100.5,
+    90.86
+   ],
+   "5": [
+    116.5,
+    111.86
+   ],
+   "6": [
+    105.5,
+    120.86
+   ],
+   "7": [
+    114.5,
+    135.86
+   ]
+  },
+  "dandelion_c": {
+   "0": [
+    70.5,
+    83.26
+   ],
+   "1": [
+    67.5,
+    70.26
+   ],
+   "2": [
+    73.5,
+    66.26
+   ],
+   "3": [
+    62.5,
+    71.26
+   ],
+   "4": [
+    69.5,
+    75.26
+   ],
+   "5": [
+    68.5,
+    85.26
+   ],
+   "6": [
+    66.5,
+    92.26
+   ],
+   "7": [
+    56.5,
+    90.26
+   ]
+  },
+  "dog_bowl": {
+   "0": [
+    107.0,
+    110.22
+   ],
+   "1": [
+    107.0,
+    110.22
+   ],
+   "2": [
+    107.0,
+    110.22
+   ],
+   "3": [
+    107.0,
+    110.22
+   ],
+   "4": [
+    107.0,
+    110.22
+   ],
+   "5": [
+    107.0,
+    110.22
+   ],
+   "6": [
+    107.0,
+    110.22
+   ],
+   "7": [
+    107.0,
+    110.22
+   ]
+  },
+  "enamel_pot": {
+   "0": [
+    150.0,
+    169.28
+   ],
+   "1": [
+    146.0,
+    169.28
+   ],
+   "2": [
+    146.0,
+    173.28
+   ],
+   "3": [
+    146.0,
+    169.28
+   ],
+   "4": [
+    150.0,
+    169.28
+   ],
+   "5": [
+    146.0,
+    169.28
+   ],
+   "6": [
+    146.0,
+    173.28
+   ],
+   "7": [
+    146.0,
+    169.28
+   ]
+  },
+  "end_table": {
+   "0": [
+    304.5,
+    588.24
+   ],
+   "1": [
+    304.5,
+    677.24
+   ],
+   "2": [
+    304.5,
+    623.24
+   ],
+   "3": [
+    304.5,
+    677.24
+   ],
+   "4": [
+    304.5,
+    588.24
+   ],
+   "5": [
+    304.5,
+    677.24
+   ],
+   "6": [
+    304.5,
+    623.24
+   ],
+   "7": [
+    304.5,
+    677.24
+   ]
+  },
+  "ent_center": {
+   "0": [
+    542.5,
+    654.24
+   ],
+   "1": [
+    542.5,
+    893.24
+   ],
+   "2": [
+    538.5,
+    893.24
+   ],
+   "3": [
+    542.5,
+    893.24
+   ],
+   "4": [
+    542.5,
+    654.24
+   ],
+   "5": [
+    542.5,
+    893.24
+   ],
+   "6": [
+    538.5,
+    893.24
+   ],
+   "7": [
+    542.5,
+    893.24
+   ]
+  },
+  "faucet": {
+   "0": [
+    102.5,
+    163.26
+   ],
+   "1": [
+    102.5,
+    161.26
+   ],
+   "2": [
+    102.5,
+    170.26
+   ],
+   "3": [
+    102.5,
+    192.26
+   ],
+   "4": [
+    102.5,
+    208.26
+   ],
+   "5": [
+    102.5,
+    192.26
+   ],
+   "6": [
+    102.5,
+    170.26
+   ],
+   "7": [
+    102.5,
+    161.26
+   ]
+  },
+  "ficus": {
+   "0": [
+    365.0,
+    1172.0
+   ],
+   "1": [
+    365.0,
+    1128.0
+   ],
+   "2": [
+    365.0,
+    1049.0
+   ],
+   "3": [
+    365.0,
+    1029.0
+   ],
+   "4": [
+    365.0,
+    1025.0
+   ],
+   "5": [
+    365.0,
+    1059.0
+   ],
+   "6": [
+    365.0,
+    1120.0
+   ],
+   "7": [
+    365.0,
+    1167.0
+   ]
+  },
+  "floor_lamp": {
+   "0": [
+    226.5,
+    1565.89
+   ],
+   "1": [
+    226.5,
+    1565.89
+   ],
+   "2": [
+    226.5,
+    1565.89
+   ],
+   "3": [
+    226.5,
+    1565.89
+   ],
+   "4": [
+    226.5,
+    1565.89
+   ],
+   "5": [
+    226.5,
+    1565.89
+   ],
+   "6": [
+    226.5,
+    1565.89
+   ],
+   "7": [
+    226.5,
+    1565.89
+   ]
+  },
+  "fork": {
+   "0": [
+    15.0,
+    81.49
+   ],
+   "1": [
+    68.0,
+    64.49
+   ],
+   "2": [
+    90.0,
+    17.49
+   ],
+   "3": [
+    68.0,
+    63.49
+   ],
+   "4": [
+    15.0,
+    83.49
+   ],
+   "5": [
+    69.0,
+    63.49
+   ],
+   "6": [
+    89.0,
+    17.49
+   ],
+   "7": [
+    69.0,
+    64.49
+   ]
+  },
+  "front_door": {
+   "0": [
+    385.5,
+    1634.54
+   ],
+   "1": [
+    385.5,
+    1852.54
+   ],
+   "2": [
+    385.5,
+    1932.54
+   ],
+   "3": [
+    385.5,
+    1852.54
+   ],
+   "4": [
+    385.5,
+    1634.54
+   ],
+   "5": [
+    385.5,
+    1852.54
+   ],
+   "6": [
+    385.5,
+    1932.54
+   ],
+   "7": [
+    385.5,
+    1852.54
+   ]
+  },
+  "fruit_bowl": {
+   "0": [
+    138.5,
+    146.14
+   ],
+   "1": [
+    138.5,
+    146.14
+   ],
+   "2": [
+    138.5,
+    146.14
+   ],
+   "3": [
+    138.5,
+    146.14
+   ],
+   "4": [
+    138.5,
+    146.14
+   ],
+   "5": [
+    140.5,
+    146.14
+   ],
+   "6": [
+    138.5,
+    152.14
+   ],
+   "7": [
+    138.5,
+    156.14
+   ]
+  },
+  "fruit_bowl_dead": {
+   "0": [
+    136.5,
+    132.91
+   ],
+   "1": [
+    130.5,
+    126.91
+   ],
+   "2": [
+    132.5,
+    134.91
+   ],
+   "3": [
+    135.5,
+    129.91
+   ],
+   "4": [
+    126.5,
+    130.91
+   ],
+   "5": [
+    135.5,
+    134.91
+   ],
+   "6": [
+    134.5,
+    125.91
+   ],
+   "7": [
+    128.5,
+    133.91
+   ]
+  },
+  "fruit_bowl_dmg": {
+   "0": [
+    138.5,
+    146.14
+   ],
+   "1": [
+    138.5,
+    146.14
+   ],
+   "2": [
+    138.5,
+    146.14
+   ],
+   "3": [
+    141.5,
+    146.14
+   ],
+   "4": [
+    138.5,
+    146.14
+   ],
+   "5": [
+    140.5,
+    151.14
+   ],
+   "6": [
+    138.5,
+    152.14
+   ],
+   "7": [
+    138.5,
+    156.14
+   ]
+  },
+  "gamepad": {
+   "0": [
+    166.5,
+    153.86
+   ],
+   "1": [
+    142.5,
+    159.86
+   ],
+   "2": [
+    179.5,
+    150.86
+   ],
+   "3": [
+    176.5,
+    129.86
+   ],
+   "4": [
+    161.5,
+    161.86
+   ],
+   "5": [
+    170.5,
+    159.86
+   ],
+   "6": [
+    173.5,
+    142.86
+   ],
+   "7": [
+    180.5,
+    150.86
+   ]
+  },
+  "garden_gloves": {
+   "0": [
+    96.5,
+    139.73
+   ],
+   "1": [
+    117.5,
+    120.73
+   ],
+   "2": [
+    123.5,
+    88.73
+   ],
+   "3": [
+    123.5,
+    107.73
+   ],
+   "4": [
+    95.5,
+    112.73
+   ],
+   "5": [
+    123.5,
+    111.73
+   ],
+   "6": [
+    136.5,
+    90.73
+   ],
+   "7": [
+    113.5,
+    127.73
+   ]
+  },
+  "garden_gnome": {
+   "0": [
+    155.5,
+    511.58
+   ],
+   "1": [
+    155.5,
+    492.58
+   ],
+   "2": [
+    155.5,
+    462.58
+   ],
+   "3": [
+    155.5,
+    437.58
+   ],
+   "4": [
+    155.5,
+    433.58
+   ],
+   "5": [
+    155.5,
+    452.58
+   ],
+   "6": [
+    155.5,
+    483.58
+   ],
+   "7": [
+    155.5,
+    507.58
+   ]
+  },
+  "glass": {
+   "0": [
+    67.0,
+    122.69
+   ],
+   "1": [
+    67.0,
+    122.69
+   ],
+   "2": [
+    67.0,
+    122.69
+   ],
+   "3": [
+    67.0,
+    122.69
+   ],
+   "4": [
+    67.0,
+    122.69
+   ],
+   "5": [
+    67.0,
+    122.69
+   ],
+   "6": [
+    67.0,
+    122.69
+   ],
+   "7": [
+    67.0,
+    122.69
+   ]
+  },
+  "glass_dead": {
+   "0": [
+    38.0,
+    38.34
+   ],
+   "1": [
+    36.0,
+    40.34
+   ],
+   "2": [
+    38.0,
+    33.34
+   ],
+   "3": [
+    49.0,
+    32.34
+   ],
+   "4": [
+    42.0,
+    35.34
+   ],
+   "5": [
+    37.0,
+    44.34
+   ],
+   "6": [
+    44.0,
+    39.34
+   ],
+   "7": [
+    46.0,
+    36.34
+   ]
+  },
+  "glass_dmg": {
+   "0": [
+    67.0,
+    122.69
+   ],
+   "1": [
+    67.0,
+    122.69
+   ],
+   "2": [
+    67.0,
+    122.69
+   ],
+   "3": [
+    67.0,
+    122.69
+   ],
+   "4": [
+    67.0,
+    122.69
+   ],
+   "5": [
+    67.0,
+    122.69
+   ],
+   "6": [
+    67.0,
+    122.69
+   ],
+   "7": [
+    67.0,
+    122.69
+   ]
+  },
+  "grass_clump_a": {
+   "0": [
+    55.0,
+    79.23
+   ],
+   "1": [
+    55.0,
+    76.23
+   ],
+   "2": [
+    55.0,
+    75.23
+   ],
+   "3": [
+    55.0,
+    81.23
+   ],
+   "4": [
+    54.0,
+    82.23
+   ],
+   "5": [
+    55.0,
+    83.23
+   ],
+   "6": [
+    55.0,
+    76.23
+   ],
+   "7": [
+    54.0,
+    77.23
+   ]
+  },
+  "grass_clump_a_burnt": {
+   "0": [
+    20.0,
+    34.23
+   ],
+   "1": [
+    11.0,
+    33.23
+   ],
+   "2": [
+    10.0,
+    31.23
+   ],
+   "3": [
+    9.0,
+    33.23
+   ],
+   "4": [
+    18.0,
+    35.23
+   ],
+   "5": [
+    18.0,
+    34.23
+   ],
+   "6": [
+    9.0,
+    31.23
+   ],
+   "7": [
+    19.0,
+    32.23
+   ]
+  },
+  "grass_clump_a_winter": {
+   "0": [
+    55.0,
+    79.23
+   ],
+   "1": [
+    55.0,
+    76.23
+   ],
+   "2": [
+    55.0,
+    75.23
+   ],
+   "3": [
+    55.0,
+    81.23
+   ],
+   "4": [
+    54.0,
+    82.23
+   ],
+   "5": [
+    55.0,
+    83.23
+   ],
+   "6": [
+    55.0,
+    76.23
+   ],
+   "7": [
+    54.0,
+    77.23
+   ]
+  },
+  "grass_clump_b": {
+   "0": [
+    59.5,
+    90.41
+   ],
+   "1": [
+    50.5,
+    86.41
+   ],
+   "2": [
+    51.5,
+    86.41
+   ],
+   "3": [
+    54.5,
+    77.41
+   ],
+   "4": [
+    57.5,
+    76.41
+   ],
+   "5": [
+    59.5,
+    82.41
+   ],
+   "6": [
+    59.5,
+    85.41
+   ],
+   "7": [
+    59.5,
+    91.41
+   ]
+  },
+  "grass_clump_b_burnt": {
+   "0": [
+    14.5,
+    39.41
+   ],
+   "1": [
+    11.5,
+    35.41
+   ],
+   "2": [
+    22.5,
+    33.41
+   ],
+   "3": [
+    15.5,
+    28.41
+   ],
+   "4": [
+    20.5,
+    24.41
+   ],
+   "5": [
+    25.5,
+    32.41
+   ],
+   "6": [
+    26.5,
+    37.41
+   ],
+   "7": [
+    15.5,
+    40.41
+   ]
+  },
+  "grass_clump_b_winter": {
+   "0": [
+    59.5,
+    90.41
+   ],
+   "1": [
+    50.5,
+    86.41
+   ],
+   "2": [
+    51.5,
+    86.41
+   ],
+   "3": [
+    54.5,
+    77.41
+   ],
+   "4": [
+    57.5,
+    76.41
+   ],
+   "5": [
+    59.5,
+    82.41
+   ],
+   "6": [
+    59.5,
+    85.41
+   ],
+   "7": [
+    59.5,
+    91.41
+   ]
+  },
+  "grass_clump_c": {
+   "0": [
+    35.0,
+    48.1
+   ],
+   "1": [
+    35.0,
+    39.1
+   ],
+   "2": [
+    39.0,
+    43.1
+   ],
+   "3": [
+    38.0,
+    46.1
+   ],
+   "4": [
+    36.0,
+    53.1
+   ],
+   "5": [
+    32.0,
+    52.1
+   ],
+   "6": [
+    31.0,
+    39.1
+   ],
+   "7": [
+    32.0,
+    45.1
+   ]
+  },
+  "grass_clump_c_burnt": {
+   "0": [
+    14.0,
+    16.1
+   ],
+   "1": [
+    16.0,
+    15.1
+   ],
+   "2": [
+    29.0,
+    15.1
+   ],
+   "3": [
+    21.0,
+    20.1
+   ],
+   "4": [
+    18.0,
+    19.1
+   ],
+   "5": [
+    16.0,
+    19.1
+   ],
+   "6": [
+    20.0,
+    14.1
+   ],
+   "7": [
+    17.0,
+    19.1
+   ]
+  },
+  "grass_clump_c_winter": {
+   "0": [
+    35.0,
+    48.1
+   ],
+   "1": [
+    35.0,
+    39.1
+   ],
+   "2": [
+    39.0,
+    43.1
+   ],
+   "3": [
+    38.0,
+    46.1
+   ],
+   "4": [
+    36.0,
+    53.1
+   ],
+   "5": [
+    32.0,
+    52.1
+   ],
+   "6": [
+    31.0,
+    39.1
+   ],
+   "7": [
+    32.0,
+    45.1
+   ]
+  },
+  "grass_clump_d": {
+   "0": [
+    40.5,
+    56.42
+   ],
+   "1": [
+    46.5,
+    53.42
+   ],
+   "2": [
+    48.5,
+    56.42
+   ],
+   "3": [
+    48.5,
+    62.42
+   ],
+   "4": [
+    45.5,
+    63.42
+   ],
+   "5": [
+    39.5,
+    64.42
+   ],
+   "6": [
+    41.5,
+    62.42
+   ],
+   "7": [
+    39.5,
+    54.42
+   ]
+  },
+  "grass_clump_d_burnt": {
+   "0": [
+    16.5,
+    24.42
+   ],
+   "1": [
+    14.5,
+    22.42
+   ],
+   "2": [
+    12.5,
+    21.42
+   ],
+   "3": [
+    14.5,
+    25.42
+   ],
+   "4": [
+    15.5,
+    29.42
+   ],
+   "5": [
+    10.5,
+    30.42
+   ],
+   "6": [
+    6.5,
+    24.42
+   ],
+   "7": [
+    10.5,
+    22.42
+   ]
+  },
+  "grass_clump_d_winter": {
+   "0": [
+    40.5,
+    56.42
+   ],
+   "1": [
+    46.5,
+    53.42
+   ],
+   "2": [
+    48.5,
+    56.42
+   ],
+   "3": [
+    48.5,
+    62.42
+   ],
+   "4": [
+    45.5,
+    63.42
+   ],
+   "5": [
+    39.5,
+    64.42
+   ],
+   "6": [
+    41.5,
+    62.42
+   ],
+   "7": [
+    39.5,
+    54.42
+   ]
+  },
+  "grass_clump_e": {
+   "0": [
+    43.5,
+    57.96
+   ],
+   "1": [
+    45.5,
+    57.96
+   ],
+   "2": [
+    45.5,
+    58.96
+   ],
+   "3": [
+    46.5,
+    61.96
+   ],
+   "4": [
+    42.5,
+    61.96
+   ],
+   "5": [
+    38.5,
+    60.96
+   ],
+   "6": [
+    43.5,
+    58.96
+   ],
+   "7": [
+    43.5,
+    52.96
+   ]
+  },
+  "grass_clump_e_burnt": {
+   "0": [
+    11.5,
+    23.96
+   ],
+   "1": [
+    12.5,
+    20.96
+   ],
+   "2": [
+    23.5,
+    19.96
+   ],
+   "3": [
+    18.5,
+    20.96
+   ],
+   "4": [
+    21.5,
+    19.96
+   ],
+   "5": [
+    20.5,
+    25.96
+   ],
+   "6": [
+    22.5,
+    24.96
+   ],
+   "7": [
+    13.5,
+    23.96
+   ]
+  },
+  "grass_clump_e_winter": {
+   "0": [
+    43.5,
+    57.96
+   ],
+   "1": [
+    45.5,
+    57.96
+   ],
+   "2": [
+    45.5,
+    58.96
+   ],
+   "3": [
+    46.5,
+    61.96
+   ],
+   "4": [
+    42.5,
+    61.96
+   ],
+   "5": [
+    38.5,
+    60.96
+   ],
+   "6": [
+    43.5,
+    58.96
+   ],
+   "7": [
+    43.5,
+    52.96
+   ]
+  },
+  "grass_dead_a": {
+   "0": [
+    31.0,
+    46.45
+   ],
+   "1": [
+    18.0,
+    40.45
+   ],
+   "2": [
+    31.0,
+    21.45
+   ],
+   "3": [
+    33.0,
+    17.45
+   ],
+   "4": [
+    35.0,
+    28.45
+   ],
+   "5": [
+    41.0,
+    32.45
+   ],
+   "6": [
+    45.0,
+    37.45
+   ],
+   "7": [
+    41.0,
+    43.45
+   ]
+  },
+  "grass_dead_a_burnt": {
+   "0": [
+    -8.0,
+    8.45
+   ],
+   "1": [
+    14.0,
+    6.45
+   ],
+   "2": [
+    31.0,
+    11.45
+   ],
+   "3": [
+    13.0,
+    2.45
+   ],
+   "4": [
+    18.0,
+    9.45
+   ],
+   "5": [
+    24.0,
+    8.45
+   ],
+   "6": [
+    23.0,
+    13.45
+   ],
+   "7": [
+    31.0,
+    15.45
+   ]
+  },
+  "grass_dead_a_winter": {
+   "0": [
+    31.0,
+    46.45
+   ],
+   "1": [
+    18.0,
+    40.45
+   ],
+   "2": [
+    31.0,
+    21.45
+   ],
+   "3": [
+    33.0,
+    17.45
+   ],
+   "4": [
+    35.0,
+    28.45
+   ],
+   "5": [
+    41.0,
+    32.45
+   ],
+   "6": [
+    45.0,
+    37.45
+   ],
+   "7": [
+    41.0,
+    43.45
+   ]
+  },
+  "grass_dead_b": {
+   "0": [
+    33.5,
+    34.06
+   ],
+   "1": [
+    32.5,
+    31.06
+   ],
+   "2": [
+    30.5,
+    42.06
+   ],
+   "3": [
+    37.5,
+    38.06
+   ],
+   "4": [
+    31.5,
+    38.06
+   ],
+   "5": [
+    10.5,
+    35.06
+   ],
+   "6": [
+    31.5,
+    30.06
+   ],
+   "7": [
+    36.5,
+    17.06
+   ]
+  },
+  "grass_dead_b_burnt": {
+   "0": [
+    25.5,
+    11.06
+   ],
+   "1": [
+    18.5,
+    3.06
+   ],
+   "2": [
+    18.5,
+    11.06
+   ],
+   "3": [
+    17.5,
+    21.06
+   ],
+   "4": [
+    12.5,
+    21.06
+   ],
+   "5": [
+    -5.5,
+    11.06
+   ],
+   "6": [
+    17.5,
+    5.06
+   ],
+   "7": [
+    21.5,
+    0.06
+   ]
+  },
+  "grass_dead_b_winter": {
+   "0": [
+    33.5,
+    34.06
+   ],
+   "1": [
+    32.5,
+    31.06
+   ],
+   "2": [
+    30.5,
+    42.06
+   ],
+   "3": [
+    37.5,
+    38.06
+   ],
+   "4": [
+    31.5,
+    38.06
+   ],
+   "5": [
+    10.5,
+    35.06
+   ],
+   "6": [
+    31.5,
+    30.06
+   ],
+   "7": [
+    36.5,
+    17.06
+   ]
+  },
+  "grass_tall_a": {
+   "0": [
+    62.5,
+    75.48
+   ],
+   "1": [
+    52.5,
+    79.48
+   ],
+   "2": [
+    57.5,
+    67.48
+   ],
+   "3": [
+    55.5,
+    61.48
+   ],
+   "4": [
+    64.5,
+    77.48
+   ],
+   "5": [
+    63.5,
+    78.48
+   ],
+   "6": [
+    51.5,
+    74.48
+   ],
+   "7": [
+    58.5,
+    74.48
+   ]
+  },
+  "grass_tall_a_burnt": {
+   "0": [
+    46.5,
+    20.48
+   ],
+   "1": [
+    47.5,
+    31.48
+   ],
+   "2": [
+    35.5,
+    27.48
+   ],
+   "3": [
+    22.5,
+    22.48
+   ],
+   "4": [
+    13.5,
+    24.48
+   ],
+   "5": [
+    26.5,
+    21.48
+   ],
+   "6": [
+    30.5,
+    15.48
+   ],
+   "7": [
+    32.5,
+    15.48
+   ]
+  },
+  "grass_tall_a_winter": {
+   "0": [
+    62.5,
+    75.48
+   ],
+   "1": [
+    52.5,
+    79.48
+   ],
+   "2": [
+    57.5,
+    67.48
+   ],
+   "3": [
+    55.5,
+    61.48
+   ],
+   "4": [
+    64.5,
+    77.48
+   ],
+   "5": [
+    63.5,
+    78.48
+   ],
+   "6": [
+    51.5,
+    74.48
+   ],
+   "7": [
+    58.5,
+    74.48
+   ]
+  },
+  "grass_tall_b": {
+   "0": [
+    64.0,
+    69.71
+   ],
+   "1": [
+    59.0,
+    72.71
+   ],
+   "2": [
+    73.0,
+    74.71
+   ],
+   "3": [
+    78.0,
+    63.71
+   ],
+   "4": [
+    57.0,
+    79.71
+   ],
+   "5": [
+    61.0,
+    83.71
+   ],
+   "6": [
+    66.0,
+    67.71
+   ],
+   "7": [
+    60.0,
+    70.71
+   ]
+  },
+  "grass_tall_b_burnt": {
+   "0": [
+    41.0,
+    16.71
+   ],
+   "1": [
+    33.0,
+    22.71
+   ],
+   "2": [
+    25.0,
+    20.71
+   ],
+   "3": [
+    34.0,
+    13.71
+   ],
+   "4": [
+    31.0,
+    16.71
+   ],
+   "5": [
+    42.0,
+    26.71
+   ],
+   "6": [
+    26.0,
+    14.71
+   ],
+   "7": [
+    27.0,
+    17.71
+   ]
+  },
+  "grass_tall_b_winter": {
+   "0": [
+    64.0,
+    69.71
+   ],
+   "1": [
+    59.0,
+    72.71
+   ],
+   "2": [
+    73.0,
+    74.71
+   ],
+   "3": [
+    78.0,
+    63.71
+   ],
+   "4": [
+    57.0,
+    79.71
+   ],
+   "5": [
+    61.0,
+    83.71
+   ],
+   "6": [
+    66.0,
+    67.71
+   ],
+   "7": [
+    60.0,
+    70.71
+   ]
+  },
+  "grass_tall_c": {
+   "0": [
+    68.0,
+    67.62
+   ],
+   "1": [
+    68.0,
+    76.62
+   ],
+   "2": [
+    66.0,
+    81.62
+   ],
+   "3": [
+    66.0,
+    83.62
+   ],
+   "4": [
+    55.0,
+    79.62
+   ],
+   "5": [
+    67.0,
+    76.62
+   ],
+   "6": [
+    59.0,
+    57.62
+   ],
+   "7": [
+    58.0,
+    69.62
+   ]
+  },
+  "grass_tall_c_burnt": {
+   "0": [
+    26.0,
+    20.62
+   ],
+   "1": [
+    38.0,
+    28.62
+   ],
+   "2": [
+    39.0,
+    31.62
+   ],
+   "3": [
+    29.0,
+    25.62
+   ],
+   "4": [
+    36.0,
+    26.62
+   ],
+   "5": [
+    47.0,
+    27.62
+   ],
+   "6": [
+    18.0,
+    18.62
+   ],
+   "7": [
+    22.0,
+    20.62
+   ]
+  },
+  "grass_tall_c_winter": {
+   "0": [
+    68.0,
+    67.62
+   ],
+   "1": [
+    68.0,
+    76.62
+   ],
+   "2": [
+    66.0,
+    81.62
+   ],
+   "3": [
+    66.0,
+    83.62
+   ],
+   "4": [
+    55.0,
+    79.62
+   ],
+   "5": [
+    67.0,
+    76.62
+   ],
+   "6": [
+    59.0,
+    57.62
+   ],
+   "7": [
+    58.0,
+    69.62
+   ]
+  },
+  "grass_tall_d": {
+   "0": [
+    57.0,
+    66.24
+   ],
+   "1": [
+    54.0,
+    66.24
+   ],
+   "2": [
+    48.0,
+    64.24
+   ],
+   "3": [
+    44.0,
+    66.24
+   ],
+   "4": [
+    46.0,
+    66.24
+   ],
+   "5": [
+    55.0,
+    66.24
+   ],
+   "6": [
+    57.0,
+    45.24
+   ],
+   "7": [
+    50.0,
+    65.24
+   ]
+  },
+  "grass_tall_d_burnt": {
+   "0": [
+    24.0,
+    19.24
+   ],
+   "1": [
+    26.0,
+    22.24
+   ],
+   "2": [
+    16.0,
+    17.24
+   ],
+   "3": [
+    18.0,
+    21.24
+   ],
+   "4": [
+    31.0,
+    16.24
+   ],
+   "5": [
+    26.0,
+    12.24
+   ],
+   "6": [
+    33.0,
+    16.24
+   ],
+   "7": [
+    36.0,
+    17.24
+   ]
+  },
+  "grass_tall_d_winter": {
+   "0": [
+    57.0,
+    66.24
+   ],
+   "1": [
+    54.0,
+    66.24
+   ],
+   "2": [
+    48.0,
+    64.24
+   ],
+   "3": [
+    44.0,
+    66.24
+   ],
+   "4": [
+    46.0,
+    66.24
+   ],
+   "5": [
+    55.0,
+    66.24
+   ],
+   "6": [
+    57.0,
+    45.24
+   ],
+   "7": [
+    50.0,
+    65.24
+   ]
+  },
+  "hall_table": {
+   "0": [
+    303.5,
+    685.91
+   ],
+   "1": [
+    303.5,
+    771.91
+   ],
+   "2": [
+    303.5,
+    731.91
+   ],
+   "3": [
+    303.5,
+    771.91
+   ],
+   "4": [
+    303.5,
+    684.91
+   ],
+   "5": [
+    303.5,
+    772.91
+   ],
+   "6": [
+    303.5,
+    732.91
+   ],
+   "7": [
+    303.5,
+    772.91
+   ]
+  },
+  "hand_towel": {
+   "0": [
+    181.0,
+    169.29
+   ],
+   "1": [
+    164.0,
+    139.29
+   ],
+   "2": [
+    161.0,
+    162.29
+   ],
+   "3": [
+    167.0,
+    149.29
+   ],
+   "4": [
+    186.0,
+    151.29
+   ],
+   "5": [
+    166.0,
+    152.29
+   ],
+   "6": [
+    170.0,
+    168.29
+   ],
+   "7": [
+    146.0,
+    168.29
+   ]
+  },
+  "hutch": {
+   "0": [
+    653.5,
+    1491.33
+   ],
+   "1": [
+    653.5,
+    1571.33
+   ],
+   "2": [
+    653.5,
+    1600.33
+   ],
+   "3": [
+    653.5,
+    1477.33
+   ],
+   "4": [
+    653.5,
+    1359.33
+   ],
+   "5": [
+    653.5,
+    1477.33
+   ],
+   "6": [
+    653.5,
+    1600.33
+   ],
+   "7": [
+    653.5,
+    1571.33
+   ]
+  },
+  "hutch_base": {
+   "0": [
+    677.0,
+    913.31
+   ],
+   "1": [
+    532.0,
+    1172.31
+   ],
+   "2": [
+    103.0,
+    1195.31
+   ],
+   "3": [
+    532.0,
+    1065.31
+   ],
+   "4": [
+    677.0,
+    673.31
+   ],
+   "5": [
+    721.0,
+    1065.31
+   ],
+   "6": [
+    345.0,
+    1195.31
+   ],
+   "7": [
+    721.0,
+    1172.31
+   ]
+  },
+  "hutch_top": {
+   "0": [
+    665.5,
+    1602.87
+   ],
+   "1": [
+    576.5,
+    1719.87
+   ],
+   "2": [
+    170.5,
+    1813.87
+   ],
+   "3": [
+    576.5,
+    1735.87
+   ],
+   "4": [
+    665.5,
+    1627.87
+   ],
+   "5": [
+    558.5,
+    1735.87
+   ],
+   "6": [
+    124.5,
+    1813.87
+   ],
+   "7": [
+    558.5,
+    1719.87
+   ]
+  },
+  "jack_o_lantern": {
+   "0": [
+    158.0,
+    183.01
+   ],
+   "1": [
+    160.0,
+    183.01
+   ],
+   "2": [
+    161.0,
+    181.01
+   ],
+   "3": [
+    160.0,
+    183.01
+   ],
+   "4": [
+    158.0,
+    183.01
+   ],
+   "5": [
+    160.0,
+    187.01
+   ],
+   "6": [
+    161.0,
+    191.01
+   ],
+   "7": [
+    160.0,
+    190.01
+   ]
+  },
+  "knife": {
+   "0": [
+    157.5,
+    22.82
+   ],
+   "1": [
+    109.5,
+    107.82
+   ],
+   "2": [
+    21.5,
+    138.82
+   ],
+   "3": [
+    112.5,
+    96.82
+   ],
+   "4": [
+    146.5,
+    22.82
+   ],
+   "5": [
+    112.5,
+    103.82
+   ],
+   "6": [
+    21.5,
+    132.82
+   ],
+   "7": [
+    121.5,
+    103.82
+   ]
+  },
+  "magazines": {
+   "0": [
+    102.0,
+    114.43
+   ],
+   "1": [
+    139.0,
+    130.43
+   ],
+   "2": [
+    126.0,
+    93.43
+   ],
+   "3": [
+    139.0,
+    126.43
+   ],
+   "4": [
+    95.0,
+    114.43
+   ],
+   "5": [
+    142.0,
+    126.43
+   ],
+   "6": [
+    125.0,
+    87.43
+   ],
+   "7": [
+    144.0,
+    126.43
+   ]
+  },
+  "mail": {
+   "0": [
+    79.5,
+    104.86
+   ],
+   "1": [
+    114.5,
+    115.86
+   ],
+   "2": [
+    109.5,
+    74.86
+   ],
+   "3": [
+    116.5,
+    106.86
+   ],
+   "4": [
+    85.5,
+    99.86
+   ],
+   "5": [
+    127.5,
+    107.86
+   ],
+   "6": [
+    111.5,
+    81.86
+   ],
+   "7": [
+    125.5,
+    116.86
+   ]
+  },
+  "mailbox": {
+   "0": [
+    230.5,
+    1011.63
+   ],
+   "1": [
+    230.5,
+    988.63
+   ],
+   "2": [
+    230.5,
+    890.63
+   ],
+   "3": [
+    230.5,
+    976.63
+   ],
+   "4": [
+    230.5,
+    994.63
+   ],
+   "5": [
+    230.5,
+    970.63
+   ],
+   "6": [
+    230.5,
+    958.63
+   ],
+   "7": [
+    230.5,
+    982.63
+   ]
+  },
+  "microwave": {
+   "0": [
+    307.5,
+    350.36
+   ],
+   "1": [
+    307.5,
+    451.36
+   ],
+   "2": [
+    307.5,
+    422.36
+   ],
+   "3": [
+    307.5,
+    452.36
+   ],
+   "4": [
+    307.5,
+    353.36
+   ],
+   "5": [
+    307.5,
+    434.36
+   ],
+   "6": [
+    301.5,
+    403.36
+   ],
+   "7": [
+    307.5,
+    434.36
+   ]
+  },
+  "milk_carton": {
+   "0": [
+    71.0,
+    193.29
+   ],
+   "1": [
+    71.0,
+    212.29
+   ],
+   "2": [
+    71.0,
+    220.29
+   ],
+   "3": [
+    71.0,
+    212.29
+   ],
+   "4": [
+    71.0,
+    193.29
+   ],
+   "5": [
+    71.0,
+    212.29
+   ],
+   "6": [
+    71.0,
+    220.29
+   ],
+   "7": [
+    71.0,
+    212.29
+   ]
+  },
+  "milk_carton_dead": {
+   "0": [
+    54.5,
+    53.1
+   ],
+   "1": [
+    57.5,
+    49.1
+   ],
+   "2": [
+    55.5,
+    58.1
+   ],
+   "3": [
+    54.5,
+    54.1
+   ],
+   "4": [
+    56.5,
+    56.1
+   ],
+   "5": [
+    54.5,
+    58.1
+   ],
+   "6": [
+    51.5,
+    57.1
+   ],
+   "7": [
+    44.5,
+    58.1
+   ]
+  },
+  "milk_carton_dmg": {
+   "0": [
+    71.0,
+    193.29
+   ],
+   "1": [
+    71.0,
+    212.29
+   ],
+   "2": [
+    71.0,
+    220.29
+   ],
+   "3": [
+    71.0,
+    212.29
+   ],
+   "4": [
+    71.0,
+    193.29
+   ],
+   "5": [
+    71.0,
+    212.29
+   ],
+   "6": [
+    71.0,
+    220.29
+   ],
+   "7": [
+    71.0,
+    212.29
+   ]
+  },
+  "mirror": {
+   "0": [
+    191.5,
+    588.83
+   ],
+   "1": [
+    134.5,
+    632.83
+   ],
+   "2": [
+    10.5,
+    660.83
+   ],
+   "3": [
+    134.5,
+    624.83
+   ],
+   "4": [
+    191.5,
+    591.83
+   ],
+   "5": [
+    142.5,
+    624.83
+   ],
+   "6": [
+    10.5,
+    660.83
+   ],
+   "7": [
+    142.5,
+    632.83
+   ]
+  },
+  "mug": {
+   "0": [
+    82.0,
+    108.39
+   ],
+   "1": [
+    82.0,
+    108.39
+   ],
+   "2": [
+    82.0,
+    108.39
+   ],
+   "3": [
+    82.0,
+    108.39
+   ],
+   "4": [
+    82.0,
+    108.39
+   ],
+   "5": [
+    82.0,
+    108.39
+   ],
+   "6": [
+    82.0,
+    108.39
+   ],
+   "7": [
+    82.0,
+    108.39
+   ]
+  },
+  "mug_dead": {
+   "0": [
+    71.5,
+    53.97
+   ],
+   "1": [
+    52.5,
+    71.97
+   ],
+   "2": [
+    63.5,
+    64.97
+   ],
+   "3": [
+    114.5,
+    51.97
+   ],
+   "4": [
+    112.5,
+    66.97
+   ],
+   "5": [
+    53.5,
+    100.97
+   ],
+   "6": [
+    58.5,
+    98.97
+   ],
+   "7": [
+    79.5,
+    51.97
+   ]
+  },
+  "mug_dmg": {
+   "0": [
+    82.0,
+    108.39
+   ],
+   "1": [
+    82.0,
+    108.39
+   ],
+   "2": [
+    82.0,
+    108.39
+   ],
+   "3": [
+    82.0,
+    108.39
+   ],
+   "4": [
+    82.0,
+    108.39
+   ],
+   "5": [
+    82.0,
+    108.39
+   ],
+   "6": [
+    82.0,
+    108.39
+   ],
+   "7": [
+    82.0,
+    108.39
+   ]
+  },
+  "mustard": {
+   "0": [
+    55.0,
+    150.25
+   ],
+   "1": [
+    55.0,
+    150.25
+   ],
+   "2": [
+    55.0,
+    150.25
+   ],
+   "3": [
+    55.0,
+    150.25
+   ],
+   "4": [
+    55.0,
+    150.25
+   ],
+   "5": [
+    55.0,
+    150.25
+   ],
+   "6": [
+    55.0,
+    150.25
+   ],
+   "7": [
+    55.0,
+    150.25
+   ]
+  },
+  "mustard_dead": {
+   "0": [
+    49.0,
+    41.37
+   ],
+   "1": [
+    48.0,
+    41.37
+   ],
+   "2": [
+    36.0,
+    49.37
+   ],
+   "3": [
+    40.0,
+    49.37
+   ],
+   "4": [
+    59.0,
+    37.37
+   ],
+   "5": [
+    57.0,
+    41.37
+   ],
+   "6": [
+    47.0,
+    56.37
+   ],
+   "7": [
+    43.0,
+    54.37
+   ]
+  },
+  "mustard_dmg": {
+   "0": [
+    57.0,
+    149.51
+   ],
+   "1": [
+    57.0,
+    149.51
+   ],
+   "2": [
+    57.0,
+    149.51
+   ],
+   "3": [
+    57.0,
+    149.51
+   ],
+   "4": [
+    57.0,
+    149.51
+   ],
+   "5": [
+    57.0,
+    149.51
+   ],
+   "6": [
+    57.0,
+    149.51
+   ],
+   "7": [
+    57.0,
+    149.51
+   ]
+  },
+  "paper_towel": {
+   "0": [
+    106.5,
+    260.91
+   ],
+   "1": [
+    106.5,
+    260.91
+   ],
+   "2": [
+    106.5,
+    260.91
+   ],
+   "3": [
+    106.5,
+    260.91
+   ],
+   "4": [
+    106.5,
+    260.91
+   ],
+   "5": [
+    106.5,
+    260.91
+   ],
+   "6": [
+    106.5,
+    260.91
+   ],
+   "7": [
+    106.5,
+    260.91
+   ]
+  },
+  "paper_towel_dead": {
+   "0": [
+    106.5,
+    231.91
+   ],
+   "1": [
+    106.5,
+    231.91
+   ],
+   "2": [
+    106.5,
+    231.91
+   ],
+   "3": [
+    106.5,
+    231.91
+   ],
+   "4": [
+    106.5,
+    231.91
+   ],
+   "5": [
+    106.5,
+    231.91
+   ],
+   "6": [
+    106.5,
+    231.91
+   ],
+   "7": [
+    106.5,
+    231.91
+   ]
+  },
+  "paper_towel_dmg": {
+   "0": [
+    146.5,
+    260.4
+   ],
+   "1": [
+    146.5,
+    260.4
+   ],
+   "2": [
+    146.5,
+    260.4
+   ],
+   "3": [
+    146.5,
+    260.4
+   ],
+   "4": [
+    146.5,
+    260.4
+   ],
+   "5": [
+    146.5,
+    260.4
+   ],
+   "6": [
+    146.5,
+    260.4
+   ],
+   "7": [
+    146.5,
+    260.4
+   ]
+  },
+  "pepper": {
+   "0": [
+    45.5,
+    74.77
+   ],
+   "1": [
+    45.5,
+    74.77
+   ],
+   "2": [
+    45.5,
+    74.77
+   ],
+   "3": [
+    45.5,
+    74.77
+   ],
+   "4": [
+    45.5,
+    74.77
+   ],
+   "5": [
+    45.5,
+    74.77
+   ],
+   "6": [
+    45.5,
+    74.77
+   ],
+   "7": [
+    45.5,
+    74.77
+   ]
+  },
+  "pepper_dead": {
+   "0": [
+    27.0,
+    23.58
+   ],
+   "1": [
+    28.0,
+    19.58
+   ],
+   "2": [
+    29.0,
+    25.58
+   ],
+   "3": [
+    22.0,
+    26.58
+   ],
+   "4": [
+    26.0,
+    27.58
+   ],
+   "5": [
+    28.0,
+    21.58
+   ],
+   "6": [
+    21.0,
+    27.58
+   ],
+   "7": [
+    21.0,
+    29.58
+   ]
+  },
+  "pepper_dmg": {
+   "0": [
+    45.5,
+    74.77
+   ],
+   "1": [
+    45.5,
+    74.77
+   ],
+   "2": [
+    45.5,
+    74.77
+   ],
+   "3": [
+    45.5,
+    74.77
+   ],
+   "4": [
+    45.5,
+    74.77
+   ],
+   "5": [
+    45.5,
+    74.77
+   ],
+   "6": [
+    45.5,
+    74.77
+   ],
+   "7": [
+    45.5,
+    74.77
+   ]
+  },
+  "pitcher": {
+   "0": [
+    151.5,
+    213.1
+   ],
+   "1": [
+    151.5,
+    206.1
+   ],
+   "2": [
+    151.5,
+    209.1
+   ],
+   "3": [
+    151.5,
+    206.1
+   ],
+   "4": [
+    151.5,
+    213.1
+   ],
+   "5": [
+    151.5,
+    237.1
+   ],
+   "6": [
+    151.5,
+    261.1
+   ],
+   "7": [
+    151.5,
+    237.1
+   ]
+  },
+  "place_mat": {
+   "0": [
+    184.5,
+    102.65
+   ],
+   "1": [
+    212.5,
+    186.65
+   ],
+   "2": [
+    116.5,
+    162.65
+   ],
+   "3": [
+    212.5,
+    186.65
+   ],
+   "4": [
+    184.5,
+    102.65
+   ],
+   "5": [
+    212.5,
+    186.65
+   ],
+   "6": [
+    116.5,
+    162.65
+   ],
+   "7": [
+    212.5,
+    186.65
+   ]
+  },
+  "plate_wood": {
+   "0": [
+    124.0,
+    119.26
+   ],
+   "1": [
+    124.0,
+    118.26
+   ],
+   "2": [
+    123.0,
+    118.26
+   ],
+   "3": [
+    125.0,
+    120.26
+   ],
+   "4": [
+    123.0,
+    118.26
+   ],
+   "5": [
+    123.0,
+    118.26
+   ],
+   "6": [
+    124.0,
+    117.26
+   ],
+   "7": [
+    125.0,
+    119.26
+   ]
+  },
+  "plates": {
+   "0": [
+    139.5,
+    146.14
+   ],
+   "1": [
+    139.5,
+    146.14
+   ],
+   "2": [
+    139.5,
+    146.14
+   ],
+   "3": [
+    139.5,
+    146.14
+   ],
+   "4": [
+    139.5,
+    146.14
+   ],
+   "5": [
+    139.5,
+    146.14
+   ],
+   "6": [
+    139.5,
+    146.14
+   ],
+   "7": [
+    139.5,
+    146.14
+   ]
+  },
+  "plunger": {
+   "0": [
+    120.5,
+    331.52
+   ],
+   "1": [
+    120.5,
+    338.52
+   ],
+   "2": [
+    120.5,
+    344.52
+   ],
+   "3": [
+    120.5,
+    346.52
+   ],
+   "4": [
+    120.5,
+    344.52
+   ],
+   "5": [
+    120.5,
+    338.52
+   ],
+   "6": [
+    120.5,
+    332.52
+   ],
+   "7": [
+    120.5,
+    328.52
+   ]
+  },
+  "pumpkin": {
+   "0": [
+    174.0,
+    199.32
+   ],
+   "1": [
+    176.0,
+    198.32
+   ],
+   "2": [
+    177.0,
+    196.32
+   ],
+   "3": [
+    176.0,
+    198.32
+   ],
+   "4": [
+    174.0,
+    199.32
+   ],
+   "5": [
+    176.0,
+    198.32
+   ],
+   "6": [
+    177.0,
+    196.32
+   ],
+   "7": [
+    176.0,
+    198.32
+   ]
+  },
+  "pumpkin_small": {
+   "0": [
+    74.0,
+    84.59
+   ],
+   "1": [
+    75.0,
+    84.59
+   ],
+   "2": [
+    75.0,
+    84.59
+   ],
+   "3": [
+    75.0,
+    84.59
+   ],
+   "4": [
+    74.0,
+    84.59
+   ],
+   "5": [
+    75.0,
+    84.59
+   ],
+   "6": [
+    75.0,
+    84.59
+   ],
+   "7": [
+    75.0,
+    84.59
+   ]
+  },
+  "recliner_arm": {
+   "0": [
+    362.0,
+    767.09
+   ],
+   "1": [
+    402.0,
+    688.09
+   ],
+   "2": [
+    402.0,
+    488.09
+   ],
+   "3": [
+    402.0,
+    688.09
+   ],
+   "4": [
+    362.0,
+    767.09
+   ],
+   "5": [
+    402.0,
+    688.09
+   ],
+   "6": [
+    402.0,
+    488.09
+   ],
+   "7": [
+    402.0,
+    688.09
+   ]
+  },
+  "recliner_back": {
+   "0": [
+    283.5,
+    852.63
+   ],
+   "1": [
+    283.5,
+    937.63
+   ],
+   "2": [
+    283.5,
+    959.63
+   ],
+   "3": [
+    283.5,
+    937.63
+   ],
+   "4": [
+    283.5,
+    852.63
+   ],
+   "5": [
+    283.5,
+    937.63
+   ],
+   "6": [
+    283.5,
+    959.63
+   ],
+   "7": [
+    283.5,
+    937.63
+   ]
+  },
+  "recliner_seat": {
+   "0": [
+    386.0,
+    547.23
+   ],
+   "1": [
+    386.0,
+    602.23
+   ],
+   "2": [
+    386.0,
+    514.23
+   ],
+   "3": [
+    386.0,
+    608.23
+   ],
+   "4": [
+    386.0,
+    543.23
+   ],
+   "5": [
+    386.0,
+    608.23
+   ],
+   "6": [
+    386.0,
+    514.23
+   ],
+   "7": [
+    386.0,
+    602.23
+   ]
+  },
+  "remote": {
+   "0": [
+    22.0,
+    66.45
+   ],
+   "1": [
+    60.0,
+    56.45
+   ],
+   "2": [
+    71.0,
+    23.45
+   ],
+   "3": [
+    60.0,
+    56.45
+   ],
+   "4": [
+    22.0,
+    66.45
+   ],
+   "5": [
+    60.0,
+    56.45
+   ],
+   "6": [
+    71.0,
+    23.45
+   ],
+   "7": [
+    60.0,
+    56.45
+   ]
+  },
+  "roll_a": {
+   "0": [
+    59.5,
+    68.44
+   ],
+   "1": [
+    62.5,
+    64.44
+   ],
+   "2": [
+    61.5,
+    65.44
+   ],
+   "3": [
+    59.5,
+    68.44
+   ],
+   "4": [
+    58.5,
+    66.44
+   ],
+   "5": [
+    63.5,
+    65.44
+   ],
+   "6": [
+    63.5,
+    64.44
+   ],
+   "7": [
+    59.5,
+    68.44
+   ]
+  },
+  "roll_b": {
+   "0": [
+    59.0,
+    63.77
+   ],
+   "1": [
+    57.0,
+    61.77
+   ],
+   "2": [
+    59.0,
+    62.77
+   ],
+   "3": [
+    61.0,
+    61.77
+   ],
+   "4": [
+    61.0,
+    63.77
+   ],
+   "5": [
+    60.0,
+    65.77
+   ],
+   "6": [
+    58.0,
+    65.77
+   ],
+   "7": [
+    58.0,
+    65.77
+   ]
+  },
+  "roll_c": {
+   "0": [
+    58.0,
+    60.47
+   ],
+   "1": [
+    56.0,
+    61.47
+   ],
+   "2": [
+    56.0,
+    61.47
+   ],
+   "3": [
+    57.0,
+    60.47
+   ],
+   "4": [
+    58.0,
+    61.47
+   ],
+   "5": [
+    51.0,
+    62.47
+   ],
+   "6": [
+    55.0,
+    61.47
+   ],
+   "7": [
+    56.0,
+    57.47
+   ]
+  },
+  "rubber_duck": {
+   "0": [
+    61.5,
+    75.81
+   ],
+   "1": [
+    70.5,
+    76.81
+   ],
+   "2": [
+    72.5,
+    79.81
+   ],
+   "3": [
+    70.5,
+    85.81
+   ],
+   "4": [
+    61.5,
+    92.81
+   ],
+   "5": [
+    57.5,
+    84.81
+   ],
+   "6": [
+    62.5,
+    79.81
+   ],
+   "7": [
+    57.5,
+    76.81
+   ]
+  },
+  "salt": {
+   "0": [
+    45.5,
+    74.77
+   ],
+   "1": [
+    45.5,
+    74.77
+   ],
+   "2": [
+    45.5,
+    74.77
+   ],
+   "3": [
+    45.5,
+    74.77
+   ],
+   "4": [
+    45.5,
+    74.77
+   ],
+   "5": [
+    45.5,
+    74.77
+   ],
+   "6": [
+    45.5,
+    74.77
+   ],
+   "7": [
+    45.5,
+    74.77
+   ]
+  },
+  "salt_dead": {
+   "0": [
+    22.5,
+    17.37
+   ],
+   "1": [
+    21.5,
+    24.37
+   ],
+   "2": [
+    23.5,
+    23.37
+   ],
+   "3": [
+    26.5,
+    15.37
+   ],
+   "4": [
+    27.5,
+    21.37
+   ],
+   "5": [
+    17.5,
+    24.37
+   ],
+   "6": [
+    16.5,
+    23.37
+   ],
+   "7": [
+    23.5,
+    14.37
+   ]
+  },
+  "salt_dmg": {
+   "0": [
+    45.5,
+    74.77
+   ],
+   "1": [
+    45.5,
+    74.77
+   ],
+   "2": [
+    45.5,
+    74.77
+   ],
+   "3": [
+    45.5,
+    74.77
+   ],
+   "4": [
+    45.5,
+    74.77
+   ],
+   "5": [
+    45.5,
+    74.77
+   ],
+   "6": [
+    45.5,
+    74.77
+   ],
+   "7": [
+    45.5,
+    74.77
+   ]
+  },
+  "sardines": {
+   "0": [
+    67.0,
+    48.69
+   ],
+   "1": [
+    67.0,
+    66.69
+   ],
+   "2": [
+    46.0,
+    66.69
+   ],
+   "3": [
+    67.0,
+    66.69
+   ],
+   "4": [
+    67.0,
+    48.69
+   ],
+   "5": [
+    67.0,
+    66.69
+   ],
+   "6": [
+    46.0,
+    66.69
+   ],
+   "7": [
+    67.0,
+    66.69
+   ]
+  },
+  "saucer": {
+   "0": [
+    67.5,
+    63.86
+   ],
+   "1": [
+    67.5,
+    63.86
+   ],
+   "2": [
+    67.5,
+    63.86
+   ],
+   "3": [
+    67.5,
+    63.86
+   ],
+   "4": [
+    67.5,
+    63.86
+   ],
+   "5": [
+    67.5,
+    63.86
+   ],
+   "6": [
+    67.5,
+    63.86
+   ],
+   "7": [
+    67.5,
+    63.86
+   ]
+  },
+  "scissors": {
+   "0": [
+    88.0,
+    41.75
+   ],
+   "1": [
+    68.0,
+    58.75
+   ],
+   "2": [
+    45.0,
+    78.75
+   ],
+   "3": [
+    74.0,
+    60.75
+   ],
+   "4": [
+    72.0,
+    41.75
+   ],
+   "5": [
+    74.0,
+    66.75
+   ],
+   "6": [
+    45.0,
+    64.75
+   ],
+   "7": [
+    66.0,
+    66.75
+   ]
+  },
+  "shoes": {
+   "0": [
+    146.5,
+    178.81
+   ],
+   "1": [
+    155.5,
+    192.81
+   ],
+   "2": [
+    138.5,
+    159.81
+   ],
+   "3": [
+    155.5,
+    148.81
+   ],
+   "4": [
+    146.5,
+    134.81
+   ],
+   "5": [
+    178.5,
+    148.81
+   ],
+   "6": [
+    162.5,
+    159.81
+   ],
+   "7": [
+    178.5,
+    192.81
+   ]
+  },
+  "slider_door": {
+   "0": [
+    385.5,
+    1582.71
+   ],
+   "1": [
+    385.5,
+    1800.71
+   ],
+   "2": [
+    385.5,
+    1881.71
+   ],
+   "3": [
+    385.5,
+    1800.71
+   ],
+   "4": [
+    385.5,
+    1582.71
+   ],
+   "5": [
+    385.5,
+    1800.71
+   ],
+   "6": [
+    385.5,
+    1881.71
+   ],
+   "7": [
+    385.5,
+    1800.71
+   ]
+  },
+  "slider_frame": {
+   "0": [
+    365.0,
+    1582.75
+   ],
+   "1": [
+    365.0,
+    1789.75
+   ],
+   "2": [
+    365.0,
+    1867.75
+   ],
+   "3": [
+    365.0,
+    1789.75
+   ],
+   "4": [
+    365.0,
+    1582.75
+   ],
+   "5": [
+    365.0,
+    1789.75
+   ],
+   "6": [
+    365.0,
+    1867.75
+   ],
+   "7": [
+    365.0,
+    1789.75
+   ]
+  },
+  "soap": {
+   "0": [
+    44.5,
+    33.01
+   ],
+   "1": [
+    44.5,
+    45.01
+   ],
+   "2": [
+    29.5,
+    46.01
+   ],
+   "3": [
+    44.5,
+    45.01
+   ],
+   "4": [
+    44.5,
+    33.01
+   ],
+   "5": [
+    44.5,
+    45.01
+   ],
+   "6": [
+    29.5,
+    46.01
+   ],
+   "7": [
+    44.5,
+    45.01
+   ]
+  },
+  "soccer_ball": {
+   "0": [
+    147.5,
+    201.62
+   ],
+   "1": [
+    147.5,
+    201.62
+   ],
+   "2": [
+    147.5,
+    201.62
+   ],
+   "3": [
+    147.5,
+    201.62
+   ],
+   "4": [
+    147.5,
+    201.62
+   ],
+   "5": [
+    147.5,
+    201.62
+   ],
+   "6": [
+    147.5,
+    202.62
+   ],
+   "7": [
+    147.5,
+    201.62
+   ]
+  },
+  "sofa_arm_a": {
+   "0": [
+    146.0,
+    982.1
+   ],
+   "1": [
+    183.0,
+    818.1
+   ],
+   "2": [
+    155.0,
+    621.1
+   ],
+   "3": [
+    191.0,
+    641.1
+   ],
+   "4": [
+    210.0,
+    617.1
+   ],
+   "5": [
+    447.0,
+    593.1
+   ],
+   "6": [
+    428.0,
+    798.1
+   ],
+   "7": [
+    331.0,
+    963.1
+   ]
+  },
+  "sofa_arm_b": {
+   "0": [
+    209.0,
+    982.1
+   ],
+   "1": [
+    238.0,
+    963.1
+   ],
+   "2": [
+    155.0,
+    798.1
+   ],
+   "3": [
+    179.0,
+    593.1
+   ],
+   "4": [
+    146.0,
+    617.1
+   ],
+   "5": [
+    331.0,
+    641.1
+   ],
+   "6": [
+    428.0,
+    621.1
+   ],
+   "7": [
+    403.0,
+    818.1
+   ]
+  },
+  "sofa_back": {
+   "0": [
+    680.5,
+    808.41
+   ],
+   "1": [
+    719.5,
+    1036.41
+   ],
+   "2": [
+    680.5,
+    1110.41
+   ],
+   "3": [
+    680.5,
+    1001.41
+   ],
+   "4": [
+    680.5,
+    727.41
+   ],
+   "5": [
+    680.5,
+    1001.41
+   ],
+   "6": [
+    618.5,
+    1110.41
+   ],
+   "7": [
+    680.5,
+    1036.41
+   ]
+  },
+  "sofa_seat": {
+   "0": [
+    543.0,
+    481.42
+   ],
+   "1": [
+    508.0,
+    743.42
+   ],
+   "2": [
+    188.0,
+    826.42
+   ],
+   "3": [
+    497.0,
+    745.42
+   ],
+   "4": [
+    543.0,
+    462.42
+   ],
+   "5": [
+    434.0,
+    745.42
+   ],
+   "6": [
+    135.0,
+    826.42
+   ],
+   "7": [
+    434.0,
+    744.42
+   ]
+  },
+  "soup_can": {
+   "0": [
+    61.5,
+    102.35
+   ],
+   "1": [
+    61.5,
+    102.35
+   ],
+   "2": [
+    61.5,
+    102.35
+   ],
+   "3": [
+    61.5,
+    102.35
+   ],
+   "4": [
+    61.5,
+    102.35
+   ],
+   "5": [
+    61.5,
+    102.35
+   ],
+   "6": [
+    61.5,
+    102.35
+   ],
+   "7": [
+    61.5,
+    102.35
+   ]
+  },
+  "soup_can_dead": {
+   "0": [
+    56.5,
+    53.61
+   ],
+   "1": [
+    51.5,
+    58.61
+   ],
+   "2": [
+    46.5,
+    62.61
+   ],
+   "3": [
+    51.5,
+    58.61
+   ],
+   "4": [
+    56.5,
+    53.61
+   ],
+   "5": [
+    51.5,
+    58.61
+   ],
+   "6": [
+    46.5,
+    62.61
+   ],
+   "7": [
+    51.5,
+    58.61
+   ]
+  },
+  "soup_can_dmg": {
+   "0": [
+    61.5,
+    102.35
+   ],
+   "1": [
+    61.5,
+    102.35
+   ],
+   "2": [
+    61.5,
+    102.35
+   ],
+   "3": [
+    61.5,
+    102.35
+   ],
+   "4": [
+    61.5,
+    102.35
+   ],
+   "5": [
+    61.5,
+    102.35
+   ],
+   "6": [
+    61.5,
+    102.35
+   ],
+   "7": [
+    61.5,
+    102.35
+   ]
+  },
+  "sprinkler": {
+   "0": [
+    177.0,
+    165.52
+   ],
+   "1": [
+    177.0,
+    220.52
+   ],
+   "2": [
+    153.0,
+    277.52
+   ],
+   "3": [
+    177.0,
+    266.52
+   ],
+   "4": [
+    177.0,
+    196.52
+   ],
+   "5": [
+    177.0,
+    241.52
+   ],
+   "6": [
+    125.0,
+    277.52
+   ],
+   "7": [
+    177.0,
+    245.52
+   ]
+  },
+  "stone_a": {
+   "0": [
+    51.5,
+    91.81
+   ],
+   "1": [
+    51.5,
+    80.81
+   ],
+   "2": [
+    77.5,
+    54.81
+   ],
+   "3": [
+    79.5,
+    62.81
+   ],
+   "4": [
+    57.5,
+    83.81
+   ],
+   "5": [
+    72.5,
+    84.81
+   ],
+   "6": [
+    86.5,
+    67.81
+   ],
+   "7": [
+    72.5,
+    79.81
+   ]
+  },
+  "stone_b": {
+   "0": [
+    52.0,
+    62.64
+   ],
+   "1": [
+    44.0,
+    61.64
+   ],
+   "2": [
+    61.0,
+    58.64
+   ],
+   "3": [
+    67.0,
+    53.64
+   ],
+   "4": [
+    49.0,
+    59.64
+   ],
+   "5": [
+    41.0,
+    61.64
+   ],
+   "6": [
+    63.0,
+    51.64
+   ],
+   "7": [
+    65.0,
+    50.64
+   ]
+  },
+  "stone_c": {
+   "0": [
+    67.0,
+    50.59
+   ],
+   "1": [
+    65.0,
+    62.59
+   ],
+   "2": [
+    48.0,
+    73.59
+   ],
+   "3": [
+    59.0,
+    68.59
+   ],
+   "4": [
+    67.0,
+    51.59
+   ],
+   "5": [
+    56.0,
+    66.59
+   ],
+   "6": [
+    48.0,
+    73.59
+   ],
+   "7": [
+    58.0,
+    64.59
+   ]
+  },
+  "stone_d": {
+   "0": [
+    55.5,
+    71.78
+   ],
+   "1": [
+    58.5,
+    71.78
+   ],
+   "2": [
+    50.5,
+    68.78
+   ],
+   "3": [
+    37.5,
+    66.78
+   ],
+   "4": [
+    48.5,
+    58.78
+   ],
+   "5": [
+    54.5,
+    42.78
+   ],
+   "6": [
+    57.5,
+    51.78
+   ],
+   "7": [
+    58.5,
+    62.78
+   ]
+  },
+  "stone_e": {
+   "0": [
+    50.0,
+    75.22
+   ],
+   "1": [
+    67.0,
+    68.22
+   ],
+   "2": [
+    73.0,
+    56.22
+   ],
+   "3": [
+    60.0,
+    71.22
+   ],
+   "4": [
+    48.0,
+    76.22
+   ],
+   "5": [
+    68.0,
+    64.22
+   ],
+   "6": [
+    71.0,
+    56.22
+   ],
+   "7": [
+    66.0,
+    73.22
+   ]
+  },
+  "stone_f": {
+   "0": [
+    47.5,
+    76.02
+   ],
+   "1": [
+    43.5,
+    61.02
+   ],
+   "2": [
+    61.5,
+    53.02
+   ],
+   "3": [
+    64.5,
+    49.02
+   ],
+   "4": [
+    53.5,
+    67.02
+   ],
+   "5": [
+    62.5,
+    70.02
+   ],
+   "6": [
+    67.5,
+    62.02
+   ],
+   "7": [
+    51.5,
+    72.02
+   ]
+  },
+  "stove": {
+   "0": [
+    368.5,
+    956.56
+   ],
+   "1": [
+    368.5,
+    1014.56
+   ],
+   "2": [
+    368.5,
+    902.56
+   ],
+   "3": [
+    368.5,
+    988.56
+   ],
+   "4": [
+    368.5,
+    919.56
+   ],
+   "5": [
+    368.5,
+    988.56
+   ],
+   "6": [
+    368.5,
+    902.56
+   ],
+   "7": [
+    368.5,
+    1014.56
+   ]
+  },
+  "sugar_bowl": {
+   "0": [
+    76.5,
+    95.41
+   ],
+   "1": [
+    76.5,
+    88.41
+   ],
+   "2": [
+    86.5,
+    88.41
+   ],
+   "3": [
+    76.5,
+    88.41
+   ],
+   "4": [
+    76.5,
+    95.41
+   ],
+   "5": [
+    76.5,
+    88.41
+   ],
+   "6": [
+    86.5,
+    88.41
+   ],
+   "7": [
+    76.5,
+    88.41
+   ]
+  },
+  "table_knife": {
+   "0": [
+    11.0,
+    77.67
+   ],
+   "1": [
+    65.0,
+    56.67
+   ],
+   "2": [
+    88.0,
+    10.67
+   ],
+   "3": [
+    64.0,
+    57.67
+   ],
+   "4": [
+    11.0,
+    77.67
+   ],
+   "5": [
+    61.0,
+    56.67
+   ],
+   "6": [
+    87.0,
+    9.67
+   ],
+   "7": [
+    65.0,
+    54.67
+   ]
+  },
+  "tea_plate": {
+   "0": [
+    83.0,
+    77.92
+   ],
+   "1": [
+    83.0,
+    77.92
+   ],
+   "2": [
+    83.0,
+    77.92
+   ],
+   "3": [
+    83.0,
+    77.92
+   ],
+   "4": [
+    83.0,
+    77.92
+   ],
+   "5": [
+    83.0,
+    77.92
+   ],
+   "6": [
+    83.0,
+    77.92
+   ],
+   "7": [
+    83.0,
+    77.92
+   ]
+  },
+  "teacup": {
+   "0": [
+    79.0,
+    93.76
+   ],
+   "1": [
+    86.0,
+    83.76
+   ],
+   "2": [
+    89.0,
+    89.76
+   ],
+   "3": [
+    86.0,
+    95.76
+   ],
+   "4": [
+    79.0,
+    98.76
+   ],
+   "5": [
+    72.0,
+    95.76
+   ],
+   "6": [
+    84.0,
+    89.76
+   ],
+   "7": [
+    72.0,
+    83.76
+   ]
+  },
+  "teapot": {
+   "0": [
+    119.5,
+    184.83
+   ],
+   "1": [
+    138.5,
+    159.83
+   ],
+   "2": [
+    148.5,
+    140.83
+   ],
+   "3": [
+    138.5,
+    156.83
+   ],
+   "4": [
+    119.5,
+    182.83
+   ],
+   "5": [
+    139.5,
+    156.83
+   ],
+   "6": [
+    148.5,
+    140.83
+   ],
+   "7": [
+    139.5,
+    158.83
+   ]
+  },
+  "thermos": {
+   "0": [
+    95.0,
+    280.18
+   ],
+   "1": [
+    95.0,
+    272.18
+   ],
+   "2": [
+    95.0,
+    269.18
+   ],
+   "3": [
+    95.0,
+    272.18
+   ],
+   "4": [
+    95.0,
+    280.18
+   ],
+   "5": [
+    95.0,
+    287.18
+   ],
+   "6": [
+    95.0,
+    290.18
+   ],
+   "7": [
+    95.0,
+    287.18
+   ]
+  },
+  "toaster": {
+   "0": [
+    142.5,
+    196.04
+   ],
+   "1": [
+    142.5,
+    231.04
+   ],
+   "2": [
+    142.5,
+    226.04
+   ],
+   "3": [
+    142.5,
+    231.04
+   ],
+   "4": [
+    142.5,
+    196.04
+   ],
+   "5": [
+    142.5,
+    231.04
+   ],
+   "6": [
+    142.5,
+    226.04
+   ],
+   "7": [
+    142.5,
+    231.04
+   ]
+  },
+  "toilet": {
+   "0": [
+    396.5,
+    727.0
+   ],
+   "1": [
+    349.5,
+    695.0
+   ],
+   "2": [
+    376.5,
+    620.0
+   ],
+   "3": [
+    381.5,
+    518.0
+   ],
+   "4": [
+    396.5,
+    476.0
+   ],
+   "5": [
+    396.5,
+    546.0
+   ],
+   "6": [
+    396.5,
+    658.0
+   ],
+   "7": [
+    396.5,
+    723.0
+   ]
+  },
+  "toilet_paper": {
+   "0": [
+    86.0,
+    128.02
+   ],
+   "1": [
+    86.0,
+    119.02
+   ],
+   "2": [
+    86.0,
+    122.02
+   ],
+   "3": [
+    86.0,
+    127.02
+   ],
+   "4": [
+    86.0,
+    129.02
+   ],
+   "5": [
+    86.0,
+    127.02
+   ],
+   "6": [
+    86.0,
+    122.02
+   ],
+   "7": [
+    86.0,
+    116.02
+   ]
+  },
+  "toilet_tank": {
+   "0": [
+    192.5,
+    576.07
+   ],
+   "1": [
+    154.5,
+    639.07
+   ],
+   "2": [
+    93.5,
+    663.07
+   ],
+   "3": [
+    185.5,
+    668.07
+   ],
+   "4": [
+    192.5,
+    616.07
+   ],
+   "5": [
+    152.5,
+    696.07
+   ],
+   "6": [
+    63.5,
+    702.07
+   ],
+   "7": [
+    179.5,
+    667.07
+   ]
+  },
+  "toothbrush": {
+   "0": [
+    68.0,
+    14.45
+   ],
+   "1": [
+    49.0,
+    44.45
+   ],
+   "2": [
+    12.0,
+    60.45
+   ],
+   "3": [
+    54.0,
+    44.45
+   ],
+   "4": [
+    72.0,
+    14.45
+   ],
+   "5": [
+    54.0,
+    51.45
+   ],
+   "6": [
+    12.0,
+    67.45
+   ],
+   "7": [
+    49.0,
+    51.45
+   ]
+  },
+  "toothpaste": {
+   "0": [
+    91.0,
+    41.36
+   ],
+   "1": [
+    69.0,
+    67.36
+   ],
+   "2": [
+    30.0,
+    87.36
+   ],
+   "3": [
+    82.0,
+    67.36
+   ],
+   "4": [
+    104.0,
+    41.36
+   ],
+   "5": [
+    82.0,
+    88.36
+   ],
+   "6": [
+    30.0,
+    102.36
+   ],
+   "7": [
+    69.0,
+    88.36
+   ]
+  },
+  "trash_can": {
+   "0": [
+    204.0,
+    558.98
+   ],
+   "1": [
+    204.0,
+    614.98
+   ],
+   "2": [
+    204.0,
+    603.98
+   ],
+   "3": [
+    204.0,
+    614.98
+   ],
+   "4": [
+    204.0,
+    558.98
+   ],
+   "5": [
+    204.0,
+    614.98
+   ],
+   "6": [
+    204.0,
+    603.98
+   ],
+   "7": [
+    204.0,
+    614.98
+   ]
+  },
+  "tub_drain": {
+   "0": [
+    26.5,
+    23.47
+   ],
+   "1": [
+    26.5,
+    23.47
+   ],
+   "2": [
+    26.5,
+    23.47
+   ],
+   "3": [
+    26.5,
+    23.47
+   ],
+   "4": [
+    26.5,
+    23.47
+   ],
+   "5": [
+    26.5,
+    23.47
+   ],
+   "6": [
+    26.5,
+    23.47
+   ],
+   "7": [
+    26.5,
+    23.47
+   ]
+  },
+  "tub_faucet": {
+   "0": [
+    70.0,
+    219.83
+   ],
+   "1": [
+    42.0,
+    241.83
+   ],
+   "2": [
+    53.0,
+    226.83
+   ],
+   "3": [
+    42.0,
+    196.83
+   ],
+   "4": [
+    70.0,
+    157.83
+   ],
+   "5": [
+    85.0,
+    196.83
+   ],
+   "6": [
+    74.0,
+    226.83
+   ],
+   "7": [
+    85.0,
+    241.83
+   ]
+  },
+  "tv": {
+   "0": [
+    325.0,
+    452.18
+   ],
+   "1": [
+    325.0,
+    532.18
+   ],
+   "2": [
+    325.0,
+    568.18
+   ],
+   "3": [
+    325.0,
+    600.18
+   ],
+   "4": [
+    325.0,
+    499.18
+   ],
+   "5": [
+    325.0,
+    600.18
+   ],
+   "6": [
+    325.0,
+    568.18
+   ],
+   "7": [
+    325.0,
+    532.18
+   ]
+  },
+  "vase": {
+   "0": [
+    138.0,
+    351.01
+   ],
+   "1": [
+    138.0,
+    347.01
+   ],
+   "2": [
+    138.0,
+    342.01
+   ],
+   "3": [
+    138.0,
+    346.01
+   ],
+   "4": [
+    138.0,
+    351.01
+   ],
+   "5": [
+    138.0,
+    346.01
+   ],
+   "6": [
+    138.0,
+    342.01
+   ],
+   "7": [
+    138.0,
+    347.01
+   ]
+  },
+  "vcr": {
+   "0": [
+    191.0,
+    144.98
+   ],
+   "1": [
+    204.0,
+    210.98
+   ],
+   "2": [
+    140.0,
+    189.98
+   ],
+   "3": [
+    204.0,
+    210.98
+   ],
+   "4": [
+    191.0,
+    144.98
+   ],
+   "5": [
+    204.0,
+    210.98
+   ],
+   "6": [
+    140.0,
+    189.98
+   ],
+   "7": [
+    204.0,
+    210.98
+   ]
+  },
+  "vhs_stack": {
+   "0": [
+    103.5,
+    99.16
+   ],
+   "1": [
+    115.5,
+    125.16
+   ],
+   "2": [
+    86.5,
+    114.16
+   ],
+   "3": [
+    117.5,
+    125.16
+   ],
+   "4": [
+    117.5,
+    99.16
+   ],
+   "5": [
+    117.5,
+    138.16
+   ],
+   "6": [
+    87.5,
+    132.16
+   ],
+   "7": [
+    115.5,
+    138.16
+   ]
+  },
+  "wagon": {
+   "0": [
+    416.5,
+    678.04
+   ],
+   "1": [
+    588.5,
+    630.04
+   ],
+   "2": [
+    544.5,
+    518.04
+   ],
+   "3": [
+    587.5,
+    630.04
+   ],
+   "4": [
+    416.5,
+    588.04
+   ],
+   "5": [
+    590.5,
+    630.04
+   ],
+   "6": [
+    675.5,
+    515.04
+   ],
+   "7": [
+    588.5,
+    630.04
+   ]
+  },
+  "water_glass": {
+   "0": [
+    65.5,
+    120.96
+   ],
+   "1": [
+    65.5,
+    120.96
+   ],
+   "2": [
+    65.5,
+    120.96
+   ],
+   "3": [
+    65.5,
+    120.96
+   ],
+   "4": [
+    65.5,
+    120.96
+   ],
+   "5": [
+    65.5,
+    120.96
+   ],
+   "6": [
+    65.5,
+    120.96
+   ],
+   "7": [
+    65.5,
+    120.96
+   ]
+  },
+  "watering_can": {
+   "0": [
+    141.0,
+    245.51
+   ],
+   "1": [
+    218.0,
+    208.51
+   ],
+   "2": [
+    218.0,
+    170.51
+   ],
+   "3": [
+    218.0,
+    255.51
+   ],
+   "4": [
+    141.0,
+    289.51
+   ],
+   "5": [
+    189.0,
+    255.51
+   ],
+   "6": [
+    218.0,
+    170.51
+   ],
+   "7": [
+    190.0,
+    207.51
+   ]
+  },
+  "wooden_spoon": {
+   "0": [
+    46.0,
+    107.01
+   ],
+   "1": [
+    101.0,
+    75.01
+   ],
+   "2": [
+    123.0,
+    48.01
+   ],
+   "3": [
+    101.0,
+    96.01
+   ],
+   "4": [
+    46.0,
+    116.01
+   ],
+   "5": [
+    92.0,
+    96.01
+   ],
+   "6": [
+    117.0,
+    48.01
+   ],
+   "7": [
+    79.0,
+    86.01
+   ]
+  }
+ }
+}

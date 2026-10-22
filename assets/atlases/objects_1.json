@@ -1,0 +1,73 @@
+{
+ "frames": {
+  "obj_hutch_2": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 908,
+    "h": 2171
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 908,
+    "h": 2171
+   },
+   "sourceSize": {
+    "w": 908,
+    "h": 2171
+   }
+  },
+  "obj_hutch_6": {
+   "frame": {
+    "x": 910,
+    "y": 0,
+    "w": 887,
+    "h": 2171
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 887,
+    "h": 2171
+   },
+   "sourceSize": {
+    "w": 887,
+    "h": 2171
+   }
+  },
+  "obj_hutch_1": {
+   "frame": {
+    "x": 1799,
+    "y": 0,
+    "w": 1214,
+    "h": 2052
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1214,
+    "h": 2052
+   },
+   "sourceSize": {
+    "w": 1214,
+    "h": 2052
+   }
+  }
+ },
+ "meta": {
+  "image": "objects_1.png",
+  "size": {
+   "w": 4096,
+   "h": 2171
+  },
+  "scale": "1",
+  "app": "tools/art/objects_build.py"
+ }
+}
