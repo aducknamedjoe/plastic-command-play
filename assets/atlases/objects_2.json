@@ -1,0 +1,233 @@
+{
+ "frames": {
+  "obj_hutch_7": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 1199,
+    "h": 2052
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1199,
+    "h": 2052
+   },
+   "sourceSize": {
+    "w": 1199,
+    "h": 2052
+   }
+  },
+  "obj_hutch_5": {
+   "frame": {
+    "x": 1201,
+    "y": 0,
+    "w": 1199,
+    "h": 1980
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1199,
+    "h": 1980
+   },
+   "sourceSize": {
+    "w": 1199,
+    "h": 1980
+   }
+  },
+  "obj_hutch_3": {
+   "frame": {
+    "x": 2402,
+    "y": 0,
+    "w": 1214,
+    "h": 1964
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1214,
+    "h": 1964
+   },
+   "sourceSize": {
+    "w": 1214,
+    "h": 1964
+   }
+  },
+  "obj_hutch_0": {
+   "frame": {
+    "x": 0,
+    "y": 2054,
+    "w": 1250,
+    "h": 1845
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1250,
+    "h": 1845
+   },
+   "sourceSize": {
+    "w": 1250,
+    "h": 1845
+   }
+  },
+  "obj_hutch_4": {
+   "frame": {
+    "x": 1252,
+    "y": 2054,
+    "w": 1251,
+    "h": 1754
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1251,
+    "h": 1754
+   },
+   "sourceSize": {
+    "w": 1251,
+    "h": 1754
+   }
+  },
+  "obj_paper_towel_dmg_0": {
+   "frame": {
+    "x": 2505,
+    "y": 2054,
+    "w": 218,
+    "h": 356
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 218,
+    "h": 356
+   },
+   "sourceSize": {
+    "w": 218,
+    "h": 356
+   }
+  },
+  "obj_toaster_1": {
+   "frame": {
+    "x": 2725,
+    "y": 2054,
+    "w": 256,
+    "h": 331
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 331
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 331
+   }
+  },
+  "obj_toaster_3": {
+   "frame": {
+    "x": 2983,
+    "y": 2054,
+    "w": 256,
+    "h": 331
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 331
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 331
+   }
+  },
+  "obj_toaster_5": {
+   "frame": {
+    "x": 3241,
+    "y": 2054,
+    "w": 256,
+    "h": 331
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 331
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 331
+   }
+  },
+  "obj_toaster_7": {
+   "frame": {
+    "x": 3499,
+    "y": 2054,
+    "w": 256,
+    "h": 331
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 331
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 331
+   }
+  },
+  "obj_paper_towel_dmg_7": {
+   "frame": {
+    "x": 3757,
+    "y": 2054,
+    "w": 229,
+    "h": 329
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 229,
+    "h": 329
+   },
+   "sourceSize": {
+    "w": 229,
+    "h": 329
+   }
+  }
+ },
+ "meta": {
+  "image": "objects_2.png",
+  "size": {
+   "w": 4096,
+   "h": 3899
+  },
+  "scale": "1",
+  "app": "tools/art/objects_build.py"
+ }
+}

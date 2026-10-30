@@ -1,0 +1,553 @@
+{
+ "frames": {
+  "obj_tv_3": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 608,
+    "h": 846
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 608,
+    "h": 846
+   },
+   "sourceSize": {
+    "w": 608,
+    "h": 846
+   }
+  },
+  "obj_tv_5": {
+   "frame": {
+    "x": 610,
+    "y": 0,
+    "w": 603,
+    "h": 846
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 603,
+    "h": 846
+   },
+   "sourceSize": {
+    "w": 603,
+    "h": 846
+   }
+  },
+  "obj_ent_center_0": {
+   "frame": {
+    "x": 1215,
+    "y": 0,
+    "w": 1019,
+    "h": 834
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1019,
+    "h": 834
+   },
+   "sourceSize": {
+    "w": 1019,
+    "h": 834
+   }
+  },
+  "obj_sofa_arm_a_5": {
+   "frame": {
+    "x": 2236,
+    "y": 0,
+    "w": 626,
+    "h": 826
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 626,
+    "h": 826
+   },
+   "sourceSize": {
+    "w": 626,
+    "h": 826
+   }
+  },
+  "obj_sofa_arm_b_3": {
+   "frame": {
+    "x": 2864,
+    "y": 0,
+    "w": 626,
+    "h": 826
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 626,
+    "h": 826
+   },
+   "sourceSize": {
+    "w": 626,
+    "h": 826
+   }
+  },
+  "obj_ent_center_4": {
+   "frame": {
+    "x": 0,
+    "y": 848,
+    "w": 1019,
+    "h": 825
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1019,
+    "h": 825
+   },
+   "sourceSize": {
+    "w": 1019,
+    "h": 825
+   }
+  },
+  "obj_end_table_2": {
+   "frame": {
+    "x": 1021,
+    "y": 848,
+    "w": 482,
+    "h": 816
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 482,
+    "h": 816
+   },
+   "sourceSize": {
+    "w": 482,
+    "h": 816
+   }
+  },
+  "obj_end_table_6": {
+   "frame": {
+    "x": 1505,
+    "y": 848,
+    "w": 482,
+    "h": 816
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 482,
+    "h": 816
+   },
+   "sourceSize": {
+    "w": 482,
+    "h": 816
+   }
+  },
+  "obj_recliner_seat_0": {
+   "frame": {
+    "x": 1989,
+    "y": 848,
+    "w": 625,
+    "h": 813
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 625,
+    "h": 813
+   },
+   "sourceSize": {
+    "w": 625,
+    "h": 813
+   }
+  },
+  "obj_tv_2": {
+   "frame": {
+    "x": 2616,
+    "y": 848,
+    "w": 510,
+    "h": 798
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 510,
+    "h": 798
+   },
+   "sourceSize": {
+    "w": 510,
+    "h": 798
+   }
+  },
+  "obj_tv_6": {
+   "frame": {
+    "x": 3128,
+    "y": 848,
+    "w": 510,
+    "h": 798
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 510,
+    "h": 798
+   },
+   "sourceSize": {
+    "w": 510,
+    "h": 798
+   }
+  },
+  "obj_recliner_seat_4": {
+   "frame": {
+    "x": 0,
+    "y": 1675,
+    "w": 625,
+    "h": 793
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 625,
+    "h": 793
+   },
+   "sourceSize": {
+    "w": 625,
+    "h": 793
+   }
+  },
+  "obj_sofa_arm_a_6": {
+   "frame": {
+    "x": 627,
+    "y": 1675,
+    "w": 583,
+    "h": 789
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 583,
+    "h": 789
+   },
+   "sourceSize": {
+    "w": 583,
+    "h": 789
+   }
+  },
+  "obj_sofa_arm_b_2": {
+   "frame": {
+    "x": 1212,
+    "y": 1675,
+    "w": 583,
+    "h": 789
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 583,
+    "h": 789
+   },
+   "sourceSize": {
+    "w": 583,
+    "h": 789
+   }
+  },
+  "obj_sofa_seat_3": {
+   "frame": {
+    "x": 1797,
+    "y": 1675,
+    "w": 931,
+    "h": 777
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 931,
+    "h": 777
+   },
+   "sourceSize": {
+    "w": 931,
+    "h": 777
+   }
+  },
+  "obj_sofa_seat_5": {
+   "frame": {
+    "x": 2730,
+    "y": 1675,
+    "w": 931,
+    "h": 777
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 931,
+    "h": 777
+   },
+   "sourceSize": {
+    "w": 931,
+    "h": 777
+   }
+  },
+  "obj_tv_1": {
+   "frame": {
+    "x": 0,
+    "y": 2470,
+    "w": 608,
+    "h": 774
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 608,
+    "h": 774
+   },
+   "sourceSize": {
+    "w": 608,
+    "h": 774
+   }
+  },
+  "obj_tv_7": {
+   "frame": {
+    "x": 610,
+    "y": 2470,
+    "w": 603,
+    "h": 774
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 603,
+    "h": 774
+   },
+   "sourceSize": {
+    "w": 603,
+    "h": 774
+   }
+  },
+  "obj_end_table_0": {
+   "frame": {
+    "x": 1215,
+    "y": 2470,
+    "w": 521,
+    "h": 746
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 521,
+    "h": 746
+   },
+   "sourceSize": {
+    "w": 521,
+    "h": 746
+   }
+  },
+  "obj_end_table_4": {
+   "frame": {
+    "x": 1738,
+    "y": 2470,
+    "w": 521,
+    "h": 746
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 521,
+    "h": 746
+   },
+   "sourceSize": {
+    "w": 521,
+    "h": 746
+   }
+  },
+  "obj_recliner_seat_6": {
+   "frame": {
+    "x": 2261,
+    "y": 2470,
+    "w": 665,
+    "h": 737
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 665,
+    "h": 737
+   },
+   "sourceSize": {
+    "w": 665,
+    "h": 737
+   }
+  },
+  "obj_recliner_seat_2": {
+   "frame": {
+    "x": 2928,
+    "y": 2470,
+    "w": 659,
+    "h": 735
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 659,
+    "h": 735
+   },
+   "sourceSize": {
+    "w": 659,
+    "h": 735
+   }
+  },
+  "obj_sofa_arm_a_2": {
+   "frame": {
+    "x": 0,
+    "y": 3246,
+    "w": 583,
+    "h": 716
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 583,
+    "h": 716
+   },
+   "sourceSize": {
+    "w": 583,
+    "h": 716
+   }
+  },
+  "obj_sofa_arm_b_6": {
+   "frame": {
+    "x": 585,
+    "y": 3246,
+    "w": 583,
+    "h": 715
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 583,
+    "h": 715
+   },
+   "sourceSize": {
+    "w": 583,
+    "h": 715
+   }
+  },
+  "obj_tv_4": {
+   "frame": {
+    "x": 1170,
+    "y": 3246,
+    "w": 565,
+    "h": 684
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 565,
+    "h": 684
+   },
+   "sourceSize": {
+    "w": 565,
+    "h": 684
+   }
+  },
+  "obj_tv_0": {
+   "frame": {
+    "x": 1737,
+    "y": 3246,
+    "w": 564,
+    "h": 635
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 564,
+    "h": 635
+   },
+   "sourceSize": {
+    "w": 564,
+    "h": 635
+   }
+  },
+  "obj_sofa_seat_0": {
+   "frame": {
+    "x": 2303,
+    "y": 3246,
+    "w": 1086,
+    "h": 618
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1086,
+    "h": 618
+   },
+   "sourceSize": {
+    "w": 1086,
+    "h": 618
+   }
+  }
+ },
+ "meta": {
+  "image": "objects_18.png",
+  "size": {
+   "w": 4096,
+   "h": 3962
+  },
+  "scale": "1",
+  "app": "tools/art/objects_build.py"
+ }
+}

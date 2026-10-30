@@ -1,0 +1,193 @@
+{
+ "frames": {
+  "obj_hutch_base_2": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 1780
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 1780
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 1780
+   }
+  },
+  "obj_hutch_base_6": {
+   "frame": {
+    "x": 450,
+    "y": 0,
+    "w": 448,
+    "h": 1780
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 1780
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 1780
+   }
+  },
+  "obj_hutch_top_2": {
+   "frame": {
+    "x": 900,
+    "y": 0,
+    "w": 295,
+    "h": 1767
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 295,
+    "h": 1767
+   },
+   "sourceSize": {
+    "w": 295,
+    "h": 1767
+   }
+  },
+  "obj_hutch_top_6": {
+   "frame": {
+    "x": 1197,
+    "y": 0,
+    "w": 295,
+    "h": 1767
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 295,
+    "h": 1767
+   },
+   "sourceSize": {
+    "w": 295,
+    "h": 1767
+   }
+  },
+  "obj_hutch_base_3": {
+   "frame": {
+    "x": 1494,
+    "y": 0,
+    "w": 1253,
+    "h": 1692
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1253,
+    "h": 1692
+   },
+   "sourceSize": {
+    "w": 1253,
+    "h": 1692
+   }
+  },
+  "obj_hutch_base_5": {
+   "frame": {
+    "x": 2749,
+    "y": 0,
+    "w": 1253,
+    "h": 1692
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1253,
+    "h": 1692
+   },
+   "sourceSize": {
+    "w": 1253,
+    "h": 1692
+   }
+  },
+  "obj_hutch_base_1": {
+   "frame": {
+    "x": 0,
+    "y": 1782,
+    "w": 1253,
+    "h": 1640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1253,
+    "h": 1640
+   },
+   "sourceSize": {
+    "w": 1253,
+    "h": 1640
+   }
+  },
+  "obj_hutch_base_7": {
+   "frame": {
+    "x": 1255,
+    "y": 1782,
+    "w": 1253,
+    "h": 1640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1253,
+    "h": 1640
+   },
+   "sourceSize": {
+    "w": 1253,
+    "h": 1640
+   }
+  },
+  "obj_hutch_top_3": {
+   "frame": {
+    "x": 2510,
+    "y": 1782,
+    "w": 1135,
+    "h": 1600
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1135,
+    "h": 1600
+   },
+   "sourceSize": {
+    "w": 1135,
+    "h": 1600
+   }
+  }
+ },
+ "meta": {
+  "image": "objects_4.png",
+  "size": {
+   "w": 4096,
+   "h": 3422
+  },
+  "scale": "1",
+  "app": "tools/art/objects_build.py"
+ }
+}

@@ -1,0 +1,413 @@
+{
+ "frames": {
+  "obj_coat_rack_1": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 413,
+    "h": 1575
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 413,
+    "h": 1575
+   },
+   "sourceSize": {
+    "w": 413,
+    "h": 1575
+   }
+  },
+  "obj_coat_rack_6": {
+   "frame": {
+    "x": 415,
+    "y": 0,
+    "w": 382,
+    "h": 1547
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 382,
+    "h": 1547
+   },
+   "sourceSize": {
+    "w": 382,
+    "h": 1547
+   }
+  },
+  "obj_wagon_4": {
+   "frame": {
+    "x": 799,
+    "y": 0,
+    "w": 693,
+    "h": 1125
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 693,
+    "h": 1125
+   },
+   "sourceSize": {
+    "w": 693,
+    "h": 1125
+   }
+  },
+  "obj_mailbox_0": {
+   "frame": {
+    "x": 1494,
+    "y": 0,
+    "w": 321,
+    "h": 1035
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 321,
+    "h": 1035
+   },
+   "sourceSize": {
+    "w": 321,
+    "h": 1035
+   }
+  },
+  "obj_mailbox_4": {
+   "frame": {
+    "x": 1817,
+    "y": 0,
+    "w": 321,
+    "h": 1035
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 321,
+    "h": 1035
+   },
+   "sourceSize": {
+    "w": 321,
+    "h": 1035
+   }
+  },
+  "obj_wagon_0": {
+   "frame": {
+    "x": 2140,
+    "y": 0,
+    "w": 693,
+    "h": 1024
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 693,
+    "h": 1024
+   },
+   "sourceSize": {
+    "w": 693,
+    "h": 1024
+   }
+  },
+  "obj_wagon_3": {
+   "frame": {
+    "x": 2835,
+    "y": 0,
+    "w": 1030,
+    "h": 1016
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1030,
+    "h": 1016
+   },
+   "sourceSize": {
+    "w": 1030,
+    "h": 1016
+   }
+  },
+  "obj_mailbox_3": {
+   "frame": {
+    "x": 0,
+    "y": 1577,
+    "w": 424,
+    "h": 1013
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 424,
+    "h": 1013
+   },
+   "sourceSize": {
+    "w": 424,
+    "h": 1013
+   }
+  },
+  "obj_mailbox_5": {
+   "frame": {
+    "x": 426,
+    "y": 1577,
+    "w": 410,
+    "h": 1013
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 410,
+    "h": 1013
+   },
+   "sourceSize": {
+    "w": 410,
+    "h": 1013
+   }
+  },
+  "obj_mailbox_7": {
+   "frame": {
+    "x": 838,
+    "y": 1577,
+    "w": 403,
+    "h": 1013
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 403,
+    "h": 1013
+   },
+   "sourceSize": {
+    "w": 403,
+    "h": 1013
+   }
+  },
+  "obj_mailbox_1": {
+   "frame": {
+    "x": 1243,
+    "y": 1577,
+    "w": 417,
+    "h": 1012
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 417,
+    "h": 1012
+   },
+   "sourceSize": {
+    "w": 417,
+    "h": 1012
+   }
+  },
+  "obj_wagon_5": {
+   "frame": {
+    "x": 1662,
+    "y": 1577,
+    "w": 976,
+    "h": 1012
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 976,
+    "h": 1012
+   },
+   "sourceSize": {
+    "w": 976,
+    "h": 1012
+   }
+  },
+  "obj_hall_table_5": {
+   "frame": {
+    "x": 2640,
+    "y": 1577,
+    "w": 572,
+    "h": 1004
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 572,
+    "h": 1004
+   },
+   "sourceSize": {
+    "w": 572,
+    "h": 1004
+   }
+  },
+  "obj_hall_table_7": {
+   "frame": {
+    "x": 3214,
+    "y": 1577,
+    "w": 572,
+    "h": 1004
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 572,
+    "h": 1004
+   },
+   "sourceSize": {
+    "w": 572,
+    "h": 1004
+   }
+  },
+  "obj_hall_table_1": {
+   "frame": {
+    "x": 0,
+    "y": 2592,
+    "w": 572,
+    "h": 1003
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 572,
+    "h": 1003
+   },
+   "sourceSize": {
+    "w": 572,
+    "h": 1003
+   }
+  },
+  "obj_hall_table_3": {
+   "frame": {
+    "x": 574,
+    "y": 2592,
+    "w": 572,
+    "h": 1003
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 572,
+    "h": 1003
+   },
+   "sourceSize": {
+    "w": 572,
+    "h": 1003
+   }
+  },
+  "obj_mailbox_6": {
+   "frame": {
+    "x": 1148,
+    "y": 2592,
+    "w": 415,
+    "h": 980
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 415,
+    "h": 980
+   },
+   "sourceSize": {
+    "w": 415,
+    "h": 980
+   }
+  },
+  "obj_wagon_1": {
+   "frame": {
+    "x": 1565,
+    "y": 2592,
+    "w": 1028,
+    "h": 953
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1028,
+    "h": 953
+   },
+   "sourceSize": {
+    "w": 1028,
+    "h": 953
+   }
+  },
+  "obj_wagon_7": {
+   "frame": {
+    "x": 2595,
+    "y": 2592,
+    "w": 974,
+    "h": 950
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 974,
+    "h": 950
+   },
+   "sourceSize": {
+    "w": 974,
+    "h": 950
+   }
+  },
+  "obj_hall_table_6": {
+   "frame": {
+    "x": 3571,
+    "y": 2592,
+    "w": 473,
+    "h": 936
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 473,
+    "h": 936
+   },
+   "sourceSize": {
+    "w": 473,
+    "h": 936
+   }
+  }
+ },
+ "meta": {
+  "image": "objects_8.png",
+  "size": {
+   "w": 4096,
+   "h": 3595
+  },
+  "scale": "1",
+  "app": "tools/art/objects_build.py"
+ }
+}

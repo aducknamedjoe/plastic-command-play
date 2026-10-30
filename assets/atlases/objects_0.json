@@ -1,0 +1,2093 @@
+{
+ "frames": {
+  "obj_toilet_0": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 564,
+    "h": 855
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 564,
+    "h": 855
+   },
+   "sourceSize": {
+    "w": 564,
+    "h": 855
+   }
+  },
+  "obj_bath_towel_6": {
+   "frame": {
+    "x": 566,
+    "y": 0,
+    "w": 342,
+    "h": 846
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 342,
+    "h": 846
+   },
+   "sourceSize": {
+    "w": 342,
+    "h": 846
+   }
+  },
+  "obj_bath_towel_2": {
+   "frame": {
+    "x": 910,
+    "y": 0,
+    "w": 341,
+    "h": 841
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 341,
+    "h": 841
+   },
+   "sourceSize": {
+    "w": 341,
+    "h": 841
+   }
+  },
+  "obj_toilet_5": {
+   "frame": {
+    "x": 1253,
+    "y": 0,
+    "w": 539,
+    "h": 841
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 539,
+    "h": 841
+   },
+   "sourceSize": {
+    "w": 539,
+    "h": 841
+   }
+  },
+  "obj_mirror_2": {
+   "frame": {
+    "x": 1794,
+    "y": 0,
+    "w": 21,
+    "h": 829
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 21,
+    "h": 829
+   },
+   "sourceSize": {
+    "w": 21,
+    "h": 829
+   }
+  },
+  "obj_mirror_6": {
+   "frame": {
+    "x": 1817,
+    "y": 0,
+    "w": 21,
+    "h": 829
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 21,
+    "h": 829
+   },
+   "sourceSize": {
+    "w": 21,
+    "h": 829
+   }
+  },
+  "obj_toilet_7": {
+   "frame": {
+    "x": 1840,
+    "y": 0,
+    "w": 570,
+    "h": 827
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 570,
+    "h": 827
+   },
+   "sourceSize": {
+    "w": 570,
+    "h": 827
+   }
+  },
+  "obj_toilet_1": {
+   "frame": {
+    "x": 2412,
+    "y": 0,
+    "w": 572,
+    "h": 826
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 572,
+    "h": 826
+   },
+   "sourceSize": {
+    "w": 572,
+    "h": 826
+   }
+  },
+  "obj_toilet_6": {
+   "frame": {
+    "x": 2986,
+    "y": 0,
+    "w": 567,
+    "h": 813
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 567,
+    "h": 813
+   },
+   "sourceSize": {
+    "w": 567,
+    "h": 813
+   }
+  },
+  "obj_toilet_3": {
+   "frame": {
+    "x": 0,
+    "y": 857,
+    "w": 661,
+    "h": 770
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 661,
+    "h": 770
+   },
+   "sourceSize": {
+    "w": 661,
+    "h": 770
+   }
+  },
+  "obj_toilet_2": {
+   "frame": {
+    "x": 663,
+    "y": 857,
+    "w": 621,
+    "h": 751
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 621,
+    "h": 751
+   },
+   "sourceSize": {
+    "w": 621,
+    "h": 751
+   }
+  },
+  "obj_mirror_1": {
+   "frame": {
+    "x": 1286,
+    "y": 857,
+    "w": 277,
+    "h": 750
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 277,
+    "h": 750
+   },
+   "sourceSize": {
+    "w": 277,
+    "h": 750
+   }
+  },
+  "obj_mirror_3": {
+   "frame": {
+    "x": 1565,
+    "y": 857,
+    "w": 277,
+    "h": 750
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 277,
+    "h": 750
+   },
+   "sourceSize": {
+    "w": 277,
+    "h": 750
+   }
+  },
+  "obj_mirror_5": {
+   "frame": {
+    "x": 1844,
+    "y": 857,
+    "w": 277,
+    "h": 750
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 277,
+    "h": 750
+   },
+   "sourceSize": {
+    "w": 277,
+    "h": 750
+   }
+  },
+  "obj_mirror_7": {
+   "frame": {
+    "x": 2123,
+    "y": 857,
+    "w": 277,
+    "h": 750
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 277,
+    "h": 750
+   },
+   "sourceSize": {
+    "w": 277,
+    "h": 750
+   }
+  },
+  "obj_toilet_tank_6": {
+   "frame": {
+    "x": 2402,
+    "y": 857,
+    "w": 158,
+    "h": 750
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 158,
+    "h": 750
+   },
+   "sourceSize": {
+    "w": 158,
+    "h": 750
+   }
+  },
+  "obj_toilet_4": {
+   "frame": {
+    "x": 2562,
+    "y": 857,
+    "w": 507,
+    "h": 747
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 507,
+    "h": 747
+   },
+   "sourceSize": {
+    "w": 507,
+    "h": 747
+   }
+  },
+  "obj_toilet_tank_2": {
+   "frame": {
+    "x": 3071,
+    "y": 857,
+    "w": 157,
+    "h": 732
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 157,
+    "h": 732
+   },
+   "sourceSize": {
+    "w": 157,
+    "h": 732
+   }
+  },
+  "obj_toilet_tank_5": {
+   "frame": {
+    "x": 3230,
+    "y": 857,
+    "w": 323,
+    "h": 722
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 323,
+    "h": 722
+   },
+   "sourceSize": {
+    "w": 323,
+    "h": 722
+   }
+  },
+  "obj_toilet_tank_7": {
+   "frame": {
+    "x": 3555,
+    "y": 857,
+    "w": 365,
+    "h": 722
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 365,
+    "h": 722
+   },
+   "sourceSize": {
+    "w": 365,
+    "h": 722
+   }
+  },
+  "obj_toilet_tank_1": {
+   "frame": {
+    "x": 0,
+    "y": 1629,
+    "w": 307,
+    "h": 721
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 307,
+    "h": 721
+   },
+   "sourceSize": {
+    "w": 307,
+    "h": 721
+   }
+  },
+  "obj_bath_towel_5": {
+   "frame": {
+    "x": 309,
+    "y": 1629,
+    "w": 670,
+    "h": 684
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 670,
+    "h": 684
+   },
+   "sourceSize": {
+    "w": 670,
+    "h": 684
+   }
+  },
+  "obj_bath_towel_1": {
+   "frame": {
+    "x": 981,
+    "y": 1629,
+    "w": 666,
+    "h": 683
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 666,
+    "h": 683
+   },
+   "sourceSize": {
+    "w": 666,
+    "h": 683
+   }
+  },
+  "obj_toilet_tank_3": {
+   "frame": {
+    "x": 1649,
+    "y": 1629,
+    "w": 353,
+    "h": 666
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 353,
+    "h": 666
+   },
+   "sourceSize": {
+    "w": 353,
+    "h": 666
+   }
+  },
+  "obj_toilet_tank_0": {
+   "frame": {
+    "x": 2004,
+    "y": 1629,
+    "w": 385,
+    "h": 631
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 385,
+    "h": 631
+   },
+   "sourceSize": {
+    "w": 385,
+    "h": 631
+   }
+  },
+  "obj_mirror_4": {
+   "frame": {
+    "x": 2391,
+    "y": 1629,
+    "w": 383,
+    "h": 601
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 383,
+    "h": 601
+   },
+   "sourceSize": {
+    "w": 383,
+    "h": 601
+   }
+  },
+  "obj_bath_towel_7": {
+   "frame": {
+    "x": 2776,
+    "y": 1629,
+    "w": 772,
+    "h": 594
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 772,
+    "h": 594
+   },
+   "sourceSize": {
+    "w": 772,
+    "h": 594
+   }
+  },
+  "obj_mirror_0": {
+   "frame": {
+    "x": 3550,
+    "y": 1629,
+    "w": 383,
+    "h": 594
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 383,
+    "h": 594
+   },
+   "sourceSize": {
+    "w": 383,
+    "h": 594
+   }
+  },
+  "obj_bath_towel_3": {
+   "frame": {
+    "x": 0,
+    "y": 2352,
+    "w": 774,
+    "h": 591
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 774,
+    "h": 591
+   },
+   "sourceSize": {
+    "w": 774,
+    "h": 591
+   }
+  },
+  "obj_toilet_tank_4": {
+   "frame": {
+    "x": 776,
+    "y": 2352,
+    "w": 378,
+    "h": 562
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 378,
+    "h": 562
+   },
+   "sourceSize": {
+    "w": 378,
+    "h": 562
+   }
+  },
+  "obj_plunger_3": {
+   "frame": {
+    "x": 1156,
+    "y": 2352,
+    "w": 188,
+    "h": 406
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 406
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 406
+   }
+  },
+  "obj_plunger_2": {
+   "frame": {
+    "x": 1346,
+    "y": 2352,
+    "w": 188,
+    "h": 404
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 404
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 404
+   }
+  },
+  "obj_plunger_4": {
+   "frame": {
+    "x": 1536,
+    "y": 2352,
+    "w": 188,
+    "h": 404
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 404
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 404
+   }
+  },
+  "obj_plunger_1": {
+   "frame": {
+    "x": 1726,
+    "y": 2352,
+    "w": 188,
+    "h": 398
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 398
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 398
+   }
+  },
+  "obj_plunger_5": {
+   "frame": {
+    "x": 1916,
+    "y": 2352,
+    "w": 188,
+    "h": 398
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 398
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 398
+   }
+  },
+  "obj_plunger_6": {
+   "frame": {
+    "x": 2106,
+    "y": 2352,
+    "w": 188,
+    "h": 392
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 392
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 392
+   }
+  },
+  "obj_plunger_0": {
+   "frame": {
+    "x": 2296,
+    "y": 2352,
+    "w": 188,
+    "h": 391
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 391
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 391
+   }
+  },
+  "obj_plunger_7": {
+   "frame": {
+    "x": 2486,
+    "y": 2352,
+    "w": 188,
+    "h": 388
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 388
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 388
+   }
+  },
+  "obj_hand_towel_6": {
+   "frame": {
+    "x": 2676,
+    "y": 2352,
+    "w": 325,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 325,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 325,
+    "h": 324
+   }
+  },
+  "obj_hand_towel_2": {
+   "frame": {
+    "x": 3003,
+    "y": 2352,
+    "w": 316,
+    "h": 317
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 316,
+    "h": 317
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 317
+   }
+  },
+  "obj_bath_towel_0": {
+   "frame": {
+    "x": 0,
+    "y": 2945,
+    "w": 951,
+    "h": 310
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 951,
+    "h": 310
+   },
+   "sourceSize": {
+    "w": 951,
+    "h": 310
+   }
+  },
+  "obj_hand_towel_0": {
+   "frame": {
+    "x": 953,
+    "y": 2945,
+    "w": 358,
+    "h": 305
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 358,
+    "h": 305
+   },
+   "sourceSize": {
+    "w": 358,
+    "h": 305
+   }
+  },
+  "obj_bath_towel_4": {
+   "frame": {
+    "x": 1313,
+    "y": 2945,
+    "w": 952,
+    "h": 304
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 952,
+    "h": 304
+   },
+   "sourceSize": {
+    "w": 952,
+    "h": 304
+   }
+  },
+  "obj_hand_towel_7": {
+   "frame": {
+    "x": 2267,
+    "y": 2945,
+    "w": 306,
+    "h": 304
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 306,
+    "h": 304
+   },
+   "sourceSize": {
+    "w": 306,
+    "h": 304
+   }
+  },
+  "obj_hand_towel_4": {
+   "frame": {
+    "x": 2575,
+    "y": 2945,
+    "w": 363,
+    "h": 288
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 363,
+    "h": 288
+   },
+   "sourceSize": {
+    "w": 363,
+    "h": 288
+   }
+  },
+  "obj_hand_towel_1": {
+   "frame": {
+    "x": 2940,
+    "y": 2945,
+    "w": 299,
+    "h": 279
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 279
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 279
+   }
+  },
+  "obj_hand_towel_5": {
+   "frame": {
+    "x": 3241,
+    "y": 2945,
+    "w": 321,
+    "h": 271
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 321,
+    "h": 271
+   },
+   "sourceSize": {
+    "w": 321,
+    "h": 271
+   }
+  },
+  "obj_bleach_bottle_6": {
+   "frame": {
+    "x": 3564,
+    "y": 2945,
+    "w": 91,
+    "h": 269
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 269
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 269
+   }
+  },
+  "obj_bleach_bottle_5": {
+   "frame": {
+    "x": 3657,
+    "y": 2945,
+    "w": 100,
+    "h": 268
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 100,
+    "h": 268
+   },
+   "sourceSize": {
+    "w": 100,
+    "h": 268
+   }
+  },
+  "obj_bleach_bottle_7": {
+   "frame": {
+    "x": 3759,
+    "y": 2945,
+    "w": 100,
+    "h": 268
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 100,
+    "h": 268
+   },
+   "sourceSize": {
+    "w": 100,
+    "h": 268
+   }
+  },
+  "obj_hand_towel_3": {
+   "frame": {
+    "x": 0,
+    "y": 3257,
+    "w": 302,
+    "h": 267
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 302,
+    "h": 267
+   },
+   "sourceSize": {
+    "w": 302,
+    "h": 267
+   }
+  },
+  "obj_bleach_bottle_1": {
+   "frame": {
+    "x": 304,
+    "y": 3257,
+    "w": 100,
+    "h": 262
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 100,
+    "h": 262
+   },
+   "sourceSize": {
+    "w": 100,
+    "h": 262
+   }
+  },
+  "obj_bleach_bottle_2": {
+   "frame": {
+    "x": 406,
+    "y": 3257,
+    "w": 91,
+    "h": 262
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 262
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 262
+   }
+  },
+  "obj_bleach_bottle_3": {
+   "frame": {
+    "x": 499,
+    "y": 3257,
+    "w": 100,
+    "h": 262
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 100,
+    "h": 262
+   },
+   "sourceSize": {
+    "w": 100,
+    "h": 262
+   }
+  },
+  "obj_bleach_bottle_0": {
+   "frame": {
+    "x": 601,
+    "y": 3257,
+    "w": 102,
+    "h": 259
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 259
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 259
+   }
+  },
+  "obj_bleach_bottle_4": {
+   "frame": {
+    "x": 705,
+    "y": 3257,
+    "w": 102,
+    "h": 259
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 259
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 259
+   }
+  },
+  "obj_tub_faucet_1": {
+   "frame": {
+    "x": 809,
+    "y": 3257,
+    "w": 127,
+    "h": 203
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 127,
+    "h": 203
+   },
+   "sourceSize": {
+    "w": 127,
+    "h": 203
+   }
+  },
+  "obj_tub_faucet_7": {
+   "frame": {
+    "x": 938,
+    "y": 3257,
+    "w": 127,
+    "h": 203
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 127,
+    "h": 203
+   },
+   "sourceSize": {
+    "w": 127,
+    "h": 203
+   }
+  },
+  "obj_tub_faucet_0": {
+   "frame": {
+    "x": 1067,
+    "y": 3257,
+    "w": 140,
+    "h": 191
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 191
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 191
+   }
+  },
+  "obj_toilet_paper_4": {
+   "frame": {
+    "x": 1209,
+    "y": 3257,
+    "w": 125,
+    "h": 171
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 125,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 125,
+    "h": 171
+   }
+  },
+  "obj_toilet_paper_0": {
+   "frame": {
+    "x": 1336,
+    "y": 3257,
+    "w": 125,
+    "h": 170
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 125,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 125,
+    "h": 170
+   }
+  },
+  "obj_toothpaste_6": {
+   "frame": {
+    "x": 1463,
+    "y": 3257,
+    "w": 45,
+    "h": 170
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 45,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 45,
+    "h": 170
+   }
+  },
+  "obj_tub_faucet_2": {
+   "frame": {
+    "x": 1510,
+    "y": 3257,
+    "w": 127,
+    "h": 169
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 127,
+    "h": 169
+   },
+   "sourceSize": {
+    "w": 127,
+    "h": 169
+   }
+  },
+  "obj_tub_faucet_3": {
+   "frame": {
+    "x": 1639,
+    "y": 3257,
+    "w": 127,
+    "h": 169
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 127,
+    "h": 169
+   },
+   "sourceSize": {
+    "w": 127,
+    "h": 169
+   }
+  },
+  "obj_tub_faucet_5": {
+   "frame": {
+    "x": 1768,
+    "y": 3257,
+    "w": 127,
+    "h": 169
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 127,
+    "h": 169
+   },
+   "sourceSize": {
+    "w": 127,
+    "h": 169
+   }
+  },
+  "obj_tub_faucet_6": {
+   "frame": {
+    "x": 1897,
+    "y": 3257,
+    "w": 127,
+    "h": 169
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 127,
+    "h": 169
+   },
+   "sourceSize": {
+    "w": 127,
+    "h": 169
+   }
+  },
+  "obj_toilet_paper_5": {
+   "frame": {
+    "x": 2026,
+    "y": 3257,
+    "w": 131,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 160
+   }
+  },
+  "obj_toilet_paper_1": {
+   "frame": {
+    "x": 2159,
+    "y": 3257,
+    "w": 119,
+    "h": 159
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 159
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 159
+   }
+  },
+  "obj_toilet_paper_3": {
+   "frame": {
+    "x": 2280,
+    "y": 3257,
+    "w": 123,
+    "h": 159
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 123,
+    "h": 159
+   },
+   "sourceSize": {
+    "w": 123,
+    "h": 159
+   }
+  },
+  "obj_toilet_paper_2": {
+   "frame": {
+    "x": 2405,
+    "y": 3257,
+    "w": 133,
+    "h": 157
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 133,
+    "h": 157
+   },
+   "sourceSize": {
+    "w": 133,
+    "h": 157
+   }
+  },
+  "obj_toilet_paper_6": {
+   "frame": {
+    "x": 2540,
+    "y": 3257,
+    "w": 133,
+    "h": 157
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 133,
+    "h": 157
+   },
+   "sourceSize": {
+    "w": 133,
+    "h": 157
+   }
+  },
+  "obj_toothpaste_2": {
+   "frame": {
+    "x": 2675,
+    "y": 3257,
+    "w": 45,
+    "h": 157
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 45,
+    "h": 157
+   },
+   "sourceSize": {
+    "w": 45,
+    "h": 157
+   }
+  },
+  "obj_toilet_paper_7": {
+   "frame": {
+    "x": 2722,
+    "y": 3257,
+    "w": 131,
+    "h": 156
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 156
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 156
+   }
+  },
+  "obj_tub_faucet_4": {
+   "frame": {
+    "x": 2855,
+    "y": 3257,
+    "w": 140,
+    "h": 143
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 143
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 143
+   }
+  },
+  "obj_toothpaste_5": {
+   "frame": {
+    "x": 2997,
+    "y": 3257,
+    "w": 140,
+    "h": 139
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 139
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 139
+   }
+  },
+  "obj_toothpaste_7": {
+   "frame": {
+    "x": 3139,
+    "y": 3257,
+    "w": 125,
+    "h": 139
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 125,
+    "h": 139
+   },
+   "sourceSize": {
+    "w": 125,
+    "h": 139
+   }
+  },
+  "obj_toothbrush_6": {
+   "frame": {
+    "x": 3266,
+    "y": 3257,
+    "w": 17,
+    "h": 125
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 17,
+    "h": 125
+   },
+   "sourceSize": {
+    "w": 17,
+    "h": 125
+   }
+  },
+  "obj_toothbrush_2": {
+   "frame": {
+    "x": 3285,
+    "y": 3257,
+    "w": 17,
+    "h": 118
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 17,
+    "h": 118
+   },
+   "sourceSize": {
+    "w": 17,
+    "h": 118
+   }
+  },
+  "obj_toothpaste_1": {
+   "frame": {
+    "x": 3304,
+    "y": 3257,
+    "w": 125,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 125,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 125,
+    "h": 116
+   }
+  },
+  "obj_toothpaste_3": {
+   "frame": {
+    "x": 3431,
+    "y": 3257,
+    "w": 140,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 116
+   }
+  },
+  "obj_toothbrush_5": {
+   "frame": {
+    "x": 3573,
+    "y": 3257,
+    "w": 101,
+    "h": 93
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 101,
+    "h": 93
+   },
+   "sourceSize": {
+    "w": 101,
+    "h": 93
+   }
+  },
+  "obj_toothbrush_7": {
+   "frame": {
+    "x": 3676,
+    "y": 3257,
+    "w": 96,
+    "h": 93
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 93
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 93
+   }
+  },
+  "obj_toothbrush_1": {
+   "frame": {
+    "x": 3774,
+    "y": 3257,
+    "w": 96,
+    "h": 87
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 87
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 87
+   }
+  },
+  "obj_toothbrush_3": {
+   "frame": {
+    "x": 3872,
+    "y": 3257,
+    "w": 101,
+    "h": 87
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 101,
+    "h": 87
+   },
+   "sourceSize": {
+    "w": 101,
+    "h": 87
+   }
+  },
+  "obj_soap_2": {
+   "frame": {
+    "x": 3975,
+    "y": 3257,
+    "w": 50,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 50,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 50,
+    "h": 77
+   }
+  },
+  "obj_soap_6": {
+   "frame": {
+    "x": 4027,
+    "y": 3257,
+    "w": 50,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 50,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 50,
+    "h": 77
+   }
+  },
+  "obj_soap_1": {
+   "frame": {
+    "x": 0,
+    "y": 3526,
+    "w": 80,
+    "h": 75
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 75
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 75
+   }
+  },
+  "obj_soap_3": {
+   "frame": {
+    "x": 82,
+    "y": 3526,
+    "w": 80,
+    "h": 75
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 75
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 75
+   }
+  },
+  "obj_soap_5": {
+   "frame": {
+    "x": 164,
+    "y": 3526,
+    "w": 80,
+    "h": 75
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 75
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 75
+   }
+  },
+  "obj_soap_7": {
+   "frame": {
+    "x": 246,
+    "y": 3526,
+    "w": 80,
+    "h": 75
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 75
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 75
+   }
+  },
+  "obj_toothpaste_0": {
+   "frame": {
+    "x": 328,
+    "y": 3526,
+    "w": 170,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 170,
+    "h": 53
+   }
+  },
+  "obj_toothpaste_4": {
+   "frame": {
+    "x": 500,
+    "y": 3526,
+    "w": 183,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 183,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 183,
+    "h": 53
+   }
+  },
+  "obj_soap_0": {
+   "frame": {
+    "x": 685,
+    "y": 3526,
+    "w": 80,
+    "h": 50
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 50
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 50
+   }
+  },
+  "obj_soap_4": {
+   "frame": {
+    "x": 767,
+    "y": 3526,
+    "w": 80,
+    "h": 50
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 50
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 50
+   }
+  },
+  "obj_tub_drain_0": {
+   "frame": {
+    "x": 849,
+    "y": 3526,
+    "w": 51,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 45
+   }
+  },
+  "obj_tub_drain_1": {
+   "frame": {
+    "x": 902,
+    "y": 3526,
+    "w": 51,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 45
+   }
+  },
+  "obj_tub_drain_2": {
+   "frame": {
+    "x": 955,
+    "y": 3526,
+    "w": 51,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 45
+   }
+  },
+  "obj_tub_drain_3": {
+   "frame": {
+    "x": 1008,
+    "y": 3526,
+    "w": 51,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 45
+   }
+  },
+  "obj_tub_drain_4": {
+   "frame": {
+    "x": 1061,
+    "y": 3526,
+    "w": 51,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 45
+   }
+  },
+  "obj_tub_drain_5": {
+   "frame": {
+    "x": 1114,
+    "y": 3526,
+    "w": 51,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 45
+   }
+  },
+  "obj_tub_drain_6": {
+   "frame": {
+    "x": 1167,
+    "y": 3526,
+    "w": 51,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 45
+   }
+  },
+  "obj_tub_drain_7": {
+   "frame": {
+    "x": 1220,
+    "y": 3526,
+    "w": 51,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 51,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 51,
+    "h": 45
+   }
+  },
+  "obj_toothbrush_0": {
+   "frame": {
+    "x": 1273,
+    "y": 3526,
+    "w": 133,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 133,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 133,
+    "h": 19
+   }
+  },
+  "obj_toothbrush_4": {
+   "frame": {
+    "x": 1408,
+    "y": 3526,
+    "w": 137,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 137,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 137,
+    "h": 19
+   }
+  }
+ },
+ "meta": {
+  "image": "objects_0.png",
+  "size": {
+   "w": 4096,
+   "h": 3601
+  },
+  "scale": "1",
+  "app": "tools/art/objects_build.py"
+ }
+}

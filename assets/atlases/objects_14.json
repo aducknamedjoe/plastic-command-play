@@ -1,0 +1,153 @@
+{
+ "frames": {
+  "obj_sofa_back_1": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 1302,
+    "h": 1635
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1302,
+    "h": 1635
+   },
+   "sourceSize": {
+    "w": 1302,
+    "h": 1635
+   }
+  },
+  "obj_sofa_back_7": {
+   "frame": {
+    "x": 1304,
+    "y": 0,
+    "w": 1400,
+    "h": 1635
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1400,
+    "h": 1635
+   },
+   "sourceSize": {
+    "w": 1400,
+    "h": 1635
+   }
+  },
+  "obj_slider_door_0": {
+   "frame": {
+    "x": 2706,
+    "y": 0,
+    "w": 746,
+    "h": 1605
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 746,
+    "h": 1605
+   },
+   "sourceSize": {
+    "w": 746,
+    "h": 1605
+   }
+  },
+  "obj_slider_frame_0": {
+   "frame": {
+    "x": 0,
+    "y": 1637,
+    "w": 708,
+    "h": 1601
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 708,
+    "h": 1601
+   },
+   "sourceSize": {
+    "w": 708,
+    "h": 1601
+   }
+  },
+  "obj_slider_door_4": {
+   "frame": {
+    "x": 710,
+    "y": 1637,
+    "w": 747,
+    "h": 1598
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 747,
+    "h": 1598
+   },
+   "sourceSize": {
+    "w": 747,
+    "h": 1598
+   }
+  },
+  "obj_slider_frame_4": {
+   "frame": {
+    "x": 1459,
+    "y": 1637,
+    "w": 705,
+    "h": 1598
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 705,
+    "h": 1598
+   },
+   "sourceSize": {
+    "w": 705,
+    "h": 1598
+   }
+  },
+  "obj_sofa_back_3": {
+   "frame": {
+    "x": 2166,
+    "y": 1637,
+    "w": 1255,
+    "h": 1539
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1255,
+    "h": 1539
+   },
+   "sourceSize": {
+    "w": 1255,
+    "h": 1539
+   }
+  }
+ },
+ "meta": {
+  "image": "objects_14.png",
+  "size": {
+   "w": 4096,
+   "h": 3238
+  },
+  "scale": "1",
+  "app": "tools/art/objects_build.py"
+ }
+}
